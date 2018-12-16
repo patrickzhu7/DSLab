@@ -16,11 +16,12 @@ Our data set comes from a website called ##http://www.top8draft.com/## which use
 
 The decks from Top8Draft have a card ID (which refers to a unique card from MTG) and the frequency of the card in the specific deck.
 
-After validation, we needed to sort the decks into their respective sets. ##[We originally tried to run our models on all the decks (without separating) and our resulting LDA archetypes didn't make sense because the decks archetypes were pulling from a variety of sets instead of a single set.]## We used an open source Python API ##https://github.com/MagicTheGathering/mtg-sdk-python## to separate our drafted decks into their respective sets. For the remaining modelling/data exploration we chose to only use the "Core Set 2019" set (commonly abbreviated M19). 
+After validation, we needed to sort the decks into their respective sets. ##[We originally tried to run our models on all the decks (without separating) and our resulting LDA archetypes didn't make sense because the decks archetypes were pulling from a variety of sets instead of a single set.]## We used an open source Python API ##https://github.com/MagicTheGathering/mtg-sdk-python## to separate our drafted decks into their respective sets. For the remaining modelling/data exploration we chose to only use the "Core Set 2019" set (commonly abbreviated M19).
 
 III. Ranking Card Synergy
 
-In the hopes of exploring our dataset, we decided process the data to rank card synergies. Using the assumption that user and bot drafts were reasonable picks we were able to generate top card synergies for the M19 set. We ranked cards pairwise by how often cards appeared with other cards and then determined their ranking by the respective counts between cards. 
+In the hopes of exploring our dataset, we decided to process the data to try ranking card synergies. Using the assumption that user and bot drafts were reasonable picks we were able to generate top card synergies for the M19 set. We ranked cards pairwise by how often cards appeared with other cards and then determined their ranking by the respective counts between cards.
+We combined pairwise ratios to rank our synergies.
 
 Here are our findings:
 ## FINDINGS ##
@@ -40,15 +41,9 @@ These were some of the findings that we produced from our LDA model.
 -> do they make sense or are they garbage (will need to play around with archetype #) and why are they garbage?
 
 V. Suggesting Draft Picks
-Our first metholody for draft suggestsions was to use our archetypes result to suggest draft picks however because of limitations of simply predicting off archetypes, such as not accounting for card strength or card synergy (explicitly), we decided against it. 
+Our first methodolody for draft suggestions was to use our archetypes result to suggest draft picks however because of limitations of simply predicting off archetypes, such as not accounting for card strength or card synergy (explicitly), we decided against it.
 
-Instead, we tried using a Multi-Label Classifier using XGBoost and to predict which card to use per turn. Our features are intended to store the "state" of the current board and the player's hand. Each row will have what the player's hand currently contains (binary - either included or excluded) and which cards are available in the current pack presented. We trained our model based of draft logs available on Top8Draft's website. 
+Instead, we tried using a Multi-Label Classifier using XGBoost and to predict which card to use per turn. Our features are intended to store the "state" of the current board and the player's hand. Each row will have what the player's hand currently contains (binary - either included or excluded) and which cards are available in the current pack presented. We trained our model based of draft logs available on Top8Draft's website.
 
 These were the results of our optimized model:
 ## Do model training using a holdout set and optimize ##
-
-
-
-
-
-
