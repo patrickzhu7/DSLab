@@ -1,0 +1,54 @@
+Title: It's Magic
+
+I. Background
+This project was built by Danny Vo, Troy Stidd, Patrick Zhu, Aaron Li, and Samuel Zhang. The code for our project can be found in this ##repo##. For our project, we chose to look for problems in the domain of Magic the Gathering (MTG) because our group has some domain knowledge and the possibility to combine our hobbies with a data exploration problem/optimization problem
+
+Context: You can learn more formally about the Booster Draft format in MTG at this ##link#. A quick overview, a booster pack for MTG has 15 unique cards. During Booster Draft, there are 3 booster packs per player. Each player will open their first pack and pick one card. Then they will pass the rest of the pack to the next player and pick another card. This goes on until all cards have been picked, the remaining packs will be opened upon depleting the original 15 from the previous pack. Players will end the draft with 45 cards which they will use to form their tournament deck.
+
+Also an important note for later is that booster packs come from specific sets of cards. Some examples sets are "Ultimate Masters", "Core Set 2019", etc. There are pools of cards that booster packs may contain. So in a typical Booster Draft drafting phase, all three packs will come from the same set.
+
+##Goal: Our goal is to train a model/algorithm to draft for the Booster Draft format in MTG.##
+
+II. Data
+Our data set comes from a website called ##http://www.top8draft.com/## which uses machine learning to grade simulated drafts. We reached out to the owner of the site who graciously gave us data for 280,421 simulated decks to use for our model building. A sample deck (in JSON form) is attached below for context:
+
+## IMAGE ##
+
+The decks from Top8Draft have a card ID (which refers to a unique card from MTG) and the frequency of the card in the specific deck.
+
+After validation, we needed to sort the decks into their respective sets. ##[We originally tried to run our models on all the decks (without separating) and our resulting LDA archetypes didn't make sense because the decks archetypes were pulling from a variety of sets instead of a single set.]## We used an open source Python API ##https://github.com/MagicTheGathering/mtg-sdk-python## to separate our drafted decks into their respective sets. For the remaining modelling/data exploration we chose to only use the "Core Set 2019" set (commonly abbreviated M19). 
+
+III. Ranking Card Synergy
+
+In the hopes of exploring our dataset, we decided process the data to rank card synergies. Using the assumption that user and bot drafts were reasonable picks we were able to generate top card synergies for the M19 set. We ranked cards pairwise by how often cards appeared with other cards and then determined their ranking by the respective counts between cards. 
+
+Here are our findings:
+## FINDINGS ##
+-> do the synergies make sense or are they garbage
+
+IV. LDA
+Methodology: We will be using a Latent Dirichlet Allocation (LDA) model to generate "archetypes" for the M19 set. We hope that this will generate characteristic decks that match common drafting strategies and possibly reveal some "hidden" insight about drafting.
+
+## INSERT BRIEF EXPLANATION OF LDA ##
+https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+For our purposes, we treated decks as "documents" and the cards themselves as "words" in hopes of finding our "topics," which we called archetypes. We used gensim, a topic modeling library, to create our LDA model. We set our alpha to ## ## and beta to ## ## for the Dirichlet parameters. For each set we tweaked the number of archetypes we wanted to generate and ended up with around ##10-15## archetypes per set.
+
+These were some of the findings that we produced from our LDA model.
+## FINDINGS ##
+-> do they make sense or are they garbage (will need to play around with archetype #) and why are they garbage?
+
+V. Suggesting Draft Picks
+Our first metholody for draft suggestsions was to use our archetypes result to suggest draft picks however because of limitations of simply predicting off archetypes, such as not accounting for card strength or card synergy (explicitly), we decided against it. 
+
+Instead, we tried using a Multi-Label Classifier using XGBoost and to predict which card to use per turn. Our features are intended to store the "state" of the current board and the player's hand. Each row will have what the player's hand currently contains (binary - either included or excluded) and which cards are available in the current pack presented. We trained our model based of draft logs available on Top8Draft's website. 
+
+These were the results of our optimized model:
+## Do model training using a holdout set and optimize ##
+
+
+
+
+
+
