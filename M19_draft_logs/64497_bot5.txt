@@ -1,0 +1,467 @@
+Event #: 64497
+Time:    16/11/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+--> bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Runic Armasaur
+--> Lightning Strike
+    Aether Tunnel
+    Siegebreaker Giant
+    Giant Spider
+    Crash Through
+    Abnormal Endurance
+    Anticipate
+    Mighty Leap
+    Root Snare
+    Catalyst Elemental
+    Pegasus Courser
+    Elvish Rejuvenator
+    Infectious Horror
+    Thornhide Wolves
+
+Pack 1 pick 2:
+    Satyr Enchanter
+    Colossal Majesty
+    Nightmare's Thirst
+    Rhox Oracle
+    Goblin Instigator
+    Strangling Spores
+    Anticipate
+    Star-Crowned Stag
+    Root Snare
+    Cancel
+    Aven Wind Mage
+    Gearsmith Guardian
+--> Boggart Brute
+    Plains
+
+Pack 1 pick 3:
+    Dragon's Hoard
+    Fell Specter
+    Skilled Animator
+    Daggerback Basilisk
+    Sure Strike
+    Sovereign's Bite
+    Ghostform
+    Skyscanner
+    Cavalry Drillmaster
+    Invoke the Divine
+--> Druid of the Cowl
+    Revitalize
+    Island
+
+Pack 1 pick 4:
+--> Dryad Greenseeker
+    Militia Bugler
+    Daggerback Basilisk
+    Goblin Motivator
+    Skymarch Bloodletter
+    Aven Wind Mage
+    Pegasus Courser
+    Loxodon Line Breaker
+    Talons of Wildwood
+    Elvish Rejuvenator
+    Colossal Dreadmaw
+    Manalith
+
+Pack 1 pick 5:
+    Doublecast
+--> Brawl-Bash Ogre
+    Naturalize
+    Sure Strike
+    Strangling Spores
+    Snapping Drake
+    Daybreak Chaplain
+    Scholar of Stars
+    Gearsmith Guardian
+    Uncomfortable Chill
+    Crash Through
+
+Pack 1 pick 6:
+    Nightmare's Thirst
+    Psychic Corrosion
+--> Bristling Boar
+    Tormenting Voice
+    Infernal Scarring
+    Totally Lost
+    Dwarven Priest
+    Vampire Neonate
+    Snapping Drake
+    Island
+
+Pack 1 pick 7:
+    Psychic Corrosion
+--> Rabid Bite
+    Epicure of Blood
+    Aviation Pioneer
+    Disperse
+    Daggerback Basilisk
+    Elvish Rejuvenator
+    Talons of Wildwood
+    Foul Orchard
+
+Pack 1 pick 8:
+    Colossal Majesty
+    Wall of Vines
+    Vampire Neonate
+    Cancel
+    Explosive Apparatus
+--> Centaur Courser
+    Divination
+    Plains
+
+Pack 1 pick 9:
+    Aether Tunnel
+--> Giant Spider
+    Abnormal Endurance
+    Anticipate
+    Root Snare
+    Infectious Horror
+    Thornhide Wolves
+
+Pack 1 pick 10:
+    Nightmare's Thirst
+--> Rhox Oracle
+    Anticipate
+    Root Snare
+    Cancel
+    Plains
+
+Pack 1 pick 11:
+--> Sure Strike
+    Sovereign's Bite
+    Ghostform
+    Revitalize
+    Island
+
+Pack 1 pick 12:
+    Loxodon Line Breaker
+    Talons of Wildwood
+--> Elvish Rejuvenator
+    Colossal Dreadmaw
+
+Pack 1 pick 13:
+--> Naturalize
+    Snapping Drake
+    Uncomfortable Chill
+
+Pack 1 pick 14:
+--> Totally Lost
+    Island
+
+Pack 1 pick 15:
+--> Foul Orchard
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Amulet of Safekeeping
+--> Volcanic Dragon
+    Militia Bugler
+    Aegis of the Heavens
+    Titanic Growth
+    Trumpet Blast
+    Epicure of Blood
+    Ghostform
+    Cavalry Drillmaster
+    Bristling Boar
+    Wall of Vines
+    Take Vengeance
+    Knight of the Tusk
+    Luminous Bonds
+    Island
+
+Pack 2 pick 2:
+    Sai, Master Thopterist
+    Siegebreaker Giant
+    Leonin Vanguard
+    Vine Mare
+    Elvish Rejuvenator
+    Smelt
+    Aviation Pioneer
+    Knight of the Tusk
+    Epicure of Blood
+--> Shock
+    Skeleton Archer
+    Frilled Sea Serpent
+    Skymarch Bloodletter
+    Island
+
+Pack 2 pick 3:
+--> Thorn Lieutenant
+    Fountain of Renewal
+    Shield Mare
+    Skyrider Patrol
+    Elvish Rejuvenator
+    Fire Elemental
+    Uncomfortable Chill
+    Inspired Charge
+    Infectious Horror
+    Wall of Mist
+    Trumpet Blast
+    Onakke Ogre
+    Blood Divination
+
+Pack 2 pick 4:
+    Ajani's Pridemate
+--> Ghastbark Twins
+    Giant Spider
+    Lava Axe
+    Infectious Horror
+    Invoke the Divine
+    Salvager of Secrets
+    Snapping Drake
+    Hired Blade
+    Take Vengeance
+    Marauder's Axe
+    Swamp
+
+Pack 2 pick 5:
+    Declare Dominance
+    Thornhide Wolves
+    Bogstomper
+    Tolarian Scholar
+    Knight of the Tusk
+    Plummet
+    Fire Elemental
+    Hired Blade
+    Titanic Growth
+--> Rabid Bite
+    Woodland Stream
+
+Pack 2 pick 6:
+--> Ghirapur Guide
+    Titanic Growth
+    Abnormal Endurance
+    Salvager of Secrets
+    Uncomfortable Chill
+    Trumpet Blast
+    Walking Corpse
+    Trusty Packbeast
+    Epicure of Blood
+    Woodland Stream
+
+Pack 2 pick 7:
+    Nightmare's Thirst
+    Talons of Wildwood
+    Act of Treason
+    Infectious Horror
+    Pegasus Courser
+    Fire Elemental
+    Gallant Cavalry
+    Greenwood Sentinel
+--> Inferno Hellion
+
+Pack 2 pick 8:
+    One with the Machine
+    Psychic Corrosion
+    Diregraf Ghoul
+    Mind Rot
+    Scholar of Stars
+--> Oakenform
+    Field Creeper
+    Totally Lost
+
+Pack 2 pick 9:
+    Amulet of Safekeeping
+    Aegis of the Heavens
+--> Titanic Growth
+    Ghostform
+    Wall of Vines
+    Knight of the Tusk
+    Island
+
+Pack 2 pick 10:
+--> Elvish Rejuvenator
+    Smelt
+    Epicure of Blood
+    Skeleton Archer
+    Frilled Sea Serpent
+    Island
+
+Pack 2 pick 11:
+    Skyrider Patrol
+    Fire Elemental
+    Uncomfortable Chill
+    Infectious Horror
+--> Trumpet Blast
+
+Pack 2 pick 12:
+    Infectious Horror
+    Invoke the Divine
+--> Marauder's Axe
+    Swamp
+
+Pack 2 pick 13:
+    Knight of the Tusk
+--> Plummet
+    Woodland Stream
+
+Pack 2 pick 14:
+    Walking Corpse
+--> Woodland Stream
+
+Pack 2 pick 15:
+--> Infectious Horror
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Mystic Archaeologist
+--> Thud
+    Horizon Scholar
+    Knightly Valor
+    Wall of Vines
+    Fire Elemental
+    Duress
+    Omenspeaker
+    Oreskos Swiftclaw
+    Angel of the Dawn
+    Invoke the Divine
+    Abnormal Endurance
+    Knight's Pledge
+    Inspired Charge
+    Island
+
+Pack 3 pick 2:
+--> Arcades, the Strategist
+    Fell Specter
+    Ajani's Welcome
+    Bone to Ash
+    Greenwood Sentinel
+    Lava Axe
+    Skeleton Archer
+    Scholar of Stars
+    Gearsmith Prodigy
+    Highland Game
+    Plummet
+    Macabre Waltz
+    Two-Headed Zombie
+    Ajani's Welcome
+
+Pack 3 pick 3:
+    Open the Graves
+    Rise from the Grave
+--> Dragon Egg
+    Bristling Boar
+    Goblin Instigator
+    Child of Night
+    Gearsmith Prodigy
+    Wall of Mist
+    Cancel
+    Take Vengeance
+    Macabre Waltz
+    Greenwood Sentinel
+    Swamp
+
+Pack 3 pick 4:
+    Tectonic Rift
+    Psychic Symbiont
+    Plague Mare
+    Talons of Wildwood
+    Lava Axe
+    Epicure of Blood
+    Wall of Mist
+    Loxodon Line Breaker
+    Marauder's Axe
+    Walking Corpse
+--> Daggerback Basilisk
+    Satyr Enchanter
+
+Pack 3 pick 5:
+    Recollect
+    Rogue's Gloves
+    Highland Game
+    Lava Axe
+    Vampire Neonate
+    Tolarian Scholar
+    Cavalry Drillmaster
+--> Goblin Instigator
+    Bristling Boar
+    Disperse
+    Oakenform
+
+Pack 3 pick 6:
+    Liliana's Contract
+    Ajani's Welcome
+    Poison-Tip Archer
+    Centaur Courser
+    Crash Through
+    Child of Night
+    Tormenting Voice
+--> Rabid Bite
+    Anticipate
+    Forest
+
+Pack 3 pick 7:
+    Thornhide Wolves
+--> Goblin Motivator
+    Frilled Sea Serpent
+    Revitalize
+    Totally Lost
+    Oakenform
+    Abnormal Endurance
+    Knight of the Tusk
+    Swamp
+
+Pack 3 pick 8:
+    Aether Tunnel
+--> Bristling Boar
+    Act of Treason
+    Duress
+    Gearsmith Prodigy
+    Tormenting Voice
+    Trusty Packbeast
+    Plains
+
+Pack 3 pick 9:
+--> Wall of Vines
+    Duress
+    Invoke the Divine
+    Abnormal Endurance
+    Knight's Pledge
+    Inspired Charge
+    Island
+
+Pack 3 pick 10:
+    Gearsmith Prodigy
+    Highland Game
+--> Plummet
+    Macabre Waltz
+    Two-Headed Zombie
+    Ajani's Welcome
+
+Pack 3 pick 11:
+    Child of Night
+    Gearsmith Prodigy
+    Macabre Waltz
+--> Greenwood Sentinel
+    Swamp
+
+Pack 3 pick 12:
+    Tectonic Rift
+    Epicure of Blood
+    Walking Corpse
+--> Satyr Enchanter
+
+Pack 3 pick 13:
+--> Recollect
+    Highland Game
+    Oakenform
+
+Pack 3 pick 14:
+--> Poison-Tip Archer
+    Forest
+
+Pack 3 pick 15:
+--> Swamp

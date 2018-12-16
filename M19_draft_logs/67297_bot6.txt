@@ -1,0 +1,467 @@
+Event #: 67297
+Time:    23/11/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+--> bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Spit Flame
+    Arcane Encyclopedia
+    Blanchwood Armor
+    Volley Veteran
+    Giant Spider
+    Shock
+    Hired Blade
+    Aven Wind Mage
+    Gallant Cavalry
+    Cavalry Drillmaster
+    Star-Crowned Stag
+    Colossal Dreadmaw
+    Hostile Minotaur
+    Elvish Rejuvenator
+    Foul Orchard
+
+Pack 1 pick 2:
+--> Dark-Dweller Oracle
+    Inferno Hellion
+    Ravenous Harpy
+    Aether Tunnel
+    Oakenform
+    Skeleton Archer
+    Dwindle
+    Cavalry Drillmaster
+    Goblin Instigator
+    Mind Rot
+    Rhox Oracle
+    Gallant Cavalry
+    Revitalize
+    Plains
+
+Pack 1 pick 3:
+--> Dragon Egg
+    Brawl-Bash Ogre
+    Talons of Wildwood
+    Catalyst Elemental
+    Walking Corpse
+    Frilled Sea Serpent
+    Cavalry Drillmaster
+    Plummet
+    Infectious Horror
+    Wall of Vines
+    Pegasus Courser
+    Fire Elemental
+    Stone Quarry
+
+Pack 1 pick 4:
+    Ghastbark Twins
+    Diregraf Ghoul
+    Highland Game
+--> Fire Elemental
+    Duress
+    Snapping Drake
+    Invoke the Divine
+    Knight of the Tusk
+    Explosive Apparatus
+    Scholar of Stars
+    Oreskos Swiftclaw
+    Submerged Boneyard
+
+Pack 1 pick 5:
+    Switcheroo
+    Highland Game
+--> Trumpet Blast
+    Walking Corpse
+    Ghostform
+    Trusty Packbeast
+    Cancel
+    Talons of Wildwood
+    Loxodon Line Breaker
+    Disperse
+    Swamp
+
+Pack 1 pick 6:
+    Aegis of the Heavens
+    Thornhide Wolves
+--> Onakke Ogre
+    Sovereign's Bite
+    Uncomfortable Chill
+    Cavalry Drillmaster
+    Plummet
+    Take Vengeance
+    Rhox Oracle
+    Psychic Corrosion
+
+Pack 1 pick 7:
+    Diamond Mare
+    Titanic Growth
+--> Lava Axe
+    Two-Headed Zombie
+    Plummet
+    Infernal Scarring
+    Mind Rot
+    Invoke the Divine
+    Highland Game
+
+Pack 1 pick 8:
+    Skyrider Patrol
+--> Sure Strike
+    Skymarch Bloodletter
+    Disperse
+    Trusty Packbeast
+    Abnormal Endurance
+    Daggerback Basilisk
+    Doomed Dissenter
+
+Pack 1 pick 9:
+    Blanchwood Armor
+    Giant Spider
+    Hired Blade
+    Colossal Dreadmaw
+--> Hostile Minotaur
+    Elvish Rejuvenator
+    Foul Orchard
+
+Pack 1 pick 10:
+    Oakenform
+--> Skeleton Archer
+    Mind Rot
+    Rhox Oracle
+    Revitalize
+    Plains
+
+Pack 1 pick 11:
+    Walking Corpse
+    Plummet
+    Infectious Horror
+    Wall of Vines
+--> Fire Elemental
+
+Pack 1 pick 12:
+--> Diregraf Ghoul
+    Highland Game
+    Duress
+    Knight of the Tusk
+
+Pack 1 pick 13:
+    Highland Game
+--> Walking Corpse
+    Swamp
+
+Pack 1 pick 14:
+--> Sovereign's Bite
+    Plummet
+
+Pack 1 pick 15:
+--> Infernal Scarring
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Scapeshift
+    Skilled Animator
+    Gift of Paradise
+    Ajani's Welcome
+    Plummet
+    Catalyst Elemental
+--> Skymarch Bloodletter
+    Divination
+    Oreskos Swiftclaw
+    Giant Spider
+    Pegasus Courser
+    Skeleton Archer
+    Gallant Cavalry
+    Angel of the Dawn
+    Scholar of Stars
+
+Pack 2 pick 2:
+    Lena, Selfless Champion
+    Reassembling Skeleton
+    Poison-Tip Archer
+    Ghastbark Twins
+    Act of Treason
+    Strangling Spores
+    Omenspeaker
+    Knight's Pledge
+    Uncomfortable Chill
+--> Lich's Caress
+    Fire Elemental
+    Scholar of Stars
+    Catalyst Elemental
+    Highland Lake
+
+Pack 2 pick 3:
+    Crucible of Worlds
+    Doublecast
+    Poison-Tip Archer
+    Colossal Dreadmaw
+    Crash Through
+--> Child of Night
+    Gearsmith Prodigy
+    Mighty Leap
+    Explosive Apparatus
+    Thornhide Wolves
+    Inspired Charge
+    Cavalry Drillmaster
+    Forest
+
+Pack 2 pick 4:
+    Mystic Archaeologist
+--> Lightning Mare
+    Gargoyle Sentinel
+    Root Snare
+    Sure Strike
+    Two-Headed Zombie
+    Uncomfortable Chill
+    Knight's Pledge
+    Cancel
+    Field Creeper
+    Infernal Scarring
+    Highland Lake
+
+Pack 2 pick 5:
+    Psychic Corrosion
+    Surge Mare
+    Trumpet Blast
+--> Vampire Neonate
+    Disperse
+    Dwarven Priest
+    Uncomfortable Chill
+    Manalith
+    Trusty Packbeast
+    Child of Night
+    Rhox Oracle
+
+Pack 2 pick 6:
+    Stitcher's Supplier
+--> Tormenting Voice
+    Infernal Scarring
+    Wall of Mist
+    Rustwing Falcon
+    Greenwood Sentinel
+    Infectious Horror
+    Oakenform
+    Hired Blade
+    Plains
+
+Pack 2 pick 7:
+    Nightmare's Thirst
+    Colossal Dreadmaw
+--> Skeleton Archer
+    Totally Lost
+    Daybreak Chaplain
+    Duress
+    Frilled Sea Serpent
+    Naturalize
+    Mountain
+
+Pack 2 pick 8:
+    Regal Bloodlord
+    Fountain of Renewal
+    Smelt
+    Bogstomper
+    Daybreak Chaplain
+--> Skeleton Archer
+    Revitalize
+    Woodland Stream
+
+Pack 2 pick 9:
+    Scapeshift
+    Skilled Animator
+    Gift of Paradise
+    Plummet
+--> Divination
+    Oreskos Swiftclaw
+    Scholar of Stars
+
+Pack 2 pick 10:
+    Poison-Tip Archer
+--> Strangling Spores
+    Uncomfortable Chill
+    Fire Elemental
+    Scholar of Stars
+    Highland Lake
+
+Pack 2 pick 11:
+--> Crucible of Worlds
+    Gearsmith Prodigy
+    Mighty Leap
+    Thornhide Wolves
+    Forest
+
+Pack 2 pick 12:
+--> Two-Headed Zombie
+    Uncomfortable Chill
+    Infernal Scarring
+    Highland Lake
+
+Pack 2 pick 13:
+    Uncomfortable Chill
+    Trusty Packbeast
+--> Child of Night
+
+Pack 2 pick 14:
+--> Stitcher's Supplier
+    Plains
+
+Pack 2 pick 15:
+--> Mountain
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Liliana's Contract
+    Blood Divination
+    Druid of Horns
+    Departed Deckhand
+    Talons of Wildwood
+    Catalyst Elemental
+    Infernal Scarring
+    Aven Wind Mage
+    Revitalize
+    Gearsmith Guardian
+    Knight's Pledge
+    Fire Elemental
+--> Electrify
+    Bogstomper
+    Forest
+
+Pack 3 pick 2:
+    Cleansing Nova
+    Shield Mare
+    Stitcher's Supplier
+--> Fell Specter
+    Daggerback Basilisk
+    Act of Treason
+    Vampire Neonate
+    Dwindle
+    Luminous Bonds
+    Scholar of Stars
+    Cavalry Drillmaster
+    Skymarch Bloodletter
+    Rustwing Falcon
+    Tranquil Expanse
+
+Pack 3 pick 3:
+--> Pelakka Wurm
+    Millstone
+    Aerial Engineer
+    Titanic Growth
+    Sure Strike
+    Snapping Drake
+    Rustwing Falcon
+    Mighty Leap
+    Pegasus Courser
+    Bogstomper
+    Thornhide Wolves
+    Daggerback Basilisk
+    Island
+
+Pack 3 pick 4:
+    Mirror Image
+    Militia Bugler
+    Daggerback Basilisk
+    Lava Axe
+    Epicure of Blood
+    Divination
+    Gallant Cavalry
+    Centaur Courser
+    Rabid Bite
+    Rustwing Falcon
+--> Act of Treason
+    Recollect
+
+Pack 3 pick 5:
+    Fraying Omnipotence
+    Suspicious Bookcase
+    Rhox Oracle
+    Tormenting Voice
+    Macabre Waltz
+    Anticipate
+    Loxodon Line Breaker
+    Snapping Drake
+    Onakke Ogre
+--> Marauder's Axe
+    Forest
+
+Pack 3 pick 6:
+    One with the Machine
+    Druid of Horns
+    Giant Spider
+--> Havoc Devils
+    Bogstomper
+    Totally Lost
+    Scholar of Stars
+    Dwarven Priest
+    Manalith
+    Mountain
+
+Pack 3 pick 7:
+    Crucible of Worlds
+    Reliquary Tower
+    Bristling Boar
+--> Epicure of Blood
+    Scholar of Stars
+    Knight's Pledge
+    Fire Elemental
+    Child of Night
+    Mountain
+
+Pack 3 pick 8:
+--> Brawl-Bash Ogre
+    Siegebreaker Giant
+    Catalyst Elemental
+    Mind Rot
+    Infernal Scarring
+    Oakenform
+    Tolarian Scholar
+    Highland Game
+
+Pack 3 pick 9:
+--> Blood Divination
+    Talons of Wildwood
+    Infernal Scarring
+    Gearsmith Guardian
+    Fire Elemental
+    Bogstomper
+    Forest
+
+Pack 3 pick 10:
+    Stitcher's Supplier
+--> Vampire Neonate
+    Scholar of Stars
+    Cavalry Drillmaster
+    Rustwing Falcon
+    Tranquil Expanse
+
+Pack 3 pick 11:
+    Millstone
+    Mighty Leap
+--> Bogstomper
+    Thornhide Wolves
+    Island
+
+Pack 3 pick 12:
+--> Epicure of Blood
+    Centaur Courser
+    Rustwing Falcon
+    Recollect
+
+Pack 3 pick 13:
+    Fraying Omnipotence
+--> Onakke Ogre
+    Forest
+
+Pack 3 pick 14:
+--> Totally Lost
+    Mountain
+
+Pack 3 pick 15:
+--> Mountain

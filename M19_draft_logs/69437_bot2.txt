@@ -1,0 +1,467 @@
+Event #: 69437
+Time:    29/11/18
+Players:
+    user
+    bot1
+--> bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Crucible of Worlds
+    Aether Tunnel
+    Ravenous Harpy
+    Bone to Ash
+    Rhox Oracle
+    Hostile Minotaur
+--> Lich's Caress
+    Frilled Sea Serpent
+    Gallant Cavalry
+    Mountain
+    Doomed Dissenter
+    Snapping Drake
+    Macabre Waltz
+    Fire Elemental
+    Timber Gorge
+
+Pack 1 pick 2:
+    Dark-Dweller Oracle
+--> Plague Mare
+    Ghastbark Twins
+    Druid of Horns
+    Rabid Bite
+    Act of Treason
+    Abnormal Endurance
+    Essence Scatter
+    Mighty Leap
+    Island
+    Highland Game
+    Anticipate
+    Skeleton Archer
+    Meandering River
+
+Pack 1 pick 3:
+    Sift
+    Declare Dominance
+--> Druid of the Cowl
+    Goblin Motivator
+    Bogstomper
+    Divination
+    Cavalry Drillmaster
+    Plains
+    Colossal Dreadmaw
+    Rhox Oracle
+    Talons of Wildwood
+    Bristling Boar
+    Stone Quarry
+
+Pack 1 pick 4:
+    Arcane Encyclopedia
+    Siegebreaker Giant
+--> Colossal Dreadmaw
+    Sparktongue Dragon
+    Bogstomper
+    Divination
+    Loxodon Line Breaker
+    Mountain
+    Root Snare
+    Two-Headed Zombie
+    Act of Treason
+    Dwarven Priest
+
+Pack 1 pick 5:
+    Aethershield Artificer
+    Fire Elemental
+--> Two-Headed Zombie
+    Tolarian Scholar
+    Rustwing Falcon
+    Oreskos Swiftclaw
+    Manalith
+    Forest
+    Greenwood Sentinel
+    Walking Corpse
+    Foul Orchard
+
+Pack 1 pick 6:
+    Mistcaller
+    Colossal Majesty
+    Enigma Drake
+--> Daggerback Basilisk
+    Mind Rot
+    Goblin Instigator
+    Omenspeaker
+    Forest
+    Island
+    Forsaken Sanctuary
+
+Pack 1 pick 7:
+    Fiery Finish
+    Thornhide Wolves
+    Lava Axe
+    Abnormal Endurance
+    Rustwing Falcon
+--> Two-Headed Zombie
+    Swamp
+    Swamp
+    Cinder Barrens
+
+Pack 1 pick 8:
+--> Nightmare's Thirst
+    Naturalize
+    Sure Strike
+    Infectious Horror
+    Knight of the Tusk
+    Lava Axe
+    Uncomfortable Chill
+    Infernal Scarring
+
+Pack 1 pick 9:
+    Crucible of Worlds
+    Aether Tunnel
+--> Rhox Oracle
+    Frilled Sea Serpent
+    Mountain
+    Macabre Waltz
+    Fire Elemental
+
+Pack 1 pick 10:
+--> Ghastbark Twins
+    Mighty Leap
+    Island
+    Highland Game
+    Anticipate
+    Meandering River
+
+Pack 1 pick 11:
+    Goblin Motivator
+    Plains
+--> Colossal Dreadmaw
+    Rhox Oracle
+    Bristling Boar
+
+Pack 1 pick 12:
+--> Bogstomper
+    Loxodon Line Breaker
+    Mountain
+    Root Snare
+
+Pack 1 pick 13:
+    Tolarian Scholar
+    Forest
+--> Foul Orchard
+
+Pack 1 pick 14:
+    Island
+--> Forsaken Sanctuary
+
+Pack 1 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Amulet of Safekeeping
+--> Plague Mare
+    Reassembling Skeleton
+    Suspicious Bookcase
+    Wall of Vines
+    Sure Strike
+    Infectious Horror
+    Gearsmith Prodigy
+    Daybreak Chaplain
+    Gearsmith Guardian
+    Elvish Rejuvenator
+    Trusty Packbeast
+    Island
+    Disperse
+    Foul Orchard
+
+Pack 2 pick 2:
+--> Hungering Hydra
+    Fell Specter
+    Blood Divination
+    Greenwood Sentinel
+    Lava Axe
+    Macabre Waltz
+    Ghostform
+    Star-Crowned Stag
+    Epicure of Blood
+    Plummet
+    Dwarven Priest
+    Centaur Courser
+    Salvager of Secrets
+    Tranquil Expanse
+
+Pack 2 pick 3:
+    Recollect
+    Blanchwood Armor
+    Bristling Boar
+    Onakke Ogre
+    Abnormal Endurance
+    Frilled Sea Serpent
+    Cavalry Drillmaster
+    Swamp
+--> Rabid Bite
+    Omenspeaker
+    Revitalize
+    Forest
+    Foul Orchard
+
+Pack 2 pick 4:
+--> Gigantosaurus
+    Mirror Image
+    Switcheroo
+    Wall of Vines
+    Crash Through
+    Frilled Sea Serpent
+    Lava Axe
+    Mountain
+    Trumpet Blast
+    Duress
+    Snapping Drake
+    Stone Quarry
+
+Pack 2 pick 5:
+    Phylactery Lich
+    Aethershield Artificer
+    Stitcher's Supplier
+    Viashino Pyromancer
+    Uncomfortable Chill
+    Plains
+    Greenwood Sentinel
+--> Daggerback Basilisk
+    Mountain
+    Dwarven Priest
+    Woodland Stream
+
+Pack 2 pick 6:
+--> Reclamation Sage
+    Gargoyle Sentinel
+    Giant Spider
+    Sparktongue Dragon
+    Divination
+    Take Vengeance
+    Doomed Dissenter
+    Walking Corpse
+    Oreskos Swiftclaw
+    Knight's Pledge
+
+Pack 2 pick 7:
+    Satyr Enchanter
+    Surge Mare
+    Smelt
+    Sovereign's Bite
+    Omenspeaker
+--> Mind Rot
+    Mighty Leap
+    Dwarven Priest
+    Submerged Boneyard
+
+Pack 2 pick 8:
+    Desecrated Tomb
+--> Diregraf Ghoul
+    Inspired Charge
+    Bogstomper
+    Island
+    Scholar of Stars
+    Wall of Mist
+    Forest
+
+Pack 2 pick 9:
+--> Suspicious Bookcase
+    Wall of Vines
+    Infectious Horror
+    Gearsmith Prodigy
+    Trusty Packbeast
+    Island
+    Disperse
+
+Pack 2 pick 10:
+--> Blood Divination
+    Macabre Waltz
+    Ghostform
+    Plummet
+    Salvager of Secrets
+    Tranquil Expanse
+
+Pack 2 pick 11:
+--> Recollect
+    Frilled Sea Serpent
+    Swamp
+    Revitalize
+    Forest
+
+Pack 2 pick 12:
+--> Mirror Image
+    Crash Through
+    Frilled Sea Serpent
+    Mountain
+
+Pack 2 pick 13:
+--> Stitcher's Supplier
+    Plains
+    Mountain
+
+Pack 2 pick 14:
+--> Gargoyle Sentinel
+    Walking Corpse
+
+Pack 2 pick 15:
+--> Smelt
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Phylactery Lich
+    Reassembling Skeleton
+    Departed Deckhand
+    Gargoyle Sentinel
+    Greenwood Sentinel
+    Shock
+    Skymarch Bloodletter
+    Omenspeaker
+    Invoke the Divine
+    Smelt
+    Lava Axe
+    Plains
+    Daybreak Chaplain
+--> Lich's Caress
+    Woodland Stream
+
+Pack 3 pick 2:
+--> Pelakka Wurm
+    Departed Deckhand
+    Ajani's Pridemate
+    Thornhide Wolves
+    Electrify
+    Hired Blade
+    Salvager of Secrets
+    Luminous Bonds
+    Shock
+    Knight's Pledge
+    Greenwood Sentinel
+    Rabid Bite
+    Skeleton Archer
+    Tranquil Expanse
+
+Pack 3 pick 3:
+    Ajani's Last Stand
+    Regal Bloodlord
+    Skilled Animator
+    Fire Elemental
+--> Abnormal Endurance
+    Divination
+    Knight's Pledge
+    Wall of Vines
+    Forest
+    Plains
+    Invoke the Divine
+    Catalyst Elemental
+    Highland Lake
+
+Pack 3 pick 4:
+    Tectonic Rift
+--> Poison-Tip Archer
+    Aegis of the Heavens
+    Root Snare
+    Act of Treason
+    Walking Corpse
+    Divination
+    Two-Headed Zombie
+    Vampire Neonate
+    Marauder's Axe
+    Disperse
+    Isolate
+
+Pack 3 pick 5:
+    Novice Knight
+--> Poison-Tip Archer
+    Wall of Vines
+    Havoc Devils
+    Duress
+    Uncomfortable Chill
+    Oreskos Swiftclaw
+    Revitalize
+    Skymarch Bloodletter
+    Swamp
+    Foul Orchard
+
+Pack 3 pick 6:
+    Psychic Corrosion
+--> Rise from the Grave
+    Millstone
+    Tormenting Voice
+    Two-Headed Zombie
+    Plains
+    Naturalize
+    Plummet
+    Child of Night
+    Woodland Stream
+
+Pack 3 pick 7:
+    Brawl-Bash Ogre
+    Smelt
+    Uncomfortable Chill
+    Island
+    Forest
+    Infernal Scarring
+    Mountain
+--> Explosive Apparatus
+    Meandering River
+
+Pack 3 pick 8:
+    Rupture Spire
+    Root Snare
+    Onakke Ogre
+    Macabre Waltz
+    Mind Rot
+    Oreskos Swiftclaw
+--> Titanic Growth
+    Stone Quarry
+
+Pack 3 pick 9:
+    Phylactery Lich
+--> Gargoyle Sentinel
+    Invoke the Divine
+    Smelt
+    Plains
+    Daybreak Chaplain
+    Woodland Stream
+
+Pack 3 pick 10:
+    Thornhide Wolves
+--> Hired Blade
+    Salvager of Secrets
+    Knight's Pledge
+    Greenwood Sentinel
+    Tranquil Expanse
+
+Pack 3 pick 11:
+    Fire Elemental
+--> Wall of Vines
+    Forest
+    Plains
+    Highland Lake
+
+Pack 3 pick 12:
+    Aegis of the Heavens
+    Root Snare
+--> Walking Corpse
+    Isolate
+
+Pack 3 pick 13:
+    Revitalize
+    Swamp
+--> Foul Orchard
+
+Pack 3 pick 14:
+    Plains
+--> Plummet
+
+Pack 3 pick 15:
+--> Island
