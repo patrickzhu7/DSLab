@@ -13,6 +13,7 @@ def add_draft_to_dataframe(df, draft_file, card_dict, start_index):
     output: DataFrame, note that DataFrame is not changed in place
     """
     count = 0
+    df2 = pd.DataFrame()
     current_deck = np.zeros(281)
     with open(draft_file, 'r') as f:
         if(f.readline() == '<h1>Server Error (500)</h1>'):
@@ -38,11 +39,11 @@ def add_draft_to_dataframe(df, draft_file, card_dict, start_index):
                     
                     current_board[card_id - start_index] += 1
                 row = pd.Series(np.concatenate([current_deck, current_board, current_y], axis=None))
-                df = df.append(row, ignore_index=True)
+                df2 = df2.append(row, ignore_index=True)
                 count += 1
                 current_deck[current_y-start_index] += 1
     
-    return df
+    return df.append(df2)
 
 def list_split(original_list, n_lists):
 	avg = len(original_list) / float(n_lists)
