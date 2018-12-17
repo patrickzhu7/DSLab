@@ -1,0 +1,467 @@
+Event #: 34992
+Time:    24/09/18
+Players:
+    user
+--> bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Amulet of Safekeeping
+--> Horizon Scholar
+    Shield Mare
+    Millstone
+    Plummet
+    Shock
+    Infernal Scarring
+    Dwindle
+    Mighty Leap
+    Uncomfortable Chill
+    Rhox Oracle
+    Titanic Growth
+    Druid of the Cowl
+    Trusty Packbeast
+    Swamp
+
+Pack 1 pick 2:
+    Remorseful Cleric
+    Arcane Encyclopedia
+    Heroic Reinforcements
+--> Militia Bugler
+    Giant Spider
+    Lava Axe
+    Snapping Drake
+    Cavalry Drillmaster
+    Disperse
+    Bristling Boar
+    Dwarven Priest
+    Onakke Ogre
+    Gearsmith Prodigy
+    Highland Lake
+
+Pack 1 pick 3:
+    Dryad Greenseeker
+    Suspicious Bookcase
+    Psychic Corrosion
+    Colossal Dreadmaw
+    Fire Elemental
+    Sovereign's Bite
+--> Essence Scatter
+    Dwarven Priest
+    Omenspeaker
+    Oakenform
+    Daybreak Chaplain
+    Disperse
+    Salvager of Secrets
+
+Pack 1 pick 4:
+    Magistrate's Scepter
+--> Gargoyle Sentinel
+    Fountain of Renewal
+    Act of Treason
+    Abnormal Endurance
+    Uncomfortable Chill
+    Knight's Pledge
+    Gearsmith Prodigy
+    Invoke the Divine
+    Daybreak Chaplain
+    Plummet
+    Mountain
+
+Pack 1 pick 5:
+    Blood Divination
+    Satyr Enchanter
+--> Daggerback Basilisk
+    Tormenting Voice
+    Infectious Horror
+    Totally Lost
+    Invoke the Divine
+    Trumpet Blast
+    Anticipate
+    Revitalize
+    Hired Blade
+
+Pack 1 pick 6:
+    Talons of Wildwood
+    Sure Strike
+    Sovereign's Bite
+    Cancel
+    Crash Through
+--> Centaur Courser
+    Manalith
+    Root Snare
+    Smelt
+    Daybreak Chaplain
+
+Pack 1 pick 7:
+    Fountain of Renewal
+    Druid of Horns
+    Naturalize
+    Omenspeaker
+    Inspired Charge
+    Catalyst Elemental
+    Knight of the Tusk
+    Invoke the Divine
+--> Snapping Drake
+
+Pack 1 pick 8:
+    Colossal Majesty
+    Tectonic Rift
+    Naturalize
+    Trumpet Blast
+    Duress
+    Uncomfortable Chill
+--> Invoke the Divine
+    Plains
+
+Pack 1 pick 9:
+    Amulet of Safekeeping
+    Millstone
+    Mighty Leap
+    Uncomfortable Chill
+--> Titanic Growth
+    Trusty Packbeast
+    Swamp
+
+Pack 1 pick 10:
+--> Arcane Encyclopedia
+    Lava Axe
+    Disperse
+    Dwarven Priest
+    Gearsmith Prodigy
+    Highland Lake
+
+Pack 1 pick 11:
+    Psychic Corrosion
+    Fire Elemental
+--> Omenspeaker
+    Oakenform
+    Disperse
+
+Pack 1 pick 12:
+--> Magistrate's Scepter
+    Knight's Pledge
+    Gearsmith Prodigy
+    Mountain
+
+Pack 1 pick 13:
+--> Tormenting Voice
+    Infectious Horror
+    Trumpet Blast
+
+Pack 1 pick 14:
+--> Crash Through
+    Root Snare
+
+Pack 1 pick 15:
+--> Knight of the Tusk
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Desecrated Tomb
+    Tectonic Rift
+    Herald of Faith
+    Plague Mare
+    Giant Spider
+    Sparktongue Dragon
+    Epicure of Blood
+    Tolarian Scholar
+    Gallant Cavalry
+    Tormenting Voice
+--> Aven Wind Mage
+    Trusty Packbeast
+    Field Creeper
+    Bogstomper
+    Island
+
+Pack 2 pick 2:
+--> Dark-Dweller Oracle
+    Meteor Golem
+    Knightly Valor
+    Colossal Dreadmaw
+    Goblin Instigator
+    Lich's Caress
+    Scholar of Stars
+    Pegasus Courser
+    Daggerback Basilisk
+    Sure Strike
+    Aviation Pioneer
+    Strangling Spores
+    Trusty Packbeast
+    Divination
+
+Pack 2 pick 3:
+--> Spit Flame
+    Make a Stand
+    Rise from the Grave
+    Highland Game
+    Sure Strike
+    Strangling Spores
+    Cavalry Drillmaster
+    Goblin Motivator
+    Cancel
+    Epicure of Blood
+    Wall of Mist
+    Trusty Packbeast
+    Cinder Barrens
+
+Pack 2 pick 4:
+    Chaos Wand
+    Inferno Hellion
+    Surge Mare
+--> Druid of the Cowl
+    Viashino Pyromancer
+    Vampire Neonate
+    Uncomfortable Chill
+    Trusty Packbeast
+    Giant Spider
+    Frilled Sea Serpent
+    Disperse
+    Island
+
+Pack 2 pick 5:
+    Isolate
+    Brawl-Bash Ogre
+    Tormenting Voice
+    Two-Headed Zombie
+    Scholar of Stars
+    Rustwing Falcon
+    Gallant Cavalry
+    Gearsmith Prodigy
+--> Explosive Apparatus
+    Sure Strike
+    Foul Orchard
+
+Pack 2 pick 6:
+--> Volley Veteran
+    Poison-Tip Archer
+    Catalyst Elemental
+    Walking Corpse
+    Scholar of Stars
+    Loxodon Line Breaker
+    Frilled Sea Serpent
+    Oreskos Swiftclaw
+    Knight of the Tusk
+    Highland Lake
+
+Pack 2 pick 7:
+    Suncleanser
+    Nightmare's Thirst
+    Colossal Dreadmaw
+    Bogstomper
+    Salvager of Secrets
+--> Havoc Devils
+    Crash Through
+    Abnormal Endurance
+    Island
+
+Pack 2 pick 8:
+    Thud
+    Doublecast
+--> Centaur Courser
+    Skymarch Bloodletter
+    Anticipate
+    Rustwing Falcon
+    Duress
+    Forest
+
+Pack 2 pick 9:
+    Desecrated Tomb
+    Tectonic Rift
+--> Epicure of Blood
+    Tolarian Scholar
+    Tormenting Voice
+    Bogstomper
+    Island
+
+Pack 2 pick 10:
+--> Meteor Golem
+    Goblin Instigator
+    Scholar of Stars
+    Sure Strike
+    Aviation Pioneer
+    Trusty Packbeast
+
+Pack 2 pick 11:
+--> Sure Strike
+    Goblin Motivator
+    Wall of Mist
+    Trusty Packbeast
+    Cinder Barrens
+
+Pack 2 pick 12:
+    Vampire Neonate
+--> Frilled Sea Serpent
+    Disperse
+    Island
+
+Pack 2 pick 13:
+    Tormenting Voice
+    Gearsmith Prodigy
+--> Sure Strike
+
+Pack 2 pick 14:
+    Catalyst Elemental
+--> Highland Lake
+
+Pack 2 pick 15:
+--> Island
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+--> Tezzeret, Artifice Master
+    Ajani's Welcome
+    Declare Dominance
+    Tectonic Rift
+    Giant Spider
+    Goblin Instigator
+    Skeleton Archer
+    Essence Scatter
+    Knight of the Tusk
+    Doomed Dissenter
+    Mind Rot
+    Act of Treason
+    Revitalize
+    Bristling Boar
+    Forest
+
+Pack 3 pick 2:
+    Remorseful Cleric
+    Recollect
+    Psychic Symbiont
+    Talons of Wildwood
+--> Viashino Pyromancer
+    Macabre Waltz
+    Salvager of Secrets
+    Mighty Leap
+    Wall of Vines
+    Centaur Courser
+    Rhox Oracle
+    Inspired Charge
+    Field Creeper
+    Island
+
+Pack 3 pick 3:
+--> Goblin Trashmaster
+    Heroic Reinforcements
+    Blood Divination
+    Rhox Oracle
+    Onakke Ogre
+    Macabre Waltz
+    Snapping Drake
+    Catalyst Elemental
+    Sure Strike
+    Colossal Dreadmaw
+    Tormenting Voice
+    Mighty Leap
+    Woodland Stream
+
+Pack 3 pick 4:
+    Draconic Disciple
+    Blanchwood Armor
+    Highland Game
+    Tormenting Voice
+    Abnormal Endurance
+    Divination
+    Mighty Leap
+    Viashino Pyromancer
+    Salvager of Secrets
+    Aviation Pioneer
+--> Boggart Brute
+    Swamp
+
+Pack 3 pick 5:
+    Stitcher's Supplier
+    Lightning Mare
+    Titanic Growth
+    Macabre Waltz
+    Salvager of Secrets
+    Rustwing Falcon
+    Gearsmith Prodigy
+    Marauder's Axe
+    Colossal Dreadmaw
+--> Goblin Instigator
+    Mountain
+
+Pack 3 pick 6:
+    Crucible of Worlds
+    Tectonic Rift
+    Naturalize
+    Frilled Sea Serpent
+    Trumpet Blast
+--> Gearsmith Guardian
+    Knight of the Tusk
+    Epicure of Blood
+    Uncomfortable Chill
+    Stitcher's Supplier
+
+Pack 3 pick 7:
+    Metamorphic Alteration
+    Recollect
+    Rise from the Grave
+    Hired Blade
+    Revitalize
+--> Omenspeaker
+    Colossal Dreadmaw
+    Mighty Leap
+    Forest
+
+Pack 3 pick 8:
+    Recollect
+    Novice Knight
+    Oakenform
+    Wall of Vines
+    Duress
+    Gearsmith Guardian
+--> Hostile Minotaur
+    Swamp
+
+Pack 3 pick 9:
+    Ajani's Welcome
+    Tectonic Rift
+--> Giant Spider
+    Knight of the Tusk
+    Mind Rot
+    Revitalize
+    Forest
+
+Pack 3 pick 10:
+    Recollect
+    Psychic Symbiont
+    Talons of Wildwood
+    Wall of Vines
+--> Centaur Courser
+    Island
+
+Pack 3 pick 11:
+    Blood Divination
+    Catalyst Elemental
+--> Sure Strike
+    Tormenting Voice
+    Woodland Stream
+
+Pack 3 pick 12:
+    Highland Game
+    Abnormal Endurance
+--> Salvager of Secrets
+    Swamp
+
+Pack 3 pick 13:
+    Macabre Waltz
+--> Gearsmith Prodigy
+    Mountain
+
+Pack 3 pick 14:
+    Tectonic Rift
+--> Frilled Sea Serpent
+
+Pack 3 pick 15:
+--> Forest

@@ -1,0 +1,467 @@
+Event #: 44571
+Time:    14/10/18
+Players:
+    user
+    bot1
+    bot2
+--> bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Sarkhan, Fireblood
+    Aegis of the Heavens
+    Fiery Finish
+    Volcanic Dragon
+    Bristling Boar
+    Trumpet Blast
+    Strangling Spores
+    Cancel
+    Knight's Pledge
+    Aviation Pioneer
+    Hostile Minotaur
+    Cavalry Drillmaster
+    Greenwood Sentinel
+    Crash Through
+    Cinder Barrens
+
+Pack 1 pick 2:
+    Suncleanser
+    Switcheroo
+    Bone to Ash
+    Centaur Courser
+    Goblin Motivator
+    Child of Night
+    Essence Scatter
+    Loxodon Line Breaker
+    Wall of Mist
+    Salvager of Secrets
+    Cavalry Drillmaster
+    Colossal Dreadmaw
+    Aviation Pioneer
+--> Star-Crowned Stag
+
+Pack 1 pick 3:
+    Psychic Symbiont
+    Mirror Image
+    Recollect
+    Highland Game
+    Fire Elemental
+    Duress
+    Tolarian Scholar
+--> Star-Crowned Stag
+    Skymarch Bloodletter
+    Elvish Rejuvenator
+    Snapping Drake
+    Vampire Neonate
+    Swamp
+
+Pack 1 pick 4:
+    Dragon's Hoard
+    Colossal Majesty
+    Novice Knight
+    Rabid Bite
+    Infectious Horror
+    Scholar of Stars
+--> Pegasus Courser
+    Rhox Oracle
+    Havoc Devils
+    Goblin Instigator
+    Manalith
+    Stone Quarry
+
+Pack 1 pick 5:
+    Blood Divination
+--> Suspicious Bookcase
+    Giant Spider
+    Crash Through
+    Walking Corpse
+    Trusty Packbeast
+    Omenspeaker
+    Knight of the Tusk
+    Greenwood Sentinel
+    Two-Headed Zombie
+    Explosive Apparatus
+
+Pack 1 pick 6:
+    Inferno Hellion
+--> Gargoyle Sentinel
+    Satyr Enchanter
+    Rhox Oracle
+    Onakke Ogre
+    Walking Corpse
+    Disperse
+    Rustwing Falcon
+    Naturalize
+    Forest
+
+Pack 1 pick 7:
+    One with the Machine
+    Oakenform
+    Bogstomper
+    Tolarian Scholar
+    Fire Elemental
+    Centaur Courser
+    Knight of the Tusk
+--> Daybreak Chaplain
+    Timber Gorge
+
+Pack 1 pick 8:
+    Naturalize
+    Lava Axe
+    Tolarian Scholar
+    Invoke the Divine
+    Anticipate
+    Wall of Vines
+--> Oreskos Swiftclaw
+    Island
+
+Pack 1 pick 9:
+--> Fiery Finish
+    Trumpet Blast
+    Cancel
+    Knight's Pledge
+    Greenwood Sentinel
+    Crash Through
+    Cinder Barrens
+
+Pack 1 pick 10:
+    Switcheroo
+--> Bone to Ash
+    Goblin Motivator
+    Loxodon Line Breaker
+    Wall of Mist
+    Salvager of Secrets
+
+Pack 1 pick 11:
+--> Psychic Symbiont
+    Highland Game
+    Fire Elemental
+    Tolarian Scholar
+    Swamp
+
+Pack 1 pick 12:
+    Colossal Majesty
+    Rhox Oracle
+--> Manalith
+    Stone Quarry
+
+Pack 1 pick 13:
+    Walking Corpse
+--> Trusty Packbeast
+    Greenwood Sentinel
+
+Pack 1 pick 14:
+--> Satyr Enchanter
+    Forest
+
+Pack 1 pick 15:
+--> Tolarian Scholar
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Isolate
+    Skyrider Patrol
+    Siegebreaker Giant
+    Sleep
+    Thornhide Wolves
+    Catalyst Elemental
+    Mind Rot
+    Frilled Sea Serpent
+--> Take Vengeance
+    Anticipate
+    Sparktongue Dragon
+    Doomed Dissenter
+    Skyscanner
+    Trusty Packbeast
+    Submerged Boneyard
+
+Pack 2 pick 2:
+    One with the Machine
+    Skilled Animator
+    Aerial Engineer
+--> Militia Bugler
+    Colossal Dreadmaw
+    Hired Blade
+    Omenspeaker
+    Mighty Leap
+    Catalyst Elemental
+    Knight's Pledge
+    Rustwing Falcon
+    Sure Strike
+    Divination
+    Druid of Horns
+
+Pack 2 pick 3:
+--> Herald of Faith
+    Colossal Majesty
+    Leonin Vanguard
+    Colossal Dreadmaw
+    Viashino Pyromancer
+    Two-Headed Zombie
+    Cancel
+    Invoke the Divine
+    Act of Treason
+    Lich's Caress
+    Revitalize
+    Marauder's Axe
+    Timber Gorge
+
+Pack 2 pick 4:
+    Aether Tunnel
+    Enigma Drake
+    Psychic Symbiont
+    Thornhide Wolves
+    Fire Elemental
+    Hired Blade
+    Scholar of Stars
+--> Gallant Cavalry
+    Daggerback Basilisk
+    Tolarian Scholar
+    Manalith
+    Island
+
+Pack 2 pick 5:
+--> Remorseful Cleric
+    Rise from the Grave
+    Elvish Rejuvenator
+    Tormenting Voice
+    Bogstomper
+    Anticipate
+    Knight of the Tusk
+    Sovereign's Bite
+    Onakke Ogre
+    Doomed Dissenter
+    Swamp
+
+Pack 2 pick 6:
+    Mirror Image
+    Meteor Golem
+    Draconic Disciple
+    Centaur Courser
+    Abnormal Endurance
+--> Star-Crowned Stag
+    Oakenform
+    Sparktongue Dragon
+    Daybreak Chaplain
+    Mountain
+
+Pack 2 pick 7:
+    Vivien's Invocation
+    Ghirapur Guide
+    Psychic Corrosion
+    Doomed Dissenter
+    Wall of Mist
+--> Inspired Charge
+    Smelt
+    Root Snare
+    Meandering River
+
+Pack 2 pick 8:
+    Fire Elemental
+    Infernal Scarring
+    Totally Lost
+--> Dwarven Priest
+    Field Creeper
+    Ghostform
+    Giant Spider
+    Forsaken Sanctuary
+
+Pack 2 pick 9:
+    Isolate
+    Thornhide Wolves
+    Catalyst Elemental
+    Frilled Sea Serpent
+    Doomed Dissenter
+--> Trusty Packbeast
+    Submerged Boneyard
+
+Pack 2 pick 10:
+    One with the Machine
+--> Aerial Engineer
+    Mighty Leap
+    Catalyst Elemental
+    Knight's Pledge
+    Rustwing Falcon
+
+Pack 2 pick 11:
+    Viashino Pyromancer
+--> Invoke the Divine
+    Act of Treason
+    Revitalize
+    Timber Gorge
+
+Pack 2 pick 12:
+--> Aether Tunnel
+    Fire Elemental
+    Tolarian Scholar
+    Island
+
+Pack 2 pick 13:
+    Bogstomper
+--> Sovereign's Bite
+    Swamp
+
+Pack 2 pick 14:
+--> Oakenform
+    Mountain
+
+Pack 2 pick 15:
+--> Meandering River
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Goreclaw, Terror of Qal Sisma
+    Reliquary Tower
+    Poison-Tip Archer
+    Vampire Sovereign
+    Rabid Bite
+    Hostile Minotaur
+    Epicure of Blood
+    Uncomfortable Chill
+    Star-Crowned Stag
+    Inspired Charge
+    Boggart Brute
+    Shock
+    Giant Spider
+--> Angel of the Dawn
+    Forest
+
+Pack 3 pick 2:
+    Fountain of Renewal
+    Surge Mare
+    Rogue's Gloves
+    Druid of the Cowl
+    Trumpet Blast
+    Skeleton Archer
+    Frilled Sea Serpent
+--> Gallant Cavalry
+    Cancel
+    Gearsmith Guardian
+    Tolarian Scholar
+    Explosive Apparatus
+    Oakenform
+    Murder
+
+Pack 3 pick 3:
+--> Pelakka Wurm
+    Gravedigger
+    Recollect
+    Vine Mare
+    Root Snare
+    Act of Treason
+    Macabre Waltz
+    Loxodon Line Breaker
+    Rhox Oracle
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Trusty Packbeast
+    Forest
+
+Pack 3 pick 4:
+    Blood Divination
+    Shield Mare
+    Talons of Wildwood
+    Onakke Ogre
+    Skymarch Bloodletter
+    Salvager of Secrets
+--> Pegasus Courser
+    Macabre Waltz
+    Invoke the Divine
+    Giant Spider
+    Trumpet Blast
+    Island
+
+Pack 3 pick 5:
+    Blood Divination
+    Heroic Reinforcements
+    Talons of Wildwood
+    Smelt
+    Vampire Neonate
+    Scholar of Stars
+    Inspired Charge
+--> Snapping Drake
+    Totally Lost
+    Mighty Leap
+    Field Creeper
+
+Pack 3 pick 6:
+    Elvish Clancaller
+    Blood Divination
+    Highland Game
+    Goblin Motivator
+    Abnormal Endurance
+    Totally Lost
+    Trusty Packbeast
+    Cancel
+    Wall of Mist
+--> Switcheroo
+
+Pack 3 pick 7:
+    Colossal Majesty
+    Plummet
+    Viashino Pyromancer
+    Vampire Neonate
+--> Cavalry Drillmaster
+    Act of Treason
+    Loxodon Line Breaker
+    Disperse
+    Forest
+
+Pack 3 pick 8:
+    Millstone
+    Skyrider Patrol
+    Titanic Growth
+    Two-Headed Zombie
+    Salvager of Secrets
+--> Rustwing Falcon
+    Gearsmith Prodigy
+    Mountain
+
+Pack 3 pick 9:
+    Poison-Tip Archer
+    Rabid Bite
+    Uncomfortable Chill
+--> Star-Crowned Stag
+    Inspired Charge
+    Giant Spider
+    Forest
+
+Pack 3 pick 10:
+    Fountain of Renewal
+    Frilled Sea Serpent
+    Cancel
+    Tolarian Scholar
+--> Explosive Apparatus
+    Oakenform
+
+Pack 3 pick 11:
+    Recollect
+    Root Snare
+    Loxodon Line Breaker
+--> Trusty Packbeast
+    Forest
+
+Pack 3 pick 12:
+    Blood Divination
+    Talons of Wildwood
+--> Invoke the Divine
+    Island
+
+Pack 3 pick 13:
+    Smelt
+--> Inspired Charge
+    Mighty Leap
+
+Pack 3 pick 14:
+    Elvish Clancaller
+--> Trusty Packbeast
+
+Pack 3 pick 15:
+--> Forest

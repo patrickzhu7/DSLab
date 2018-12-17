@@ -1,0 +1,467 @@
+Event #: 42680
+Time:    11/10/18
+Players:
+    user
+    bot1
+--> bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Open the Graves
+    Ghastbark Twins
+    Aegis of the Heavens
+--> Dryad Greenseeker
+    Plummet
+    Smelt
+    Sovereign's Bite
+    Totally Lost
+    Cavalry Drillmaster
+    Goblin Motivator
+    Bristling Boar
+    Gearsmith Guardian
+    Sparktongue Dragon
+    Angel of the Dawn
+    Forest
+
+Pack 1 pick 2:
+--> Chaos Wand
+    Arcane Encyclopedia
+    Blood Divination
+    Naturalize
+    Tormenting Voice
+    Mind Rot
+    Aviation Pioneer
+    Knight of the Tusk
+    Skymarch Bloodletter
+    Crash Through
+    Vampire Neonate
+    Essence Scatter
+    Trusty Packbeast
+    Woodland Stream
+
+Pack 1 pick 3:
+    Reassembling Skeleton
+    Enigma Drake
+    Gift of Paradise
+--> Druid of the Cowl
+    Viashino Pyromancer
+    Vampire Neonate
+    Tolarian Scholar
+    Loxodon Line Breaker
+    Bristling Boar
+    Talons of Wildwood
+    Bogstomper
+    Goblin Motivator
+    Forest
+
+Pack 1 pick 4:
+    Psychic Corrosion
+    Regal Bloodlord
+    Draconic Disciple
+--> Elvish Rejuvenator
+    Skymarch Bloodletter
+    Frilled Sea Serpent
+    Daybreak Chaplain
+    Tolarian Scholar
+    Infernal Scarring
+    Uncomfortable Chill
+    Cavalry Drillmaster
+    Tranquil Expanse
+
+Pack 1 pick 5:
+    Sift
+    Oakenform
+    Lava Axe
+    Two-Headed Zombie
+    Omenspeaker
+    Root Snare
+    Sparktongue Dragon
+    Act of Treason
+--> Giant Spider
+    Catalyst Elemental
+    Highland Lake
+
+Pack 1 pick 6:
+    Desecrated Tomb
+    Recollect
+--> Giant Spider
+    Sure Strike
+    Doomed Dissenter
+    Scholar of Stars
+    Mind Rot
+    Mighty Leap
+    Loxodon Line Breaker
+    Plains
+
+Pack 1 pick 7:
+--> Blanchwood Armor
+    Switcheroo
+    Greenwood Sentinel
+    Hired Blade
+    Salvager of Secrets
+    Onakke Ogre
+    Bogstomper
+    Thornhide Wolves
+    Swamp
+
+Pack 1 pick 8:
+--> Centaur Courser
+    Fire Elemental
+    Gearsmith Prodigy
+    Omenspeaker
+    Disperse
+    Talons of Wildwood
+    Hired Blade
+    Swamp
+
+Pack 1 pick 9:
+--> Ghastbark Twins
+    Plummet
+    Smelt
+    Sovereign's Bite
+    Totally Lost
+    Goblin Motivator
+    Forest
+
+Pack 1 pick 10:
+    Blood Divination
+--> Naturalize
+    Tormenting Voice
+    Mind Rot
+    Crash Through
+    Woodland Stream
+
+Pack 1 pick 11:
+    Tolarian Scholar
+--> Talons of Wildwood
+    Bogstomper
+    Goblin Motivator
+    Forest
+
+Pack 1 pick 12:
+--> Frilled Sea Serpent
+    Tolarian Scholar
+    Infernal Scarring
+    Uncomfortable Chill
+
+Pack 1 pick 13:
+    Lava Axe
+--> Catalyst Elemental
+    Highland Lake
+
+Pack 1 pick 14:
+--> Desecrated Tomb
+    Plains
+
+Pack 1 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Dismissive Pyromancer
+    Poison-Tip Archer
+    Rise from the Grave
+    Brawl-Bash Ogre
+    Elvish Rejuvenator
+    Crash Through
+    Sovereign's Bite
+    Aviation Pioneer
+    Trusty Packbeast
+    Centaur Courser
+    Macabre Waltz
+    Daggerback Basilisk
+--> Rabid Bite
+    Hired Blade
+    Cleansing Nova
+
+Pack 2 pick 2:
+--> Supreme Phantom
+    Siegebreaker Giant
+    Ajani's Pridemate
+    Surge Mare
+    Naturalize
+    Goblin Instigator
+    Skeleton Archer
+    Ghostform
+    Walking Corpse
+    Dwarven Priest
+    Sparktongue Dragon
+    Two-Headed Zombie
+    Act of Treason
+    Mountain
+
+Pack 2 pick 3:
+    Metamorphic Alteration
+    Psychic Symbiont
+    Vigilant Baloth
+    Oakenform
+    Sparktongue Dragon
+    Duress
+    Uncomfortable Chill
+    Knight of the Tusk
+    Cavalry Drillmaster
+    Centaur Courser
+    Greenwood Sentinel
+--> Druid of the Cowl
+    Stone Quarry
+
+Pack 2 pick 4:
+--> Thorn Lieutenant
+    Gargoyle Sentinel
+    Dragon Egg
+    Colossal Dreadmaw
+    Crash Through
+    Loxodon Line Breaker
+    Act of Treason
+    Tolarian Scholar
+    Rabid Bite
+    Gearsmith Guardian
+    Trumpet Blast
+    Swamp
+
+Pack 2 pick 5:
+    Mistcaller
+--> Colossal Majesty
+    Doublecast
+    Wall of Vines
+    Crash Through
+    Infectious Horror
+    Totally Lost
+    Explosive Apparatus
+    Catalyst Elemental
+    Sovereign's Bite
+    Meandering River
+
+Pack 2 pick 6:
+    Stitcher's Supplier
+    Naturalize
+    Tormenting Voice
+    Infectious Horror
+    Uncomfortable Chill
+--> Titanic Growth
+    Plummet
+    Mind Rot
+    Gearsmith Prodigy
+    Island
+
+Pack 2 pick 7:
+    Death Baron
+    Gift of Paradise
+    Bone to Ash
+--> Oakenform
+    Mighty Leap
+    Walking Corpse
+    Manalith
+    Gearsmith Prodigy
+    Submerged Boneyard
+
+Pack 2 pick 8:
+    Aethershield Artificer
+    Diregraf Ghoul
+--> Root Snare
+    Trumpet Blast
+    Mind Rot
+    Inspired Charge
+    Abnormal Endurance
+    Forest
+
+Pack 2 pick 9:
+--> Poison-Tip Archer
+    Brawl-Bash Ogre
+    Crash Through
+    Sovereign's Bite
+    Centaur Courser
+    Macabre Waltz
+    Hired Blade
+
+Pack 2 pick 10:
+--> Naturalize
+    Ghostform
+    Walking Corpse
+    Two-Headed Zombie
+    Act of Treason
+    Mountain
+
+Pack 2 pick 11:
+    Oakenform
+    Duress
+    Uncomfortable Chill
+    Knight of the Tusk
+--> Greenwood Sentinel
+
+Pack 2 pick 12:
+--> Crash Through
+    Act of Treason
+    Tolarian Scholar
+    Swamp
+
+Pack 2 pick 13:
+--> Mistcaller
+    Doublecast
+    Sovereign's Bite
+
+Pack 2 pick 14:
+--> Stitcher's Supplier
+    Island
+
+Pack 2 pick 15:
+--> Submerged Boneyard
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Remorseful Cleric
+    Psychic Corrosion
+    Vampire Sovereign
+    Psychic Symbiont
+--> Colossal Dreadmaw
+    Electrify
+    Mind Rot
+    Scholar of Stars
+    Invoke the Divine
+    Havoc Devils
+    Luminous Bonds
+    Marauder's Axe
+    Macabre Waltz
+    Highland Game
+    Plains
+
+Pack 3 pick 2:
+    Sarkhan's Unsealing
+    Novice Knight
+--> Ghastbark Twins
+    Talons of Wildwood
+    Act of Treason
+    Lich's Caress
+    Omenspeaker
+    Rustwing Falcon
+    Gallant Cavalry
+    Infectious Horror
+    Havoc Devils
+    Invoke the Divine
+    Hostile Minotaur
+    Forsaken Sanctuary
+
+Pack 3 pick 3:
+    Infernal Reckoning
+    Lightning Mare
+    Volley Veteran
+    Act of Treason
+    Infernal Scarring
+    Gearsmith Prodigy
+    Invoke the Divine
+    Frilled Sea Serpent
+    Trusty Packbeast
+    Skeleton Archer
+--> Oakenform
+    Gearsmith Guardian
+    Ravenous Harpy
+
+Pack 3 pick 4:
+    Amulet of Safekeeping
+    Sleep
+    Fell Specter
+--> Centaur Courser
+    Smelt
+    Hired Blade
+    Plummet
+    Revitalize
+    Wall of Vines
+    Knight of the Tusk
+    Oreskos Swiftclaw
+    Forest
+
+Pack 3 pick 5:
+    Liliana, Untouched by Death
+    Centaur Courser
+    Tormenting Voice
+    Mind Rot
+    Uncomfortable Chill
+    Inspired Charge
+    Lava Axe
+--> Highland Game
+    Sure Strike
+    Cavalry Drillmaster
+    Forest
+
+Pack 3 pick 6:
+    Psychic Corrosion
+--> Ghastbark Twins
+    Giant Spider
+    Hostile Minotaur
+    Duress
+    Salvager of Secrets
+    Skeleton Archer
+    Act of Treason
+    Knight of the Tusk
+    Forsaken Sanctuary
+
+Pack 3 pick 7:
+    Aether Tunnel
+--> Blanchwood Armor
+    Sovereign's Bite
+    Divination
+    Oakenform
+    Totally Lost
+    Catalyst Elemental
+    Invoke the Divine
+    Tranquil Expanse
+
+Pack 3 pick 8:
+    Mirror Image
+    Fiery Finish
+    Tormenting Voice
+    Ghostform
+    Cancel
+--> Centaur Courser
+    Plummet
+    Meandering River
+
+Pack 3 pick 9:
+--> Psychic Corrosion
+    Mind Rot
+    Scholar of Stars
+    Havoc Devils
+    Marauder's Axe
+    Macabre Waltz
+    Plains
+
+Pack 3 pick 10:
+--> Talons of Wildwood
+    Act of Treason
+    Havoc Devils
+    Invoke the Divine
+    Hostile Minotaur
+    Forsaken Sanctuary
+
+Pack 3 pick 11:
+    Infernal Reckoning
+    Act of Treason
+    Infernal Scarring
+    Gearsmith Prodigy
+--> Frilled Sea Serpent
+
+Pack 3 pick 12:
+    Amulet of Safekeeping
+    Smelt
+--> Plummet
+    Forest
+
+Pack 3 pick 13:
+    Tormenting Voice
+--> Lava Axe
+    Forest
+
+Pack 3 pick 14:
+--> Duress
+    Act of Treason
+
+Pack 3 pick 15:
+--> Totally Lost

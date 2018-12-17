@@ -1,0 +1,467 @@
+Event #: 36060
+Time:    29/09/18
+Players:
+    user
+    bot1
+--> bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Alpine Moon
+    Switcheroo
+    Novice Knight
+    Poison-Tip Archer
+    Centaur Courser
+    Sparktongue Dragon
+    Strangling Spores
+    Wall of Mist
+    Take Vengeance
+    Ghostform
+    Highland Game
+    Infernal Scarring
+--> Luminous Bonds
+    Explosive Apparatus
+    Forest
+
+Pack 1 pick 2:
+    Detection Tower
+--> Reclamation Sage
+    Inferno Hellion
+    Colossal Dreadmaw
+    Catalyst Elemental
+    Infectious Horror
+    Salvager of Secrets
+    Revitalize
+    Ghostform
+    Divination
+    Explosive Apparatus
+    Walking Corpse
+    Elvish Rejuvenator
+    Forest
+
+Pack 1 pick 3:
+    Amulet of Safekeeping
+    Psychic Symbiont
+    Aerial Engineer
+    Druid of Horns
+--> Druid of the Cowl
+    Lava Axe
+    Epicure of Blood
+    Aviation Pioneer
+    Mighty Leap
+    Sovereign's Bite
+    Centaur Courser
+    Dwindle
+    Foul Orchard
+
+Pack 1 pick 4:
+--> Meteor Golem
+    Stitcher's Supplier
+    Oakenform
+    Crash Through
+    Child of Night
+    Aviation Pioneer
+    Oreskos Swiftclaw
+    Bogstomper
+    Marauder's Axe
+    Omenspeaker
+    Havoc Devils
+    Island
+
+Pack 1 pick 5:
+    Stitcher's Supplier
+    Diregraf Ghoul
+    Greenwood Sentinel
+    Two-Headed Zombie
+    Knight of the Tusk
+    Explosive Apparatus
+    Naturalize
+    Tolarian Scholar
+    Totally Lost
+--> Snapping Drake
+    Plains
+
+Pack 1 pick 6:
+    Arcane Encyclopedia
+    Centaur Courser
+    Viashino Pyromancer
+    Skeleton Archer
+--> Divination
+    Daybreak Chaplain
+    Dwarven Priest
+    Gearsmith Prodigy
+    Epicure of Blood
+    Trumpet Blast
+
+Pack 1 pick 7:
+    Talons of Wildwood
+    Mind Rot
+--> Scholar of Stars
+    Dwarven Priest
+    Wall of Mist
+    Anticipate
+    Cancel
+    Doomed Dissenter
+    Swamp
+
+Pack 1 pick 8:
+--> Fountain of Renewal
+    Doublecast
+    Thornhide Wolves
+    Trumpet Blast
+    Anticipate
+    Rustwing Falcon
+    Manalith
+    Inspired Charge
+
+Pack 1 pick 9:
+    Alpine Moon
+    Poison-Tip Archer
+--> Wall of Mist
+    Ghostform
+    Highland Game
+    Infernal Scarring
+    Forest
+
+Pack 1 pick 10:
+    Detection Tower
+    Infectious Horror
+    Revitalize
+--> Ghostform
+    Walking Corpse
+    Forest
+
+Pack 1 pick 11:
+    Amulet of Safekeeping
+    Druid of Horns
+--> Epicure of Blood
+    Sovereign's Bite
+    Foul Orchard
+
+Pack 1 pick 12:
+    Stitcher's Supplier
+--> Child of Night
+    Bogstomper
+    Island
+
+Pack 1 pick 13:
+    Stitcher's Supplier
+--> Tolarian Scholar
+    Plains
+
+Pack 1 pick 14:
+--> Dwarven Priest
+    Gearsmith Prodigy
+
+Pack 1 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Remorseful Cleric
+    Psychic Corrosion
+    Reliquary Tower
+    Reclamation Sage
+    Druid of the Cowl
+    Catalyst Elemental
+    Epicure of Blood
+    Cancel
+--> Pegasus Courser
+    Oakenform
+    Field Creeper
+    Inspired Charge
+    Cavalry Drillmaster
+    Two-Headed Zombie
+    Meandering River
+
+Pack 2 pick 2:
+--> Sai, Master Thopterist
+    Aether Tunnel
+    Thud
+    Giant Spider
+    Trumpet Blast
+    Duress
+    Ghostform
+    Invoke the Divine
+    Electrify
+    Wall of Vines
+    Rhox Oracle
+    Dwarven Priest
+    Knight of the Tusk
+    Aerial Engineer
+
+Pack 2 pick 3:
+    Elvish Clancaller
+--> Arcane Encyclopedia
+    Elvish Rejuvenator
+    Boggart Brute
+    Macabre Waltz
+    Disperse
+    Dwarven Priest
+    Havoc Devils
+    Act of Treason
+    Highland Game
+    Totally Lost
+    Rhox Oracle
+    Submerged Boneyard
+
+Pack 2 pick 4:
+    Fell Specter
+--> Hieromancer's Cage
+    Rhox Oracle
+    Smelt
+    Skymarch Bloodletter
+    Totally Lost
+    Oreskos Swiftclaw
+    Invoke the Divine
+    Tolarian Scholar
+    Explosive Apparatus
+    Giant Spider
+    Timber Gorge
+
+Pack 2 pick 5:
+    Shield Mare
+    Oakenform
+    Fire Elemental
+    Sovereign's Bite
+    Anticipate
+    Cavalry Drillmaster
+    Invoke the Divine
+    Loxodon Line Breaker
+--> Pegasus Courser
+    Mighty Leap
+    Tectonic Rift
+
+Pack 2 pick 6:
+    Talons of Wildwood
+    Tormenting Voice
+    Hired Blade
+--> Aviation Pioneer
+    Trusty Packbeast
+    Explosive Apparatus
+    Cavalry Drillmaster
+    Catalyst Elemental
+    Gearsmith Guardian
+    Meandering River
+
+Pack 2 pick 7:
+    Millstone
+    Root Snare
+    Viashino Pyromancer
+    Knight's Pledge
+    Gallant Cavalry
+    Marauder's Axe
+    Trusty Packbeast
+--> Aven Wind Mage
+    Stone Quarry
+
+Pack 2 pick 8:
+    Titanic Growth
+    Sure Strike
+    Anticipate
+--> Invoke the Divine
+    Uncomfortable Chill
+    Trusty Packbeast
+    Fire Elemental
+    Cinder Barrens
+
+Pack 2 pick 9:
+--> Psychic Corrosion
+    Reliquary Tower
+    Catalyst Elemental
+    Oakenform
+    Field Creeper
+    Inspired Charge
+    Meandering River
+
+Pack 2 pick 10:
+    Aether Tunnel
+    Trumpet Blast
+    Ghostform
+--> Invoke the Divine
+    Wall of Vines
+    Knight of the Tusk
+
+Pack 2 pick 11:
+    Elvish Clancaller
+--> Disperse
+    Highland Game
+    Totally Lost
+    Rhox Oracle
+
+Pack 2 pick 12:
+    Smelt
+--> Totally Lost
+    Tolarian Scholar
+    Timber Gorge
+
+Pack 2 pick 13:
+    Fire Elemental
+--> Mighty Leap
+    Tectonic Rift
+
+Pack 2 pick 14:
+    Tormenting Voice
+--> Trusty Packbeast
+
+Pack 2 pick 15:
+--> Root Snare
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Isolate
+    Arcane Encyclopedia
+    Ajani's Welcome
+    Skyrider Patrol
+    Centaur Courser
+    Lava Axe
+    Skeleton Archer
+    Omenspeaker
+    Inspired Charge
+    Talons of Wildwood
+    Uncomfortable Chill
+    Dwarven Priest
+--> Skyscanner
+    Elvish Rejuvenator
+    Inspired Charge
+
+Pack 3 pick 2:
+    Detection Tower
+    Stitcher's Supplier
+    Skyrider Patrol
+    Leonin Vanguard
+    Daggerback Basilisk
+    Vampire Neonate
+    Tolarian Scholar
+    Inspired Charge
+--> Take Vengeance
+    Frilled Sea Serpent
+    Invoke the Divine
+    Ghostform
+    Oreskos Swiftclaw
+    Fountain of Renewal
+
+Pack 3 pick 3:
+    Goreclaw, Terror of Qal Sisma
+    Rise from the Grave
+    Declare Dominance
+--> Arcane Encyclopedia
+    Colossal Dreadmaw
+    Goblin Motivator
+    Vampire Neonate
+    Omenspeaker
+    Mighty Leap
+    Thornhide Wolves
+    Abnormal Endurance
+    Strangling Spores
+    Swamp
+
+Pack 3 pick 4:
+    Gift of Paradise
+    Psychic Symbiont
+    Elvish Rejuvenator
+    Trumpet Blast
+    Hired Blade
+    Tolarian Scholar
+--> Star-Crowned Stag
+    Infectious Horror
+    Invoke the Divine
+    Electrify
+    Bogstomper
+    Mountain
+
+Pack 3 pick 5:
+    Declare Dominance
+    Rabid Bite
+    Crash Through
+    Mind Rot
+    Cancel
+    Inspired Charge
+--> Lich's Caress
+    Colossal Dreadmaw
+    Field Creeper
+    Ghostform
+    Foul Orchard
+
+Pack 3 pick 6:
+    Stitcher's Supplier
+    Colossal Majesty
+    Fiery Finish
+    Plummet
+    Wall of Mist
+    Titanic Growth
+    Talons of Wildwood
+--> Skymarch Bloodletter
+    Walking Corpse
+    Forsaken Sanctuary
+
+Pack 3 pick 7:
+    Recollect
+    Elvish Rejuvenator
+    Smelt
+    Hired Blade
+    Ghostform
+    Rhox Oracle
+    Macabre Waltz
+--> Skyscanner
+    Mountain
+
+Pack 3 pick 8:
+--> Psychic Corrosion
+    Novice Knight
+    Loxodon Line Breaker
+    Frilled Sea Serpent
+    Root Snare
+    Plummet
+    Salvager of Secrets
+    Stone Quarry
+
+Pack 3 pick 9:
+    Isolate
+    Ajani's Welcome
+    Skyrider Patrol
+    Lava Axe
+    Talons of Wildwood
+    Uncomfortable Chill
+--> Inspired Charge
+
+Pack 3 pick 10:
+    Detection Tower
+    Stitcher's Supplier
+    Tolarian Scholar
+    Frilled Sea Serpent
+--> Invoke the Divine
+    Ghostform
+
+Pack 3 pick 11:
+--> Rise from the Grave
+    Colossal Dreadmaw
+    Thornhide Wolves
+    Abnormal Endurance
+    Swamp
+
+Pack 3 pick 12:
+--> Tolarian Scholar
+    Infectious Horror
+    Bogstomper
+    Mountain
+
+Pack 3 pick 13:
+    Mind Rot
+--> Colossal Dreadmaw
+    Foul Orchard
+
+Pack 3 pick 14:
+    Stitcher's Supplier
+--> Walking Corpse
+
+Pack 3 pick 15:
+--> Mountain

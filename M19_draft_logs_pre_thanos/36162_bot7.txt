@@ -1,0 +1,467 @@
+Event #: 36162
+Time:    29/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+--> bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Prodigious Growth
+    Sleep
+    Reclamation Sage
+    Fiery Finish
+    Plummet
+    Shock
+    Two-Headed Zombie
+    Aven Wind Mage
+    Take Vengeance
+    Doomed Dissenter
+    Epicure of Blood
+    Act of Treason
+    Gallant Cavalry
+    Walking Corpse
+    Tranquil Expanse
+
+Pack 1 pick 2:
+    Diregraf Ghoul
+    Aether Tunnel
+--> Vampire Sovereign
+    Bristling Boar
+    Trumpet Blast
+    Infernal Scarring
+    Ghostform
+    Oreskos Swiftclaw
+    Dwindle
+    Gallant Cavalry
+    Vampire Neonate
+    Strangling Spores
+    Skymarch Bloodletter
+    Meandering River
+
+Pack 1 pick 3:
+    Doublecast
+    Surge Mare
+    Rhox Oracle
+    Havoc Devils
+    Child of Night
+    Gearsmith Prodigy
+    Loxodon Line Breaker
+    Invoke the Divine
+    Star-Crowned Stag
+--> Luminous Bonds
+    Fire Elemental
+    Boggart Brute
+    Rhox Oracle
+
+Pack 1 pick 4:
+    Ravenous Harpy
+    Giant Spider
+    Goblin Instigator
+    Bogstomper
+    Wall of Mist
+    Trusty Packbeast
+    Colossal Dreadmaw
+    Wall of Vines
+    Loxodon Line Breaker
+    Sparktongue Dragon
+--> Elvish Rejuvenator
+    Mountain
+
+Pack 1 pick 5:
+--> Remorseful Cleric
+    Millstone
+    Ajani's Welcome
+    Thornhide Wolves
+    Trumpet Blast
+    Infectious Horror
+    Aven Wind Mage
+    Knight's Pledge
+    Manalith
+    Salvager of Secrets
+    Omniscience
+
+Pack 1 pick 6:
+    Thud
+    Greenwood Sentinel
+    Tormenting Voice
+    Infectious Horror
+    Ghostform
+--> Pegasus Courser
+    Gearsmith Prodigy
+    Cavalry Drillmaster
+    Explosive Apparatus
+    Forest
+
+Pack 1 pick 7:
+    Stitcher's Supplier
+    Aether Tunnel
+    Centaur Courser
+    Tolarian Scholar
+--> Pegasus Courser
+    Highland Game
+    Root Snare
+    Abnormal Endurance
+    Mountain
+
+Pack 1 pick 8:
+--> Centaur Courser
+    Tormenting Voice
+    Duress
+    Revitalize
+    Sovereign's Bite
+    Sure Strike
+    Trumpet Blast
+    Greenwood Sentinel
+
+Pack 1 pick 9:
+    Fiery Finish
+    Plummet
+--> Two-Headed Zombie
+    Doomed Dissenter
+    Epicure of Blood
+    Walking Corpse
+    Tranquil Expanse
+
+Pack 1 pick 10:
+    Diregraf Ghoul
+    Aether Tunnel
+    Infernal Scarring
+    Ghostform
+--> Oreskos Swiftclaw
+    Meandering River
+
+Pack 1 pick 11:
+    Doublecast
+    Gearsmith Prodigy
+    Loxodon Line Breaker
+--> Invoke the Divine
+    Fire Elemental
+
+Pack 1 pick 12:
+    Bogstomper
+    Wall of Vines
+--> Loxodon Line Breaker
+    Mountain
+
+Pack 1 pick 13:
+    Ajani's Welcome
+--> Knight's Pledge
+    Omniscience
+
+Pack 1 pick 14:
+--> Gearsmith Prodigy
+    Forest
+
+Pack 1 pick 15:
+--> Mountain
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Fraying Omnipotence
+    Meteor Golem
+--> Vine Mare
+    Volley Veteran
+    Plummet
+    Onakke Ogre
+    Infernal Scarring
+    Frilled Sea Serpent
+    Cavalry Drillmaster
+    Invoke the Divine
+    Bogstomper
+    Rustwing Falcon
+    Electrify
+    Scholar of Stars
+    Swamp
+
+Pack 2 pick 2:
+    Gargoyle Sentinel
+    Aegis of the Heavens
+    Declare Dominance
+    Highland Game
+    Tormenting Voice
+    Epicure of Blood
+    Divination
+    Daybreak Chaplain
+    Gallant Cavalry
+    Hired Blade
+    Inspired Charge
+--> Druid of the Cowl
+    Frilled Sea Serpent
+    Forest
+
+Pack 2 pick 3:
+    Diamond Mare
+    Siegebreaker Giant
+--> Daggerback Basilisk
+    Hostile Minotaur
+    Abnormal Endurance
+    Anticipate
+    Invoke the Divine
+    Trusty Packbeast
+    Highland Game
+    Titanic Growth
+    Vampire Neonate
+    Snapping Drake
+    Swamp
+
+Pack 2 pick 4:
+    Detection Tower
+    Recollect
+    Millstone
+    Highland Game
+    Catalyst Elemental
+    Aviation Pioneer
+    Inspired Charge
+    Elvish Rejuvenator
+    Uncomfortable Chill
+    Dwarven Priest
+    Omenspeaker
+--> Star-Crowned Stag
+
+Pack 2 pick 5:
+    Detection Tower
+    Diregraf Ghoul
+    Daggerback Basilisk
+    Lava Axe
+    Abnormal Endurance
+    Cancel
+    Take Vengeance
+--> Luminous Bonds
+    Infectious Horror
+    Rustwing Falcon
+    Island
+
+Pack 2 pick 6:
+--> Bone to Ash
+    Druid of Horns
+    Highland Game
+    Tormenting Voice
+    Infectious Horror
+    Salvager of Secrets
+    Knight of the Tusk
+    Gearsmith Guardian
+    Mind Rot
+    Talons of Wildwood
+
+Pack 2 pick 7:
+    Make a Stand
+    Highland Game
+    Child of Night
+    Totally Lost
+--> Pegasus Courser
+    Rustwing Falcon
+    Duress
+    Daggerback Basilisk
+    Forsaken Sanctuary
+
+Pack 2 pick 8:
+    Poison-Tip Archer
+    Ghostform
+    Oreskos Swiftclaw
+    Crash Through
+    Highland Game
+    Anticipate
+--> Take Vengeance
+    Goblin Motivator
+
+Pack 2 pick 9:
+    Fraying Omnipotence
+    Plummet
+    Infernal Scarring
+--> Cavalry Drillmaster
+    Invoke the Divine
+    Bogstomper
+    Swamp
+
+Pack 2 pick 10:
+    Aegis of the Heavens
+    Highland Game
+--> Daybreak Chaplain
+    Inspired Charge
+    Frilled Sea Serpent
+    Forest
+
+Pack 2 pick 11:
+    Anticipate
+--> Invoke the Divine
+    Trusty Packbeast
+    Highland Game
+    Swamp
+
+Pack 2 pick 12:
+--> Recollect
+    Millstone
+    Highland Game
+    Uncomfortable Chill
+
+Pack 2 pick 13:
+--> Detection Tower
+    Infectious Horror
+    Island
+
+Pack 2 pick 14:
+    Highland Game
+--> Talons of Wildwood
+
+Pack 2 pick 15:
+--> Forsaken Sanctuary
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    One with the Machine
+--> Reclamation Sage
+    Plague Mare
+    Hieromancer's Cage
+    Elvish Rejuvenator
+    Goblin Instigator
+    Child of Night
+    Scholar of Stars
+    Daybreak Chaplain
+    Essence Scatter
+    Invoke the Divine
+    Mighty Leap
+    Luminous Bonds
+    Totally Lost
+    Mountain
+
+Pack 3 pick 2:
+    Elvish Clancaller
+    Surge Mare
+    Blood Divination
+    Daggerback Basilisk
+    Boggart Brute
+    Mind Rot
+    Snapping Drake
+--> Luminous Bonds
+    Goblin Instigator
+    Titanic Growth
+    Angel of the Dawn
+    Scholar of Stars
+    Frilled Sea Serpent
+    Trumpet Blast
+
+Pack 3 pick 3:
+    Aethershield Artificer
+    Doublecast
+    Lightning Mare
+--> Druid of the Cowl
+    Trumpet Blast
+    Abnormal Endurance
+    Tolarian Scholar
+    Invoke the Divine
+    Lava Axe
+    Epicure of Blood
+    Walking Corpse
+    Cavalry Drillmaster
+    Foul Orchard
+
+Pack 3 pick 4:
+    Colossal Majesty
+--> Satyr Enchanter
+    Diregraf Ghoul
+    Act of Treason
+    Sovereign's Bite
+    Gearsmith Prodigy
+    Daybreak Chaplain
+    Disperse
+    Talons of Wildwood
+    Hostile Minotaur
+    Highland Game
+    Island
+
+Pack 3 pick 5:
+    Alpine Moon
+    Aether Tunnel
+    Giant Spider
+    Boggart Brute
+    Bogstomper
+    Pegasus Courser
+    Wall of Mist
+    Wall of Vines
+--> Elvish Rejuvenator
+    Tormenting Voice
+    Forsaken Sanctuary
+
+Pack 3 pick 6:
+    Heroic Reinforcements
+    Enigma Drake
+--> Daggerback Basilisk
+    Hired Blade
+    Frilled Sea Serpent
+    Gallant Cavalry
+    Oakenform
+    Centaur Courser
+    Lava Axe
+    Forest
+
+Pack 3 pick 7:
+--> Leonin Vanguard
+    Aether Tunnel
+    Catalyst Elemental
+    Child of Night
+    Anticipate
+    Dwarven Priest
+    Vampire Neonate
+    Talons of Wildwood
+    Stone Quarry
+
+Pack 3 pick 8:
+    Tectonic Rift
+    Smelt
+    Macabre Waltz
+    Tolarian Scholar
+    Revitalize
+    Anticipate
+--> Daybreak Chaplain
+    Island
+
+Pack 3 pick 9:
+    One with the Machine
+    Child of Night
+--> Daybreak Chaplain
+    Invoke the Divine
+    Mighty Leap
+    Totally Lost
+    Mountain
+
+Pack 3 pick 10:
+    Elvish Clancaller
+    Blood Divination
+    Mind Rot
+--> Titanic Growth
+    Scholar of Stars
+    Frilled Sea Serpent
+
+Pack 3 pick 11:
+    Doublecast
+    Trumpet Blast
+--> Abnormal Endurance
+    Tolarian Scholar
+    Walking Corpse
+
+Pack 3 pick 12:
+    Gearsmith Prodigy
+    Disperse
+--> Talons of Wildwood
+    Island
+
+Pack 3 pick 13:
+    Aether Tunnel
+    Bogstomper
+--> Wall of Vines
+
+Pack 3 pick 14:
+--> Enigma Drake
+    Forest
+
+Pack 3 pick 15:
+--> Aether Tunnel

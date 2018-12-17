@@ -1,0 +1,467 @@
+Event #: 63030
+Time:    14/11/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+--> bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Windreader Sphinx
+    Vigilant Baloth
+    Ghirapur Guide
+    Fiery Finish
+    Colossal Dreadmaw
+    Goblin Instigator
+    Bogstomper
+    Anticipate
+    Knight of the Tusk
+    Disperse
+    Trusty Packbeast
+    Boggart Brute
+    Pegasus Courser
+    Naturalize
+    Suncleanser
+
+Pack 1 pick 2:
+    Desecrated Tomb
+    Blanchwood Armor
+    Shield Mare
+    Ghastbark Twins
+    Talons of Wildwood
+    Boggart Brute
+--> Essence Scatter
+    Trusty Packbeast
+    Rustwing Falcon
+    Luminous Bonds
+    Tormenting Voice
+    Oakenform
+    Duress
+    Forest
+
+Pack 1 pick 3:
+    Psychic Corrosion
+    Gift of Paradise
+    Colossal Majesty
+    Wall of Vines
+    Lava Axe
+    Skymarch Bloodletter
+--> Aven Wind Mage
+    Take Vengeance
+    Bogstomper
+    Angel of the Dawn
+    Tormenting Voice
+    Vampire Neonate
+    Island
+
+Pack 1 pick 4:
+    Crucible of Worlds
+    Aegis of the Heavens
+    Onakke Ogre
+    Sovereign's Bite
+--> Snapping Drake
+    Gallant Cavalry
+    Child of Night
+    Rhox Oracle
+    Loxodon Line Breaker
+    Bogstomper
+    Smelt
+    Plains
+
+Pack 1 pick 5:
+--> Supreme Phantom
+    Arcane Encyclopedia
+    Plummet
+    Sure Strike
+    Sovereign's Bite
+    Disperse
+    Trusty Packbeast
+    Havoc Devils
+    Titanic Growth
+    Bogstomper
+    Elvish Rejuvenator
+
+Pack 1 pick 6:
+    Ajani's Welcome
+    Lightning Mare
+    Wall of Vines
+    Trumpet Blast
+    Ghostform
+    Daybreak Chaplain
+    Boggart Brute
+    Goblin Instigator
+    Scholar of Stars
+--> Divination
+
+Pack 1 pick 7:
+--> Bone to Ash
+    Declare Dominance
+    Root Snare
+    Smelt
+    Wall of Mist
+    Viashino Pyromancer
+    Giant Spider
+    Sovereign's Bite
+    Swamp
+
+Pack 1 pick 8:
+    Magistrate's Scepter
+    Aethershield Artificer
+    Goblin Motivator
+    Invoke the Divine
+    Act of Treason
+--> Scholar of Stars
+    Infectious Horror
+    Amulet of Safekeeping
+
+Pack 1 pick 9:
+    Fiery Finish
+    Goblin Instigator
+--> Anticipate
+    Knight of the Tusk
+    Trusty Packbeast
+    Naturalize
+    Suncleanser
+
+Pack 1 pick 10:
+--> Desecrated Tomb
+    Talons of Wildwood
+    Trusty Packbeast
+    Rustwing Falcon
+    Tormenting Voice
+    Forest
+
+Pack 1 pick 11:
+    Wall of Vines
+--> Lava Axe
+    Bogstomper
+    Tormenting Voice
+    Island
+
+Pack 1 pick 12:
+--> Aegis of the Heavens
+    Sovereign's Bite
+    Smelt
+    Plains
+
+Pack 1 pick 13:
+    Plummet
+    Sovereign's Bite
+--> Trusty Packbeast
+
+Pack 1 pick 14:
+    Trumpet Blast
+--> Ghostform
+
+Pack 1 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Remorseful Cleric
+--> Lightning Strike
+    Blanchwood Armor
+    Blood Divination
+    Bristling Boar
+    Onakke Ogre
+    Infectious Horror
+    Divination
+    Angel of the Dawn
+    Manalith
+    Marauder's Axe
+    Hired Blade
+    Ghostform
+    Naturalize
+    Island
+
+Pack 2 pick 2:
+    Amulet of Safekeeping
+    Regal Bloodlord
+    Inferno Hellion
+--> Aerial Engineer
+    Plummet
+    Duress
+    Cancel
+    Knight's Pledge
+    Crash Through
+    Anticipate
+    Highland Game
+    Macabre Waltz
+    Two-Headed Zombie
+    Island
+
+Pack 2 pick 3:
+    Vivien Reid
+    Make a Stand
+    Skyrider Patrol
+    Highland Game
+    Catalyst Elemental
+    Strangling Spores
+--> Snapping Drake
+    Oreskos Swiftclaw
+    Revitalize
+    Giant Spider
+    Trusty Packbeast
+    Salvager of Secrets
+    Mountain
+
+Pack 2 pick 4:
+    Goreclaw, Terror of Qal Sisma
+    Satyr Enchanter
+--> Psychic Symbiont
+    Daggerback Basilisk
+    Hostile Minotaur
+    Doomed Dissenter
+    Ghostform
+    Loxodon Line Breaker
+    Infernal Scarring
+    Cancel
+    Skymarch Bloodletter
+    Swamp
+
+Pack 2 pick 5:
+    Ravenous Harpy
+--> Diamond Mare
+    Highland Game
+    Electrify
+    Mind Rot
+    Gearsmith Prodigy
+    Naturalize
+    Epicure of Blood
+    Hostile Minotaur
+    Duress
+    Plains
+
+Pack 2 pick 6:
+    Recollect
+    Reclamation Sage
+    Gargoyle Sentinel
+    Colossal Dreadmaw
+    Totally Lost
+    Centaur Courser
+--> Cancel
+    Crash Through
+    Fire Elemental
+    Mountain
+
+Pack 2 pick 7:
+    Reassembling Skeleton
+    Ghastbark Twins
+    Fire Elemental
+    Two-Headed Zombie
+--> Totally Lost
+    Greenwood Sentinel
+    Child of Night
+    Naturalize
+    Woodland Stream
+
+Pack 2 pick 8:
+    Elvish Rejuvenator
+    Bogstomper
+--> Cancel
+    Field Creeper
+    Tolarian Scholar
+    Crash Through
+    Mind Rot
+    Isolate
+
+Pack 2 pick 9:
+    Blanchwood Armor
+    Blood Divination
+    Bristling Boar
+    Infectious Horror
+--> Ghostform
+    Naturalize
+    Island
+
+Pack 2 pick 10:
+    Amulet of Safekeeping
+    Plummet
+    Duress
+--> Anticipate
+    Highland Game
+    Island
+
+Pack 2 pick 11:
+    Highland Game
+    Catalyst Elemental
+    Trusty Packbeast
+--> Salvager of Secrets
+    Mountain
+
+Pack 2 pick 12:
+    Hostile Minotaur
+--> Ghostform
+    Infernal Scarring
+    Swamp
+
+Pack 2 pick 13:
+    Highland Game
+--> Duress
+    Plains
+
+Pack 2 pick 14:
+--> Fire Elemental
+    Mountain
+
+Pack 2 pick 15:
+--> Two-Headed Zombie
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Valiant Knight
+    Colossal Majesty
+    Gift of Paradise
+    Vampire Sovereign
+    Plummet
+    Crash Through
+    Bogstomper
+--> Ghostform
+    Angel of the Dawn
+    Field Creeper
+    Skeleton Archer
+    Sovereign's Bite
+    Invoke the Divine
+    Wall of Vines
+    Plains
+
+Pack 3 pick 2:
+    Lightning Mare
+--> Enigma Drake
+    Rogue's Gloves
+    Wall of Vines
+    Onakke Ogre
+    Mind Rot
+    Aviation Pioneer
+    Trusty Packbeast
+    Gearsmith Guardian
+    Invoke the Divine
+    Mighty Leap
+    Essence Scatter
+    Abnormal Endurance
+    Onakke Ogre
+
+Pack 3 pick 3:
+    Alpine Moon
+--> Exclusion Mage
+    Giant Spider
+    Crash Through
+    Walking Corpse
+    Divination
+    Cavalry Drillmaster
+    Bristling Boar
+    Root Snare
+    Knight of the Tusk
+    Wall of Vines
+    Cancel
+    Submerged Boneyard
+
+Pack 3 pick 4:
+    Diregraf Ghoul
+    Declare Dominance
+--> Horizon Scholar
+    Goblin Motivator
+    Sovereign's Bite
+    Ghostform
+    Knight of the Tusk
+    Scholar of Stars
+    Infernal Scarring
+    Crash Through
+    Omenspeaker
+    Island
+
+Pack 3 pick 5:
+--> Enigma Drake
+    Brawl-Bash Ogre
+    Reliquary Tower
+    Daggerback Basilisk
+    Act of Treason
+    Hired Blade
+    Uncomfortable Chill
+    Oreskos Swiftclaw
+    Dwindle
+    Lava Axe
+    Meandering River
+
+Pack 3 pick 6:
+    Heroic Reinforcements
+    Oakenform
+    Lava Axe
+    Sovereign's Bite
+    Snapping Drake
+    Inspired Charge
+    Wall of Mist
+    Scholar of Stars
+--> Electrify
+    Cinder Barrens
+
+Pack 3 pick 7:
+    Isolate
+--> Mirror Image
+    Root Snare
+    Bogstomper
+    Manalith
+    Snapping Drake
+    Aven Wind Mage
+    Tormenting Voice
+    Island
+
+Pack 3 pick 8:
+--> Departed Deckhand
+    Thornhide Wolves
+    Anticipate
+    Oreskos Swiftclaw
+    Frilled Sea Serpent
+    Havoc Devils
+    Infectious Horror
+    Titanic Growth
+
+Pack 3 pick 9:
+    Crash Through
+    Bogstomper
+--> Field Creeper
+    Sovereign's Bite
+    Invoke the Divine
+    Wall of Vines
+    Plains
+
+Pack 3 pick 10:
+--> Aviation Pioneer
+    Gearsmith Guardian
+    Invoke the Divine
+    Mighty Leap
+    Abnormal Endurance
+    Onakke Ogre
+
+Pack 3 pick 11:
+    Alpine Moon
+    Crash Through
+--> Divination
+    Root Snare
+    Wall of Vines
+
+Pack 3 pick 12:
+    Ghostform
+--> Scholar of Stars
+    Crash Through
+    Island
+
+Pack 3 pick 13:
+    Reliquary Tower
+--> Uncomfortable Chill
+    Lava Axe
+
+Pack 3 pick 14:
+    Lava Axe
+--> Wall of Mist
+
+Pack 3 pick 15:
+--> Island

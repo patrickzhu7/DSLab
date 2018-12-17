@@ -1,0 +1,467 @@
+Event #: 38432
+Time:    04/10/18
+Players:
+--> user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Graveyard Marshal
+    Nightmare's Thirst
+    Reliquary Tower
+    Dryad Greenseeker
+    Druid of the Cowl
+    Havoc Devils
+    Walking Corpse
+    Totally Lost
+    Cavalry Drillmaster
+    Loxodon Line Breaker
+    Talons of Wildwood
+    Daybreak Chaplain
+    Daggerback Basilisk
+    Marauder's Axe
+    Island
+
+Pack 1 pick 2:
+    Vivien's Invocation
+--> Switcheroo
+    Stitcher's Supplier
+    Oakenform
+    Sparktongue Dragon
+    Bogstomper
+    Aviation Pioneer
+    Pegasus Courser
+    Gearsmith Guardian
+    Catalyst Elemental
+    Cancel
+    Frilled Sea Serpent
+    Two-Headed Zombie
+    Tranquil Expanse
+
+Pack 1 pick 3:
+    Thud
+--> Sleep
+    Elvish Rejuvenator
+    Viashino Pyromancer
+    Strangling Spores
+    Uncomfortable Chill
+    Angel of the Dawn
+    Epicure of Blood
+    Thornhide Wolves
+    Dwindle
+    Goblin Motivator
+    Omenspeaker
+    Forest
+
+Pack 1 pick 4:
+--> Horizon Scholar
+    Greenwood Sentinel
+    Act of Treason
+    Two-Headed Zombie
+    Wall of Mist
+    Star-Crowned Stag
+    Abnormal Endurance
+    Daggerback Basilisk
+    Sparktongue Dragon
+    Crash Through
+    Vampire Neonate
+    Swamp
+
+Pack 1 pick 5:
+    Alpine Moon
+    Rogue's Gloves
+    Suspicious Bookcase
+--> Centaur Courser
+    Onakke Ogre
+    Walking Corpse
+    Knight of the Tusk
+    Greenwood Sentinel
+    Loxodon Line Breaker
+    Rustwing Falcon
+    Island
+
+Pack 1 pick 6:
+    Ajani's Welcome
+    Greenwood Sentinel
+    Lava Axe
+    Divination
+    Invoke the Divine
+    Infectious Horror
+    Hostile Minotaur
+    Frilled Sea Serpent
+--> Snapping Drake
+    Trumpet Blast
+
+Pack 1 pick 7:
+    Thud
+--> Aethershield Artificer
+    Root Snare
+    Sure Strike
+    Daybreak Chaplain
+    Trumpet Blast
+    Wall of Vines
+    Gearsmith Prodigy
+    Plains
+
+Pack 1 pick 8:
+    Infernal Reckoning
+    Tectonic Rift
+    Plummet
+--> Disperse
+    Revitalize
+    Talons of Wildwood
+    Hostile Minotaur
+    Infernal Scarring
+
+Pack 1 pick 9:
+    Reliquary Tower
+    Walking Corpse
+    Totally Lost
+    Loxodon Line Breaker
+    Talons of Wildwood
+--> Daybreak Chaplain
+    Island
+
+Pack 1 pick 10:
+    Stitcher's Supplier
+    Oakenform
+    Bogstomper
+    Catalyst Elemental
+--> Frilled Sea Serpent
+    Tranquil Expanse
+
+Pack 1 pick 11:
+    Viashino Pyromancer
+    Uncomfortable Chill
+--> Thornhide Wolves
+    Goblin Motivator
+    Forest
+
+Pack 1 pick 12:
+--> Wall of Mist
+    Abnormal Endurance
+    Crash Through
+    Swamp
+
+Pack 1 pick 13:
+    Loxodon Line Breaker
+--> Rustwing Falcon
+    Island
+
+Pack 1 pick 14:
+--> Ajani's Welcome
+    Frilled Sea Serpent
+
+Pack 1 pick 15:
+--> Plains
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Prodigious Growth
+--> Hieromancer's Cage
+    Reclamation Sage
+    Volcanic Dragon
+    Giant Spider
+    Crash Through
+    Infectious Horror
+    Tolarian Scholar
+    Invoke the Divine
+    Trusty Packbeast
+    Skymarch Bloodletter
+    Highland Game
+    Daybreak Chaplain
+    Sovereign's Bite
+    Mountain
+
+Pack 2 pick 2:
+    Magistrate's Scepter
+    Regal Bloodlord
+--> Hieromancer's Cage
+    Sift
+    Tormenting Voice
+    Infernal Scarring
+    Salvager of Secrets
+    Invoke the Divine
+    Inspired Charge
+    Abnormal Endurance
+    Rustwing Falcon
+    Druid of the Cowl
+    Naturalize
+    Forest
+
+Pack 2 pick 3:
+    Meteor Golem
+    Volcanic Dragon
+    Titanic Growth
+    Onakke Ogre
+    Mind Rot
+    Scholar of Stars
+    Oreskos Swiftclaw
+    Rhox Oracle
+    Highland Game
+--> Angel of the Dawn
+    Skyscanner
+    Lich's Caress
+    Swamp
+
+Pack 2 pick 4:
+--> Novice Knight
+    Lightning Mare
+    Viashino Pyromancer
+    Two-Headed Zombie
+    Gearsmith Prodigy
+    Dwarven Priest
+    Knight of the Tusk
+    Ghostform
+    Sparktongue Dragon
+    Giant Spider
+    Aviation Pioneer
+    Forest
+
+Pack 2 pick 5:
+    Druid of Horns
+--> Ravenous Harpy
+    Smelt
+    Duress
+    Aviation Pioneer
+    Infernal Scarring
+    Gearsmith Prodigy
+    Titanic Growth
+    Trumpet Blast
+    Ghostform
+    Forest
+
+Pack 2 pick 6:
+    Liliana's Contract
+--> Sift
+    Psychic Symbiont
+    Walking Corpse
+    Salvager of Secrets
+    Knight of the Tusk
+    Mind Rot
+    Sovereign's Bite
+    Infernal Scarring
+    Plains
+
+Pack 2 pick 7:
+    Reliquary Tower
+    Catalyst Elemental
+--> Aviation Pioneer
+    Knight's Pledge
+    Frilled Sea Serpent
+    Crash Through
+    Naturalize
+    Tolarian Scholar
+    Submerged Boneyard
+
+Pack 2 pick 8:
+    Isolate
+--> Novice Knight
+    Sovereign's Bite
+    Uncomfortable Chill
+    Knight of the Tusk
+    Frilled Sea Serpent
+    Gearsmith Guardian
+    Mountain
+
+Pack 2 pick 9:
+    Infectious Horror
+    Tolarian Scholar
+    Invoke the Divine
+    Trusty Packbeast
+--> Daybreak Chaplain
+    Sovereign's Bite
+    Mountain
+
+Pack 2 pick 10:
+    Magistrate's Scepter
+--> Sift
+    Infernal Scarring
+    Salvager of Secrets
+    Inspired Charge
+    Forest
+
+Pack 2 pick 11:
+    Mind Rot
+    Scholar of Stars
+--> Oreskos Swiftclaw
+    Highland Game
+    Swamp
+
+Pack 2 pick 12:
+    Viashino Pyromancer
+--> Gearsmith Prodigy
+    Knight of the Tusk
+    Forest
+
+Pack 2 pick 13:
+--> Gearsmith Prodigy
+    Ghostform
+    Forest
+
+Pack 2 pick 14:
+--> Sovereign's Bite
+    Plains
+
+Pack 2 pick 15:
+--> Reliquary Tower
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Desecrated Tomb
+    Diamond Mare
+    Skilled Animator
+    Arcane Encyclopedia
+    Plummet
+    Tormenting Voice
+    Child of Night
+--> Omenspeaker
+    Pegasus Courser
+    Walking Corpse
+    Naturalize
+    Goblin Motivator
+    Skymarch Bloodletter
+    Inspired Charge
+    Plains
+
+Pack 3 pick 2:
+--> Ajani's Last Stand
+    Millstone
+    Recollect
+    Novice Knight
+    Plummet
+    Goblin Instigator
+    Aviation Pioneer
+    Mighty Leap
+    Totally Lost
+    Omenspeaker
+    Infernal Scarring
+    Invoke the Divine
+    Greenwood Sentinel
+    Highland Lake
+
+Pack 3 pick 3:
+    Alpine Moon
+    Aether Tunnel
+    Declare Dominance
+    Inferno Hellion
+    Elvish Rejuvenator
+    Lava Axe
+    Divination
+    Gallant Cavalry
+--> Aven Wind Mage
+    Inspired Charge
+    Salvager of Secrets
+    Titanic Growth
+    Meandering River
+
+Pack 3 pick 4:
+    Suncleanser
+    Aegis of the Heavens
+    Fiery Finish
+    Sure Strike
+    Vampire Neonate
+    Scholar of Stars
+    Dwarven Priest
+    Havoc Devils
+    Abnormal Endurance
+    Macabre Waltz
+--> Omenspeaker
+    Mountain
+
+Pack 3 pick 5:
+    Metamorphic Alteration
+    Enigma Drake
+    Thornhide Wolves
+    Sparktongue Dragon
+    Tolarian Scholar
+    Knight's Pledge
+    Daggerback Basilisk
+    Hired Blade
+    Titanic Growth
+--> Disperse
+    Plains
+
+Pack 3 pick 6:
+    One with the Machine
+    Poison-Tip Archer
+    Ghirapur Guide
+    Root Snare
+    Fire Elemental
+    Loxodon Line Breaker
+--> Manalith
+    Knight's Pledge
+    Gearsmith Guardian
+    Mountain
+
+Pack 3 pick 7:
+--> Leonin Vanguard
+    Recollect
+    Wall of Vines
+    Wall of Mist
+    Mighty Leap
+    Walking Corpse
+    Uncomfortable Chill
+    Explosive Apparatus
+    Forest
+
+Pack 3 pick 8:
+    Smelt
+    Totally Lost
+    Loxodon Line Breaker
+    Field Creeper
+    Naturalize
+--> Anticipate
+    Frilled Sea Serpent
+    Plains
+
+Pack 3 pick 9:
+    Desecrated Tomb
+--> Arcane Encyclopedia
+    Tormenting Voice
+    Walking Corpse
+    Naturalize
+    Inspired Charge
+    Plains
+
+Pack 3 pick 10:
+    Recollect
+    Mighty Leap
+    Totally Lost
+--> Omenspeaker
+    Invoke the Divine
+    Highland Lake
+
+Pack 3 pick 11:
+    Alpine Moon
+--> Aether Tunnel
+    Inspired Charge
+    Titanic Growth
+    Meandering River
+
+Pack 3 pick 12:
+--> Suncleanser
+    Aegis of the Heavens
+    Sure Strike
+    Mountain
+
+Pack 3 pick 13:
+--> Thornhide Wolves
+    Tolarian Scholar
+    Plains
+
+Pack 3 pick 14:
+--> Root Snare
+    Mountain
+
+Pack 3 pick 15:
+--> Forest
