@@ -3,6 +3,7 @@ decks/
 botless_decks/
 std_decks/
 .vscode
+draftlogs.csv
 
 # Mac Specific
 .DS_Store
