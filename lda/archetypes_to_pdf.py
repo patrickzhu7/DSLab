@@ -32,7 +32,6 @@ class ArchetypePdfHandler:
             archetypes_json = json.load(fp)
             self._new_page()
             for archetype in archetypes_json:
-                # print('Processing archetype ', self._archetype_count)
                 for card in archetype['cards']:
                     image_url = card['image_url']
                     self._add_image(image_url)
@@ -51,7 +50,6 @@ class ArchetypePdfHandler:
     def _add_image(self, url):
         if not url:
             return
-        print('url: ', url)
         image_filename = 'temp{}.jpg'.format(self._total_count)
         ArchetypePdfHandler.get_image(url).save(image_filename)
         self._pdf.image(image_filename, self._x, self._y, self._w, self._h)

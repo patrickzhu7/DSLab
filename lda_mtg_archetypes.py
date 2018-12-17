@@ -81,7 +81,7 @@ def train_model(corpus_memory_friendly, archetypes=30, iterations=30):
 		eta = beta_prior
 	)
 
-def export_archetypes(lda, num_archetypes=20, num_cards=30, outfile="30_archetypes.json"):
+def export_archetypes(lda, num_archetypes=15, num_cards=45, outfile="30_archetypes.json"):
     """
     Export the top most probable cards per archetype to a json file.
     """
