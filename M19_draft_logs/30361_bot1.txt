@@ -1,0 +1,467 @@
+Event #: 30361
+Time:    11/09/18
+Players:
+    user
+--> bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Open the Graves
+    Recollect
+    Arcane Encyclopedia
+    Guttersnipe
+    Elvish Rejuvenator
+    Hostile Minotaur
+    Mind Rot
+    Anticipate
+--> Luminous Bonds
+    Divination
+    Boggart Brute
+    Viashino Pyromancer
+    Oreskos Swiftclaw
+    Doomed Dissenter
+    Plains
+
+Pack 1 pick 2:
+    Psychic Corrosion
+    Gargoyle Sentinel
+--> Ajani's Pridemate
+    Talons of Wildwood
+    Trumpet Blast
+    Sovereign's Bite
+    Snapping Drake
+    Rustwing Falcon
+    Lava Axe
+    Manalith
+    Dwindle
+    Epicure of Blood
+    Daggerback Basilisk
+    Mountain
+
+Pack 1 pick 3:
+    Aerial Engineer
+    Shield Mare
+    Greenwood Sentinel
+    Smelt
+    Skeleton Archer
+    Dwindle
+    Invoke the Divine
+    Disperse
+    Snapping Drake
+--> Star-Crowned Stag
+    Two-Headed Zombie
+    Mighty Leap
+    Forest
+
+Pack 1 pick 4:
+    Liliana, Untouched by Death
+--> Nightmare's Thirst
+    Oakenform
+    Goblin Instigator
+    Infernal Scarring
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Sovereign's Bite
+    Doomed Dissenter
+    Centaur Courser
+    Sure Strike
+    Timber Gorge
+
+Pack 1 pick 5:
+    Thud
+    Fire Elemental
+    Macabre Waltz
+    Wall of Mist
+--> Oreskos Swiftclaw
+    Explosive Apparatus
+    Sparktongue Dragon
+    Rhox Oracle
+    Gearsmith Prodigy
+    Manalith
+    Swamp
+
+Pack 1 pick 6:
+    Recollect
+--> Make a Stand
+    Naturalize
+    Gearsmith Prodigy
+    Knight's Pledge
+    Ghostform
+    Doomed Dissenter
+    Bogstomper
+    Oakenform
+    Swamp
+
+Pack 1 pick 7:
+    Declare Dominance
+    Elvish Rejuvenator
+    Fire Elemental
+    Ghostform
+--> Pegasus Courser
+    Catalyst Elemental
+    Frilled Sea Serpent
+    Cavalry Drillmaster
+    Island
+
+Pack 1 pick 8:
+    Titanic Growth
+    Catalyst Elemental
+    Wall of Mist
+    Centaur Courser
+    Salvager of Secrets
+    Divination
+    Dwarven Priest
+--> Forsaken Sanctuary
+
+Pack 1 pick 9:
+    Recollect
+    Mind Rot
+    Anticipate
+    Divination
+    Viashino Pyromancer
+--> Oreskos Swiftclaw
+    Plains
+
+Pack 1 pick 10:
+    Talons of Wildwood
+    Trumpet Blast
+    Sovereign's Bite
+--> Rustwing Falcon
+    Lava Axe
+    Mountain
+
+Pack 1 pick 11:
+    Greenwood Sentinel
+--> Invoke the Divine
+    Disperse
+    Mighty Leap
+    Forest
+
+Pack 1 pick 12:
+    Infernal Scarring
+    Gearsmith Prodigy
+--> Knight of the Tusk
+    Sovereign's Bite
+
+Pack 1 pick 13:
+    Fire Elemental
+--> Gearsmith Prodigy
+    Swamp
+
+Pack 1 pick 14:
+--> Ghostform
+    Swamp
+
+Pack 1 pick 15:
+--> Island
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Dragon's Hoard
+    Ghirapur Guide
+    Dryad Greenseeker
+    Rise from the Grave
+    Daggerback Basilisk
+    Fire Elemental
+    Sovereign's Bite
+    Cancel
+--> Gallant Cavalry
+    Essence Scatter
+    Knight's Pledge
+    Wall of Mist
+    Colossal Dreadmaw
+    Doomed Dissenter
+    Foul Orchard
+
+Pack 2 pick 2:
+--> Mentor of the Meek
+    Bone to Ash
+    Switcheroo
+    Greenwood Sentinel
+    Viashino Pyromancer
+    Abnormal Endurance
+    Aven Wind Mage
+    Loxodon Line Breaker
+    Infectious Horror
+    Gearsmith Guardian
+    Snapping Drake
+    Highland Game
+    Dwindle
+    Plains
+
+Pack 2 pick 3:
+    Supreme Phantom
+    Arcane Encyclopedia
+    Reclamation Sage
+    Wall of Vines
+    Onakke Ogre
+    Bogstomper
+    Aviation Pioneer
+    Daybreak Chaplain
+    Disperse
+    Divination
+    Bristling Boar
+    Greenwood Sentinel
+--> Oreskos Swiftclaw
+
+Pack 2 pick 4:
+    Detection Tower
+    Colossal Majesty
+    Blood Divination
+--> Lightning Mare
+    Bristling Boar
+    Tormenting Voice
+    Hired Blade
+    Tolarian Scholar
+    Viashino Pyromancer
+    Centaur Courser
+    Manalith
+    Meandering River
+
+Pack 2 pick 5:
+    Dragon Egg
+    Thornhide Wolves
+    Lava Axe
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Field Creeper
+    Act of Treason
+    Cancel
+--> Inspired Charge
+    Goblin Motivator
+    Island
+
+Pack 2 pick 6:
+    Skyrider Patrol
+    Millstone
+    Thornhide Wolves
+    Vampire Neonate
+    Knight's Pledge
+    Inspired Charge
+    Daggerback Basilisk
+    Strangling Spores
+--> Star-Crowned Stag
+    Mountain
+
+Pack 2 pick 7:
+    Doublecast
+    Reliquary Tower
+    Wall of Vines
+    Invoke the Divine
+    Infernal Scarring
+    Uncomfortable Chill
+--> Dwarven Priest
+    Root Snare
+    Swamp
+
+Pack 2 pick 8:
+    Isolate
+--> Fountain of Renewal
+    Infectious Horror
+    Disperse
+    Explosive Apparatus
+    Uncomfortable Chill
+    Two-Headed Zombie
+    Blanchwood Armor
+
+Pack 2 pick 9:
+    Ghirapur Guide
+    Fire Elemental
+    Sovereign's Bite
+--> Knight's Pledge
+    Wall of Mist
+    Colossal Dreadmaw
+    Foul Orchard
+
+Pack 2 pick 10:
+    Greenwood Sentinel
+--> Loxodon Line Breaker
+    Infectious Horror
+    Gearsmith Guardian
+    Highland Game
+    Plains
+
+Pack 2 pick 11:
+    Supreme Phantom
+    Wall of Vines
+--> Daybreak Chaplain
+    Disperse
+    Greenwood Sentinel
+
+Pack 2 pick 12:
+    Detection Tower
+    Colossal Majesty
+--> Tormenting Voice
+    Tolarian Scholar
+
+Pack 2 pick 13:
+    Gearsmith Prodigy
+--> Knight of the Tusk
+    Island
+
+Pack 2 pick 14:
+--> Knight's Pledge
+    Mountain
+
+Pack 2 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Isolate
+    Surge Mare
+    Aether Tunnel
+    Aegis of the Heavens
+    Giant Spider
+    Onakke Ogre
+    Abnormal Endurance
+    Omenspeaker
+    Revitalize
+--> Star-Crowned Stag
+    Explosive Apparatus
+    Marauder's Axe
+    Highland Game
+    Plummet
+    Cinder Barrens
+
+Pack 3 pick 2:
+    Skilled Animator
+    Fountain of Renewal
+--> Meteor Golem
+    Thornhide Wolves
+    Tormenting Voice
+    Two-Headed Zombie
+    Salvager of Secrets
+    Inspired Charge
+    Lich's Caress
+    Sparktongue Dragon
+    Havoc Devils
+    Macabre Waltz
+    Gearsmith Prodigy
+    Plains
+
+Pack 3 pick 3:
+    Arcane Encyclopedia
+    Colossal Majesty
+    Psychic Symbiont
+    Oakenform
+    Skeleton Archer
+    Essence Scatter
+--> Angel of the Dawn
+    Divination
+    Take Vengeance
+    Pegasus Courser
+    Two-Headed Zombie
+    Skymarch Bloodletter
+    Windreader Sphinx
+
+Pack 3 pick 4:
+    One with the Machine
+--> Shield Mare
+    Poison-Tip Archer
+    Fire Elemental
+    Walking Corpse
+    Aven Wind Mage
+    Oreskos Swiftclaw
+    Field Creeper
+    Cavalry Drillmaster
+    Uncomfortable Chill
+    Daggerback Basilisk
+    Island
+
+Pack 3 pick 5:
+--> Regal Bloodlord
+    Blanchwood Armor
+    Hostile Minotaur
+    Epicure of Blood
+    Divination
+    Revitalize
+    Mind Rot
+    Root Snare
+    Marauder's Axe
+    Cancel
+    Goblin Instigator
+
+Pack 3 pick 6:
+    Detection Tower
+    Diamond Mare
+    Tectonic Rift
+    Naturalize
+    Viashino Pyromancer
+    Tolarian Scholar
+    Tormenting Voice
+--> Cavalry Drillmaster
+    Omenspeaker
+    Goblin Motivator
+
+Pack 3 pick 7:
+    Alpine Moon
+    Brawl-Bash Ogre
+    Sure Strike
+    Uncomfortable Chill
+    Wall of Vines
+    Goblin Instigator
+--> Invoke the Divine
+    Thornhide Wolves
+    Island
+
+Pack 3 pick 8:
+    Aegis of the Heavens
+    Ajani's Welcome
+    Bristling Boar
+    Divination
+    Rustwing Falcon
+    Salvager of Secrets
+--> Daybreak Chaplain
+    Highland Lake
+
+Pack 3 pick 9:
+    Isolate
+    Aether Tunnel
+    Aegis of the Heavens
+--> Revitalize
+    Explosive Apparatus
+    Highland Game
+    Plummet
+
+Pack 3 pick 10:
+    Fountain of Renewal
+    Tormenting Voice
+    Salvager of Secrets
+--> Inspired Charge
+    Gearsmith Prodigy
+    Plains
+
+Pack 3 pick 11:
+    Arcane Encyclopedia
+    Colossal Majesty
+    Psychic Symbiont
+    Oakenform
+--> Pegasus Courser
+
+Pack 3 pick 12:
+    One with the Machine
+    Fire Elemental
+--> Oreskos Swiftclaw
+    Island
+
+Pack 3 pick 13:
+--> Revitalize
+    Root Snare
+    Cancel
+
+Pack 3 pick 14:
+--> Detection Tower
+    Tolarian Scholar
+
+Pack 3 pick 15:
+--> Island

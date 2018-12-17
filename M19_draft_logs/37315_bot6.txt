@@ -1,0 +1,467 @@
+Event #: 37315
+Time:    02/10/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+--> bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Mystic Archaeologist
+    Ajani's Pridemate
+    Suspicious Bookcase
+    Ghastbark Twins
+    Colossal Dreadmaw
+    Tormenting Voice
+    Strangling Spores
+    Wall of Mist
+    Rustwing Falcon
+    Gearsmith Prodigy
+    Trumpet Blast
+    Talons of Wildwood
+    Hired Blade
+    Thornhide Wolves
+    Island
+
+Pack 1 pick 2:
+    Blood Divination
+    Gargoyle Sentinel
+    Vigilant Baloth
+    Daggerback Basilisk
+    Crash Through
+    Skeleton Archer
+--> Essence Scatter
+    Revitalize
+    Ghostform
+    Star-Crowned Stag
+    Invoke the Divine
+    Anticipate
+    Goblin Instigator
+    Gargoyle Sentinel
+
+Pack 1 pick 3:
+    Sift
+--> Switcheroo
+    Heroic Reinforcements
+    Druid of the Cowl
+    Fire Elemental
+    Hired Blade
+    Gearsmith Prodigy
+    Revitalize
+    Explosive Apparatus
+    Dwarven Priest
+    Trusty Packbeast
+    Field Creeper
+    Forsaken Sanctuary
+
+Pack 1 pick 4:
+    Isolate
+    Fiery Finish
+    Plummet
+    Boggart Brute
+    Walking Corpse
+--> Snapping Drake
+    Trusty Packbeast
+    Inspired Charge
+    Onakke Ogre
+    Disperse
+    Giant Spider
+    Mountain
+
+Pack 1 pick 5:
+    Aerial Engineer
+--> Switcheroo
+    Greenwood Sentinel
+    Sparktongue Dragon
+    Infectious Horror
+    Totally Lost
+    Cavalry Drillmaster
+    Two-Headed Zombie
+    Scholar of Stars
+    Manalith
+    Swamp
+
+Pack 1 pick 6:
+    Ghastbark Twins
+    Thornhide Wolves
+    Viashino Pyromancer
+    Vampire Neonate
+    Disperse
+    Root Snare
+--> Gearsmith Guardian
+    Catalyst Elemental
+    Bristling Boar
+    Foul Orchard
+
+Pack 1 pick 7:
+    Tectonic Rift
+    Ajani's Welcome
+    Act of Treason
+    Bogstomper
+    Trusty Packbeast
+--> Rhox Oracle
+    Fire Elemental
+    Invoke the Divine
+    Goblin Motivator
+
+Pack 1 pick 8:
+--> Aethershield Artificer
+    Thornhide Wolves
+    Havoc Devils
+    Two-Headed Zombie
+    Elvish Rejuvenator
+    Gallant Cavalry
+    Child of Night
+    Talons of Wildwood
+
+Pack 1 pick 9:
+    Tormenting Voice
+--> Gearsmith Prodigy
+    Trumpet Blast
+    Talons of Wildwood
+    Hired Blade
+    Thornhide Wolves
+    Island
+
+Pack 1 pick 10:
+    Blood Divination
+    Crash Through
+    Revitalize
+    Ghostform
+--> Anticipate
+    Goblin Instigator
+
+Pack 1 pick 11:
+--> Gearsmith Prodigy
+    Revitalize
+    Dwarven Priest
+    Trusty Packbeast
+    Forsaken Sanctuary
+
+Pack 1 pick 12:
+    Isolate
+--> Fiery Finish
+    Walking Corpse
+    Mountain
+
+Pack 1 pick 13:
+    Infectious Horror
+--> Totally Lost
+    Swamp
+
+Pack 1 pick 14:
+    Root Snare
+--> Catalyst Elemental
+
+Pack 1 pick 15:
+--> Tectonic Rift
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Goblin Trashmaster
+    Doublecast
+--> Departed Deckhand
+    Reclamation Sage
+    Rabid Bite
+    Havoc Devils
+    Vampire Neonate
+    Totally Lost
+    Rustwing Falcon
+    Tolarian Scholar
+    Uncomfortable Chill
+    Skyscanner
+    Viashino Pyromancer
+    Marauder's Axe
+    Stone Quarry
+
+Pack 2 pick 2:
+    Chromium, the Mutable
+    Poison-Tip Archer
+    Aegis of the Heavens
+--> Exclusion Mage
+    Root Snare
+    Crash Through
+    Sovereign's Bite
+    Dwindle
+    Daybreak Chaplain
+    Greenwood Sentinel
+    Doomed Dissenter
+    Goblin Motivator
+    Rhox Oracle
+    Rogue's Gloves
+
+Pack 2 pick 3:
+    Ghastbark Twins
+    Reliquary Tower
+    Highland Game
+    Hostile Minotaur
+    Child of Night
+--> Frilled Sea Serpent
+    Cavalry Drillmaster
+    Macabre Waltz
+    Goblin Motivator
+    Catalyst Elemental
+    Mind Rot
+    Titanic Growth
+    Forest
+
+Pack 2 pick 4:
+    Lightning Mare
+    Rise from the Grave
+    Thornhide Wolves
+    Lava Axe
+    Duress
+    Anticipate
+    Mighty Leap
+    Mind Rot
+--> Salvager of Secrets
+    Viashino Pyromancer
+    Goblin Motivator
+    Forest
+
+Pack 2 pick 5:
+    Regal Bloodlord
+    Ghirapur Guide
+    Dragon Egg
+    Wall of Vines
+    Goblin Instigator
+--> Aviation Pioneer
+    Cavalry Drillmaster
+    Two-Headed Zombie
+    Explosive Apparatus
+    Epicure of Blood
+    Forest
+
+Pack 2 pick 6:
+    Declare Dominance
+    Centaur Courser
+    Doomed Dissenter
+--> Disperse
+    Trusty Packbeast
+    Oakenform
+    Rustwing Falcon
+    Knight's Pledge
+    Smelt
+    Island
+
+Pack 2 pick 7:
+    Sure Strike
+    Snapping Drake
+    Inspired Charge
+    Tormenting Voice
+    Highland Game
+    Titanic Growth
+    Gearsmith Prodigy
+--> Aviation Pioneer
+    Snapping Drake
+
+Pack 2 pick 8:
+    Draconic Disciple
+    Inferno Hellion
+    Salvager of Secrets
+--> Aviation Pioneer
+    Gallant Cavalry
+    Colossal Dreadmaw
+    Aven Wind Mage
+    Naturalize
+
+Pack 2 pick 9:
+    Doublecast
+    Havoc Devils
+    Totally Lost
+    Tolarian Scholar
+--> Uncomfortable Chill
+    Viashino Pyromancer
+    Stone Quarry
+
+Pack 2 pick 10:
+    Poison-Tip Archer
+    Aegis of the Heavens
+    Root Snare
+    Crash Through
+    Sovereign's Bite
+--> Goblin Motivator
+
+Pack 2 pick 11:
+    Reliquary Tower
+--> Goblin Motivator
+    Catalyst Elemental
+    Titanic Growth
+    Forest
+
+Pack 2 pick 12:
+--> Lava Axe
+    Duress
+    Mighty Leap
+    Forest
+
+Pack 2 pick 13:
+    Wall of Vines
+--> Explosive Apparatus
+    Forest
+
+Pack 2 pick 14:
+--> Knight's Pledge
+    Island
+
+Pack 2 pick 15:
+--> Highland Game
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Liliana's Contract
+    Psychic Symbiont
+    Brawl-Bash Ogre
+    Enigma Drake
+    Elvish Rejuvenator
+    Crash Through
+    Infernal Scarring
+    Uncomfortable Chill
+    Inspired Charge
+    Havoc Devils
+--> Aven Wind Mage
+    Gearsmith Prodigy
+    Skyscanner
+    Catalyst Elemental
+    Mountain
+
+Pack 3 pick 2:
+    Remorseful Cleric
+    Suspicious Bookcase
+    Thud
+    Daggerback Basilisk
+    Goblin Motivator
+    Bogstomper
+    Wall of Mist
+    Loxodon Line Breaker
+    Sparktongue Dragon
+    Sovereign's Bite
+--> Snapping Drake
+    Plummet
+    Doomed Dissenter
+    Forest
+
+Pack 3 pick 3:
+    Dragon's Hoard
+    Leonin Vanguard
+    Fountain of Renewal
+    Naturalize
+    Crash Through
+    Two-Headed Zombie
+--> Frilled Sea Serpent
+    Dwarven Priest
+    Lava Axe
+    Oreskos Swiftclaw
+    Invoke the Divine
+    Daybreak Chaplain
+    Island
+
+Pack 3 pick 4:
+    Apex of Power
+--> Meteor Golem
+    Talons of Wildwood
+    Lava Axe
+    Mind Rot
+    Ghostform
+    Revitalize
+    Pegasus Courser
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Wall of Vines
+    Plains
+
+Pack 3 pick 5:
+    Stitcher's Supplier
+    Greenwood Sentinel
+    Boggart Brute
+    Child of Night
+--> Gearsmith Prodigy
+    Rustwing Falcon
+    Bristling Boar
+    Titanic Growth
+    Trumpet Blast
+    Infectious Horror
+    Swamp
+
+Pack 3 pick 6:
+    Liliana, Untouched by Death
+    Fountain of Renewal
+--> Arcane Encyclopedia
+    Smelt
+    Sparktongue Dragon
+    Gearsmith Prodigy
+    Field Creeper
+    Infernal Scarring
+    Invoke the Divine
+    Blanchwood Armor
+
+Pack 3 pick 7:
+    Blood Divination
+    Tormenting Voice
+    Sovereign's Bite
+    Uncomfortable Chill
+    Trumpet Blast
+    Bogstomper
+--> Wall of Mist
+    Plummet
+    Forsaken Sanctuary
+
+Pack 3 pick 8:
+--> Rogue's Gloves
+    Highland Game
+    Child of Night
+    Frilled Sea Serpent
+    Hired Blade
+    Infectious Horror
+    Root Snare
+    One with the Machine
+
+Pack 3 pick 9:
+--> Enigma Drake
+    Crash Through
+    Infernal Scarring
+    Uncomfortable Chill
+    Inspired Charge
+    Gearsmith Prodigy
+    Mountain
+
+Pack 3 pick 10:
+    Thud
+--> Goblin Motivator
+    Loxodon Line Breaker
+    Sovereign's Bite
+    Plummet
+    Forest
+
+Pack 3 pick 11:
+    Crash Through
+    Dwarven Priest
+--> Lava Axe
+    Daybreak Chaplain
+    Island
+
+Pack 3 pick 12:
+--> Apex of Power
+    Revitalize
+    Wall of Vines
+    Plains
+
+Pack 3 pick 13:
+    Stitcher's Supplier
+--> Rustwing Falcon
+    Swamp
+
+Pack 3 pick 14:
+--> Gearsmith Prodigy
+    Infernal Scarring
+
+Pack 3 pick 15:
+--> Sovereign's Bite

@@ -1,0 +1,467 @@
+Event #: 30228
+Time:    10/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+--> bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Detection Tower
+--> Regal Bloodlord
+    Mirror Image
+    Make a Stand
+    Naturalize
+    Crash Through
+    Bogstomper
+    Tolarian Scholar
+    Star-Crowned Stag
+    Macabre Waltz
+    Walking Corpse
+    Giant Spider
+    Inspired Charge
+    Take Vengeance
+    Swamp
+
+Pack 1 pick 2:
+    Skyrider Patrol
+    Horizon Scholar
+    Millstone
+    Bristling Boar
+    Havoc Devils
+    Mind Rot
+    Uncomfortable Chill
+    Revitalize
+--> Skymarch Bloodletter
+    Anticipate
+    Goblin Instigator
+    Salvager of Secrets
+    Macabre Waltz
+    Island
+
+Pack 1 pick 3:
+    Mistcaller
+    Heroic Reinforcements
+    Aether Tunnel
+    Centaur Courser
+    Infectious Horror
+    Aviation Pioneer
+    Inspired Charge
+    Loxodon Line Breaker
+    Tormenting Voice
+--> Vampire Neonate
+    Macabre Waltz
+    Salvager of Secrets
+    Mountain
+
+Pack 1 pick 4:
+    Blood Divination
+--> Fountain of Renewal
+    Giant Spider
+    Catalyst Elemental
+    Two-Headed Zombie
+    Tolarian Scholar
+    Invoke the Divine
+    Rustwing Falcon
+    Pegasus Courser
+    Salvager of Secrets
+    Abnormal Endurance
+    Island
+
+Pack 1 pick 5:
+    Declare Dominance
+    Suspicious Bookcase
+    Goblin Motivator
+    Infernal Scarring
+    Disperse
+--> Cavalry Drillmaster
+    Goblin Instigator
+    Plummet
+    Essence Scatter
+    Omenspeaker
+    Stone Quarry
+
+Pack 1 pick 6:
+    Elvish Rejuvenator
+    Sovereign's Bite
+    Scholar of Stars
+    Knight's Pledge
+    Manalith
+    Trumpet Blast
+    Sparktongue Dragon
+--> Epicure of Blood
+    Titanic Growth
+    Plains
+
+Pack 1 pick 7:
+    Isolate
+    Oakenform
+    Fire Elemental
+--> Duress
+    Aven Wind Mage
+    Loxodon Line Breaker
+    Greenwood Sentinel
+    Lava Axe
+    Swamp
+
+Pack 1 pick 8:
+    Omniscience
+    Smelt
+    Wall of Mist
+--> Knight of the Tusk
+    Root Snare
+    Scholar of Stars
+    Tolarian Scholar
+    Forest
+
+Pack 1 pick 9:
+    Detection Tower
+    Naturalize
+    Crash Through
+    Tolarian Scholar
+    Walking Corpse
+--> Inspired Charge
+    Swamp
+
+Pack 1 pick 10:
+    Millstone
+    Uncomfortable Chill
+--> Revitalize
+    Anticipate
+    Salvager of Secrets
+    Island
+
+Pack 1 pick 11:
+    Mistcaller
+    Aether Tunnel
+--> Loxodon Line Breaker
+    Tormenting Voice
+    Mountain
+
+Pack 1 pick 12:
+    Catalyst Elemental
+    Tolarian Scholar
+--> Invoke the Divine
+    Island
+
+Pack 1 pick 13:
+    Disperse
+    Plummet
+--> Stone Quarry
+
+Pack 1 pick 14:
+--> Knight's Pledge
+    Plains
+
+Pack 1 pick 15:
+--> Isolate
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Mystic Archaeologist
+    Declare Dominance
+    Reclamation Sage
+--> Regal Bloodlord
+    Talons of Wildwood
+    Crash Through
+    Two-Headed Zombie
+    Cancel
+    Dwarven Priest
+    Luminous Bonds
+    Skeleton Archer
+    Sparktongue Dragon
+    Centaur Courser
+    Explosive Apparatus
+    Plains
+
+Pack 2 pick 2:
+    Hungering Hydra
+    Brawl-Bash Ogre
+    Druid of Horns
+--> Plague Mare
+    Thornhide Wolves
+    Boggart Brute
+    Infectious Horror
+    Frilled Sea Serpent
+    Gallant Cavalry
+    Rhox Oracle
+    Skyscanner
+    Cancel
+    Snapping Drake
+    Mountain
+
+Pack 2 pick 3:
+    Druid of Horns
+    Vine Mare
+    Rabid Bite
+    Boggart Brute
+--> Strangling Spores
+    Tolarian Scholar
+    Take Vengeance
+    Dwindle
+    Disperse
+    Elvish Rejuvenator
+    Dwarven Priest
+    Highland Game
+    Swamp
+
+Pack 2 pick 4:
+    Infernal Reckoning
+    Poison-Tip Archer
+    Aethershield Artificer
+    Wall of Vines
+    Onakke Ogre
+    Skymarch Bloodletter
+    Tolarian Scholar
+    Rustwing Falcon
+    Trumpet Blast
+--> Lich's Caress
+    Doomed Dissenter
+    Forsaken Sanctuary
+
+Pack 2 pick 5:
+    Thud
+    Siegebreaker Giant
+    Inferno Hellion
+    Rhox Oracle
+    Viashino Pyromancer
+--> Skeleton Archer
+    Cancel
+    Naturalize
+    Totally Lost
+    Cavalry Drillmaster
+    Island
+
+Pack 2 pick 6:
+    Declare Dominance
+    Aegis of the Heavens
+    Onakke Ogre
+    Doomed Dissenter
+    Knight's Pledge
+    Marauder's Axe
+    Totally Lost
+    Crash Through
+    Oakenform
+--> Fell Specter
+
+Pack 2 pick 7:
+    Enigma Drake
+    Talons of Wildwood
+    Sure Strike
+--> Revitalize
+    Onakke Ogre
+    Scholar of Stars
+    Daggerback Basilisk
+    Goblin Motivator
+    Swamp
+
+Pack 2 pick 8:
+    Novice Knight
+    Satyr Enchanter
+    Hostile Minotaur
+    Mighty Leap
+--> Macabre Waltz
+    Uncomfortable Chill
+    Infernal Scarring
+    Island
+
+Pack 2 pick 9:
+    Declare Dominance
+    Talons of Wildwood
+    Crash Through
+--> Two-Headed Zombie
+    Centaur Courser
+    Explosive Apparatus
+    Plains
+
+Pack 2 pick 10:
+    Druid of Horns
+--> Infectious Horror
+    Frilled Sea Serpent
+    Rhox Oracle
+    Cancel
+    Mountain
+
+Pack 2 pick 11:
+--> Druid of Horns
+    Tolarian Scholar
+    Elvish Rejuvenator
+    Highland Game
+    Swamp
+
+Pack 2 pick 12:
+--> Infernal Reckoning
+    Wall of Vines
+    Onakke Ogre
+    Rustwing Falcon
+
+Pack 2 pick 13:
+    Thud
+--> Totally Lost
+    Island
+
+Pack 2 pick 14:
+--> Knight's Pledge
+    Crash Through
+
+Pack 2 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Fraying Omnipotence
+    Colossal Majesty
+    Blanchwood Armor
+--> Hieromancer's Cage
+    Plummet
+    Crash Through
+    Hired Blade
+    Salvager of Secrets
+    Daybreak Chaplain
+    Two-Headed Zombie
+    Skyscanner
+    Child of Night
+    Sure Strike
+    Epicure of Blood
+    Mountain
+
+Pack 3 pick 2:
+    Elvish Clancaller
+    Arcane Encyclopedia
+    Leonin Vanguard
+    Naturalize
+    Viashino Pyromancer
+    Walking Corpse
+    Uncomfortable Chill
+    Inspired Charge
+    Cavalry Drillmaster
+    Gearsmith Guardian
+--> Duress
+    Onakke Ogre
+    Smelt
+    Highland Lake
+
+Pack 3 pick 3:
+    Magistrate's Scepter
+    Sleep
+    Psychic Corrosion
+    Smelt
+--> Infectious Horror
+    Frilled Sea Serpent
+    Loxodon Line Breaker
+    Act of Treason
+    Anticipate
+    Dwarven Priest
+    Bogstomper
+    Highland Game
+    Plains
+
+Pack 3 pick 4:
+--> Open the Graves
+    Druid of Horns
+    Wall of Vines
+    Trumpet Blast
+    Mind Rot
+    Omenspeaker
+    Luminous Bonds
+    Trusty Packbeast
+    Anticipate
+    Hired Blade
+    Catalyst Elemental
+    Plains
+
+Pack 3 pick 5:
+    One with the Machine
+--> Ajani's Pridemate
+    Greenwood Sentinel
+    Hostile Minotaur
+    Bogstomper
+    Omenspeaker
+    Take Vengeance
+    Ghostform
+    Oakenform
+    Frilled Sea Serpent
+    Island
+
+Pack 3 pick 6:
+    Enigma Drake
+    Root Snare
+    Infernal Scarring
+    Snapping Drake
+--> Take Vengeance
+    Onakke Ogre
+    Cancel
+    Knight's Pledge
+    Plummet
+    Swamp
+
+Pack 3 pick 7:
+    Fiery Finish
+    Reliquary Tower
+    Tormenting Voice
+    Tolarian Scholar
+--> Mind Rot
+    Onakke Ogre
+    Dwindle
+    Titanic Growth
+    Mountain
+
+Pack 3 pick 8:
+    Tectonic Rift
+    Draconic Disciple
+    Smelt
+--> Child of Night
+    Knight of the Tusk
+    Dwarven Priest
+    Inspired Charge
+    Island
+
+Pack 3 pick 9:
+    Fraying Omnipotence
+    Plummet
+    Crash Through
+    Hired Blade
+    Daybreak Chaplain
+--> Epicure of Blood
+    Mountain
+
+Pack 3 pick 10:
+--> Leonin Vanguard
+    Uncomfortable Chill
+    Inspired Charge
+    Onakke Ogre
+    Smelt
+    Highland Lake
+
+Pack 3 pick 11:
+    Magistrate's Scepter
+    Frilled Sea Serpent
+--> Loxodon Line Breaker
+    Anticipate
+    Plains
+
+Pack 3 pick 12:
+    Wall of Vines
+--> Trusty Packbeast
+    Catalyst Elemental
+    Plains
+
+Pack 3 pick 13:
+    Ghostform
+--> Frilled Sea Serpent
+    Island
+
+Pack 3 pick 14:
+--> Knight's Pledge
+    Swamp
+
+Pack 3 pick 15:
+--> Mountain

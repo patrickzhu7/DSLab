@@ -1,0 +1,467 @@
+Event #: 31982
+Time:    15/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+--> bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Phylactery Lich
+    Gargoyle Sentinel
+    Diregraf Ghoul
+    Arcane Encyclopedia
+    Giant Spider
+    Goblin Motivator
+    Skymarch Bloodletter
+    Salvager of Secrets
+    Loxodon Line Breaker
+    Gearsmith Guardian
+    Daggerback Basilisk
+    Disperse
+    Act of Treason
+    Naturalize
+    Plains
+
+Pack 1 pick 2:
+    Ghastbark Twins
+    Millstone
+--> Ajani's Pridemate
+    Root Snare
+    Crash Through
+    Abnormal Endurance
+    Essence Scatter
+    Gallant Cavalry
+    Bogstomper
+    Titanic Growth
+    Catalyst Elemental
+    Rustwing Falcon
+    Salvager of Secrets
+    Highland Lake
+
+Pack 1 pick 3:
+    Ravenous Harpy
+    Departed Deckhand
+    Oakenform
+    Smelt
+    Epicure of Blood
+    Tolarian Scholar
+    Trusty Packbeast
+    Centaur Courser
+    Skyscanner
+    Uncomfortable Chill
+    Mighty Leap
+--> Star-Crowned Stag
+    Tranquil Expanse
+
+Pack 1 pick 4:
+    Recollect
+    Sift
+    Fire Elemental
+    Child of Night
+    Wall of Mist
+    Inspired Charge
+    Ghostform
+--> Pegasus Courser
+    Dwarven Priest
+    Mighty Leap
+    Bogstomper
+    Plains
+
+Pack 1 pick 5:
+    Omniscience
+    Fiery Finish
+    Plummet
+    Sure Strike
+    Hired Blade
+    Cancel
+    Revitalize
+    Snapping Drake
+--> Daybreak Chaplain
+    Talons of Wildwood
+    Plains
+
+Pack 1 pick 6:
+    Ajani's Welcome
+--> Herald of Faith
+    Goblin Motivator
+    Divination
+    Star-Crowned Stag
+    Greenwood Sentinel
+    Walking Corpse
+    Sovereign's Bite
+    Skyscanner
+    Timber Gorge
+
+Pack 1 pick 7:
+    Gigantosaurus
+--> Knightly Valor
+    Daggerback Basilisk
+    Sure Strike
+    Frilled Sea Serpent
+    Revitalize
+    Gearsmith Prodigy
+    Highland Game
+    Millstone
+
+Pack 1 pick 8:
+    Colossal Majesty
+    Doomed Dissenter
+    Omenspeaker
+    Daybreak Chaplain
+    Divination
+    Aviation Pioneer
+--> Star-Crowned Stag
+    Talons of Wildwood
+
+Pack 1 pick 9:
+    Diregraf Ghoul
+--> Arcane Encyclopedia
+    Giant Spider
+    Loxodon Line Breaker
+    Disperse
+    Naturalize
+    Plains
+
+Pack 1 pick 10:
+    Millstone
+    Root Snare
+    Crash Through
+    Bogstomper
+--> Rustwing Falcon
+    Highland Lake
+
+Pack 1 pick 11:
+    Smelt
+    Tolarian Scholar
+--> Trusty Packbeast
+    Mighty Leap
+    Tranquil Expanse
+
+Pack 1 pick 12:
+    Inspired Charge
+--> Dwarven Priest
+    Mighty Leap
+    Plains
+
+Pack 1 pick 13:
+    Plummet
+--> Revitalize
+    Plains
+
+Pack 1 pick 14:
+--> Ajani's Welcome
+    Sovereign's Bite
+
+Pack 1 pick 15:
+--> Revitalize
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+--> Leonin Warleader
+    Blood Divination
+    Dragon Egg
+    Bone to Ash
+    Thornhide Wolves
+    Onakke Ogre
+    Skymarch Bloodletter
+    Uncomfortable Chill
+    Inspired Charge
+    Angel of the Dawn
+    Titanic Growth
+    Havoc Devils
+    Take Vengeance
+    Tolarian Scholar
+    Island
+
+Pack 2 pick 2:
+    Runic Armasaur
+    Volcanic Dragon
+    Volley Veteran
+    Colossal Majesty
+    Naturalize
+    Sparktongue Dragon
+--> Lich's Caress
+    Knight of the Tusk
+    Scholar of Stars
+    Talons of Wildwood
+    Greenwood Sentinel
+    Bristling Boar
+    Wall of Mist
+    Swamp
+
+Pack 2 pick 3:
+    Runic Armasaur
+    Fountain of Renewal
+    Oakenform
+    Goblin Instigator
+    Epicure of Blood
+    Disperse
+    Daybreak Chaplain
+    Smelt
+    Explosive Apparatus
+--> Pegasus Courser
+    Bristling Boar
+    Trumpet Blast
+    Manalith
+
+Pack 2 pick 4:
+    Amulet of Safekeeping
+    Recollect
+    Ajani's Welcome
+    Daggerback Basilisk
+    Sure Strike
+    Infernal Scarring
+    Loxodon Line Breaker
+--> Skymarch Bloodletter
+    Marauder's Axe
+    Gallant Cavalry
+    Elvish Rejuvenator
+    Duress
+
+Pack 2 pick 5:
+    Poison-Tip Archer
+    Rhox Oracle
+    Hired Blade
+    Scholar of Stars
+    Trusty Packbeast
+    Wall of Vines
+    Wall of Mist
+    Giant Spider
+    Rustwing Falcon
+--> Doomed Dissenter
+    Submerged Boneyard
+
+Pack 2 pick 6:
+    Aether Tunnel
+    Catalyst Elemental
+    Two-Headed Zombie
+--> Take Vengeance
+    Cavalry Drillmaster
+    Tolarian Scholar
+    Marauder's Axe
+    Manalith
+    Frilled Sea Serpent
+    Stone Quarry
+
+Pack 2 pick 7:
+    Detection Tower
+    Tectonic Rift
+    Thornhide Wolves
+    Lava Axe
+    Infectious Horror
+    Totally Lost
+    Revitalize
+--> Epicure of Blood
+    Mountain
+
+Pack 2 pick 8:
+    Heroic Reinforcements
+    Talons of Wildwood
+    Hostile Minotaur
+    Bogstomper
+--> Dwarven Priest
+    Trusty Packbeast
+    Crash Through
+    Foul Orchard
+
+Pack 2 pick 9:
+    Thornhide Wolves
+    Onakke Ogre
+    Uncomfortable Chill
+    Inspired Charge
+--> Take Vengeance
+    Tolarian Scholar
+    Island
+
+Pack 2 pick 10:
+    Colossal Majesty
+    Naturalize
+--> Knight of the Tusk
+    Talons of Wildwood
+    Greenwood Sentinel
+    Swamp
+
+Pack 2 pick 11:
+    Fountain of Renewal
+--> Epicure of Blood
+    Smelt
+    Trumpet Blast
+    Manalith
+
+Pack 2 pick 12:
+    Amulet of Safekeeping
+--> Ajani's Welcome
+    Infernal Scarring
+    Loxodon Line Breaker
+
+Pack 2 pick 13:
+--> Trusty Packbeast
+    Rustwing Falcon
+    Submerged Boneyard
+
+Pack 2 pick 14:
+    Tolarian Scholar
+--> Stone Quarry
+
+Pack 2 pick 15:
+--> Mountain
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Spit Flame
+    Militia Bugler
+--> Vampire Sovereign
+    Suspicious Bookcase
+    Druid of the Cowl
+    Hostile Minotaur
+    Bogstomper
+    Anticipate
+    Revitalize
+    Naturalize
+    Trusty Packbeast
+    Boggart Brute
+    Tolarian Scholar
+    Mighty Leap
+    Mountain
+
+Pack 3 pick 2:
+    Dismissive Pyromancer
+    Aegis of the Heavens
+--> Diamond Mare
+    Fell Specter
+    Tormenting Voice
+    Skymarch Bloodletter
+    Tolarian Scholar
+    Knight's Pledge
+    Aviation Pioneer
+    Infectious Horror
+    Oakenform
+    Totally Lost
+    Gallant Cavalry
+    Rabid Bite
+
+Pack 3 pick 3:
+    Rogue's Gloves
+    Tectonic Rift
+    Greenwood Sentinel
+    Tormenting Voice
+    Infernal Scarring
+    Ghostform
+--> Cavalry Drillmaster
+    Child of Night
+    Viashino Pyromancer
+    Root Snare
+    Cancel
+    Explosive Apparatus
+    Island
+
+Pack 3 pick 4:
+    Diregraf Ghoul
+    Lightning Mare
+    Act of Treason
+--> Skymarch Bloodletter
+    Cancel
+    Daybreak Chaplain
+    Hostile Minotaur
+    Wall of Vines
+    Duress
+    Greenwood Sentinel
+    Lava Axe
+    Forest
+
+Pack 3 pick 5:
+    Stitcher's Supplier
+--> Leonin Vanguard
+    Boggart Brute
+    Bogstomper
+    Dwindle
+    Oreskos Swiftclaw
+    Wall of Mist
+    Aviation Pioneer
+    Doomed Dissenter
+    Field Creeper
+    Plains
+
+Pack 3 pick 6:
+    Bone to Ash
+    Aerial Engineer
+    Thornhide Wolves
+    Catalyst Elemental
+--> Skymarch Bloodletter
+    Gearsmith Prodigy
+    Revitalize
+    Highland Game
+    Scholar of Stars
+    Swamp
+
+Pack 3 pick 7:
+    Mistcaller
+    Reliquary Tower
+    Diregraf Ghoul
+    Macabre Waltz
+    Infernal Scarring
+    Duress
+--> Pegasus Courser
+    Vampire Neonate
+    Submerged Boneyard
+
+Pack 3 pick 8:
+--> Regal Bloodlord
+    Hired Blade
+    Salvager of Secrets
+    Invoke the Divine
+    Talons of Wildwood
+    Gearsmith Prodigy
+    Field Creeper
+    Mountain
+
+Pack 3 pick 9:
+    Hostile Minotaur
+    Bogstomper
+    Revitalize
+--> Trusty Packbeast
+    Tolarian Scholar
+    Mighty Leap
+    Mountain
+
+Pack 3 pick 10:
+    Aegis of the Heavens
+--> Fell Specter
+    Tolarian Scholar
+    Knight's Pledge
+    Infectious Horror
+    Totally Lost
+
+Pack 3 pick 11:
+    Tormenting Voice
+--> Infernal Scarring
+    Ghostform
+    Root Snare
+    Island
+
+Pack 3 pick 12:
+--> Daybreak Chaplain
+    Duress
+    Lava Axe
+    Forest
+
+Pack 3 pick 13:
+    Stitcher's Supplier
+--> Bogstomper
+    Plains
+
+Pack 3 pick 14:
+--> Gearsmith Prodigy
+    Swamp
+
+Pack 3 pick 15:
+--> Infernal Scarring

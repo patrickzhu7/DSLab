@@ -1,0 +1,467 @@
+Event #: 33188
+Time:    18/09/18
+Players:
+    user
+    bot1
+--> bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Patient Rebuilding
+    Ghirapur Guide
+    Regal Bloodlord
+    Exclusion Mage
+    Naturalize
+    Havoc Devils
+    Skeleton Archer
+    Scholar of Stars
+    Gallant Cavalry
+    Shock
+    Aviation Pioneer
+    Wall of Vines
+    Walking Corpse
+    Hostile Minotaur
+    Submerged Boneyard
+
+Pack 1 pick 2:
+    Volcanic Dragon
+    Thud
+    Novice Knight
+    Daggerback Basilisk
+    Hostile Minotaur
+    Skymarch Bloodletter
+    Uncomfortable Chill
+    Star-Crowned Stag
+    Take Vengeance
+--> Divination
+    Vampire Neonate
+    Pegasus Courser
+    Epicure of Blood
+    Foul Orchard
+
+Pack 1 pick 3:
+    Magistrate's Scepter
+    Dragon Egg
+    Ajani's Welcome
+    Giant Spider
+    Onakke Ogre
+    Infectious Horror
+--> Dwindle
+    Sovereign's Bite
+    Root Snare
+    Bogstomper
+    Snapping Drake
+    Totally Lost
+    Woodland Stream
+
+Pack 1 pick 4:
+    Diregraf Ghoul
+    Colossal Majesty
+    Stitcher's Supplier
+--> Bristling Boar
+    Crash Through
+    Two-Headed Zombie
+    Gearsmith Prodigy
+    Rhox Oracle
+    Vampire Neonate
+    Viashino Pyromancer
+    Trumpet Blast
+    Forest
+
+Pack 1 pick 5:
+    Leonin Vanguard
+    Greenwood Sentinel
+    Act of Treason
+    Skymarch Bloodletter
+--> Aviation Pioneer
+    Dwarven Priest
+    Sure Strike
+    Knight's Pledge
+    Frilled Sea Serpent
+    Naturalize
+    Mountain
+
+Pack 1 pick 6:
+    Arcane Encyclopedia
+    Viashino Pyromancer
+    Doomed Dissenter
+    Disperse
+    Rustwing Falcon
+    Explosive Apparatus
+    Talons of Wildwood
+    Loxodon Line Breaker
+--> Essence Scatter
+    Inferno Hellion
+
+Pack 1 pick 7:
+    Suncleanser
+    Enigma Drake
+    Root Snare
+    Hired Blade
+    Uncomfortable Chill
+    Infernal Scarring
+    Anticipate
+    Smelt
+--> Salvager of Secrets
+
+Pack 1 pick 8:
+    Lightning Mare
+    Sparktongue Dragon
+    Vampire Neonate
+    Gearsmith Prodigy
+    Oreskos Swiftclaw
+    Manalith
+--> Wall of Mist
+    Swamp
+
+Pack 1 pick 9:
+    Naturalize
+    Scholar of Stars
+--> Aviation Pioneer
+    Wall of Vines
+    Walking Corpse
+    Hostile Minotaur
+    Submerged Boneyard
+
+Pack 1 pick 10:
+    Thud
+    Novice Knight
+    Hostile Minotaur
+--> Uncomfortable Chill
+    Epicure of Blood
+    Foul Orchard
+
+Pack 1 pick 11:
+    Infectious Horror
+    Sovereign's Bite
+    Root Snare
+    Bogstomper
+--> Totally Lost
+
+Pack 1 pick 12:
+    Stitcher's Supplier
+    Crash Through
+--> Gearsmith Prodigy
+    Forest
+
+Pack 1 pick 13:
+    Knight's Pledge
+--> Frilled Sea Serpent
+    Mountain
+
+Pack 1 pick 14:
+--> Disperse
+    Loxodon Line Breaker
+
+Pack 1 pick 15:
+--> Infernal Scarring
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Lena, Selfless Champion
+--> Skyrider Patrol
+    Millstone
+    Psychic Corrosion
+    Centaur Courser
+    Fire Elemental
+    Skymarch Bloodletter
+    Ghostform
+    Trusty Packbeast
+    Elvish Rejuvenator
+    Daggerback Basilisk
+    Goblin Motivator
+    Skyscanner
+    Root Snare
+    Cinder Barrens
+
+Pack 2 pick 2:
+--> Tezzeret, Artifice Master
+    Nightmare's Thirst
+    Fountain of Renewal
+    Highland Game
+    Goblin Instigator
+    Doomed Dissenter
+    Disperse
+    Rustwing Falcon
+    Uncomfortable Chill
+    Salvager of Secrets
+    Plummet
+    Duress
+    Marauder's Axe
+    Plains
+
+Pack 2 pick 3:
+    Reliquary Tower
+    Sift
+    Thornhide Wolves
+    Viashino Pyromancer
+    Two-Headed Zombie
+--> Essence Scatter
+    Mighty Leap
+    Elvish Rejuvenator
+    Cancel
+    Macabre Waltz
+    Manalith
+    Goblin Instigator
+    Stone Quarry
+
+Pack 2 pick 4:
+    Bone to Ash
+    Arcane Encyclopedia
+    Rhox Oracle
+    Sure Strike
+--> Essence Scatter
+    Gallant Cavalry
+    Oakenform
+    Bogstomper
+    Daybreak Chaplain
+    Walking Corpse
+    Vampire Neonate
+    Highland Lake
+
+Pack 2 pick 5:
+--> Dryad Greenseeker
+    Thornhide Wolves
+    Catalyst Elemental
+    Bogstomper
+    Scholar of Stars
+    Take Vengeance
+    Trusty Packbeast
+    Tolarian Scholar
+    Centaur Courser
+    Infectious Horror
+    Plains
+
+Pack 2 pick 6:
+    Psychic Corrosion
+    Elvish Rejuvenator
+    Trumpet Blast
+    Mind Rot
+    Gearsmith Prodigy
+    Plummet
+    Gearsmith Guardian
+    Invoke the Divine
+--> Omenspeaker
+    Child of Night
+
+Pack 2 pick 7:
+    Gargoyle Sentinel
+    Druid of Horns
+    Greenwood Sentinel
+    Mind Rot
+    Gearsmith Prodigy
+    Salvager of Secrets
+    Abnormal Endurance
+--> Omenspeaker
+    Mountain
+
+Pack 2 pick 8:
+    Recollect
+    Catalyst Elemental
+    Two-Headed Zombie
+--> Aven Wind Mage
+    Uncomfortable Chill
+    Giant Spider
+    Dwarven Priest
+    Bogstomper
+
+Pack 2 pick 9:
+    Millstone
+--> Psychic Corrosion
+    Fire Elemental
+    Ghostform
+    Elvish Rejuvenator
+    Root Snare
+    Cinder Barrens
+
+Pack 2 pick 10:
+    Highland Game
+    Disperse
+    Uncomfortable Chill
+--> Salvager of Secrets
+    Plummet
+    Plains
+
+Pack 2 pick 11:
+    Reliquary Tower
+    Thornhide Wolves
+    Mighty Leap
+--> Cancel
+    Manalith
+
+Pack 2 pick 12:
+--> Oakenform
+    Bogstomper
+    Walking Corpse
+    Highland Lake
+
+Pack 2 pick 13:
+--> Tolarian Scholar
+    Infectious Horror
+    Plains
+
+Pack 2 pick 14:
+--> Psychic Corrosion
+    Gearsmith Prodigy
+
+Pack 2 pick 15:
+--> Gearsmith Prodigy
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Detection Tower
+    Suspicious Bookcase
+--> Vine Mare
+    Gargoyle Sentinel
+    Oakenform
+    Goblin Instigator
+    Mind Rot
+    Uncomfortable Chill
+    Knight's Pledge
+    Field Creeper
+    Scholar of Stars
+    Take Vengeance
+    Two-Headed Zombie
+    Tormenting Voice
+    Explosive Apparatus
+
+Pack 3 pick 2:
+    Vivien's Invocation
+    Regal Bloodlord
+    Reassembling Skeleton
+    Elvish Rejuvenator
+    Fire Elemental
+    Hired Blade
+--> Aviation Pioneer
+    Revitalize
+    Viashino Pyromancer
+    Macabre Waltz
+    Greenwood Sentinel
+    Marauder's Axe
+    Goblin Motivator
+    Highland Lake
+
+Pack 3 pick 3:
+    Chaos Wand
+    Leonin Vanguard
+--> Surge Mare
+    Daggerback Basilisk
+    Infectious Horror
+    Aviation Pioneer
+    Angel of the Dawn
+    Skeleton Archer
+    Lava Axe
+    Gearsmith Guardian
+    Plummet
+    Pegasus Courser
+    Forest
+
+Pack 3 pick 4:
+    Mistcaller
+    Tectonic Rift
+    Psychic Symbiont
+    Lich's Caress
+    Salvager of Secrets
+    Dwarven Priest
+    Ghostform
+    Vampire Neonate
+--> Omenspeaker
+    Duress
+    Hostile Minotaur
+    Foul Orchard
+
+Pack 3 pick 5:
+    Elvish Clancaller
+    Nightmare's Thirst
+    Sure Strike
+    Epicure of Blood
+    Wall of Mist
+    Mighty Leap
+    Sovereign's Bite
+--> Essence Scatter
+    Divination
+    Walking Corpse
+    Foul Orchard
+
+Pack 3 pick 6:
+    Psychic Symbiont
+    Reliquary Tower
+    Root Snare
+    Abnormal Endurance
+    Gearsmith Prodigy
+    Revitalize
+    Two-Headed Zombie
+    Rustwing Falcon
+    Cancel
+--> Divination
+
+Pack 3 pick 7:
+    Fountain of Renewal
+    Sovereign's Bite
+    Ghostform
+    Invoke the Divine
+    Hostile Minotaur
+    Infectious Horror
+    Inspired Charge
+    Knight's Pledge
+--> Omenspeaker
+
+Pack 3 pick 8:
+    Aethershield Artificer
+    Enigma Drake
+    Thud
+    Talons of Wildwood
+    Inspired Charge
+    Sovereign's Bite
+--> Manalith
+    Timber Gorge
+
+Pack 3 pick 9:
+    Detection Tower
+    Mind Rot
+    Uncomfortable Chill
+    Knight's Pledge
+    Field Creeper
+--> Scholar of Stars
+    Tormenting Voice
+
+Pack 3 pick 10:
+    Fire Elemental
+    Hired Blade
+    Revitalize
+    Macabre Waltz
+--> Greenwood Sentinel
+    Highland Lake
+
+Pack 3 pick 11:
+    Infectious Horror
+    Lava Axe
+--> Gearsmith Guardian
+    Plummet
+    Forest
+
+Pack 3 pick 12:
+    Mistcaller
+--> Salvager of Secrets
+    Ghostform
+    Duress
+
+Pack 3 pick 13:
+--> Wall of Mist
+    Sovereign's Bite
+    Walking Corpse
+
+Pack 3 pick 14:
+    Gearsmith Prodigy
+--> Cancel
+
+Pack 3 pick 15:
+--> Infectious Horror

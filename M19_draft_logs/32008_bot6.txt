@@ -1,0 +1,467 @@
+Event #: 32008
+Time:    15/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+--> bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Amulet of Safekeeping
+--> Exclusion Mage
+    Ajani's Welcome
+    Aegis of the Heavens
+    Druid of the Cowl
+    Tormenting Voice
+    Duress
+    Divination
+    Take Vengeance
+    Titanic Growth
+    Bristling Boar
+    Epicure of Blood
+    Scholar of Stars
+    Trusty Packbeast
+    Psychic Symbiont
+
+Pack 1 pick 2:
+    Aether Tunnel
+    Rise from the Grave
+--> Murder
+    Oakenform
+    Sure Strike
+    Macabre Waltz
+    Cancel
+    Star-Crowned Stag
+    Infernal Scarring
+    Vampire Neonate
+    Skymarch Bloodletter
+    Pegasus Courser
+    Rhox Oracle
+    Woodland Stream
+
+Pack 1 pick 3:
+    Bone to Ash
+    Gargoyle Sentinel
+    Titanic Growth
+    Trumpet Blast
+    Vampire Neonate
+    Anticipate
+    Knight's Pledge
+    Dwindle
+    Bogstomper
+    Infectious Horror
+    Skyscanner
+--> Strangling Spores
+    Swamp
+
+Pack 1 pick 4:
+    Infernal Reckoning
+    Blood Divination
+    Fiery Finish
+    Centaur Courser
+    Sparktongue Dragon
+    Skymarch Bloodletter
+--> Essence Scatter
+    Infernal Scarring
+    Goblin Instigator
+    Invoke the Divine
+    Druid of the Cowl
+    Knight of the Tusk
+
+Pack 1 pick 5:
+    Inferno Hellion
+    Root Snare
+    Fire Elemental
+    Epicure of Blood
+--> Aviation Pioneer
+    Knight of the Tusk
+    Marauder's Axe
+    Infectious Horror
+    Child of Night
+    Colossal Dreadmaw
+    Mighty Leap
+
+Pack 1 pick 6:
+--> Psychic Symbiont
+    Rabid Bite
+    Hostile Minotaur
+    Omenspeaker
+    Act of Treason
+    Snapping Drake
+    Walking Corpse
+    Sovereign's Bite
+    Two-Headed Zombie
+    Forsaken Sanctuary
+
+Pack 1 pick 7:
+    Reliquary Tower
+    Naturalize
+    Salvager of Secrets
+    Dwarven Priest
+--> Omenspeaker
+    Manalith
+    Cavalry Drillmaster
+    Daybreak Chaplain
+    Manalith
+
+Pack 1 pick 8:
+    Giant Spider
+    Infernal Scarring
+--> Anticipate
+    Oreskos Swiftclaw
+    Walking Corpse
+    Greenwood Sentinel
+    Fire Elemental
+    Forest
+
+Pack 1 pick 9:
+    Amulet of Safekeeping
+    Ajani's Welcome
+    Aegis of the Heavens
+    Tormenting Voice
+    Duress
+--> Scholar of Stars
+    Trusty Packbeast
+
+Pack 1 pick 10:
+    Aether Tunnel
+    Oakenform
+    Sure Strike
+--> Cancel
+    Infernal Scarring
+    Woodland Stream
+
+Pack 1 pick 11:
+--> Anticipate
+    Knight's Pledge
+    Bogstomper
+    Infectious Horror
+    Swamp
+
+Pack 1 pick 12:
+    Infernal Reckoning
+--> Infernal Scarring
+    Invoke the Divine
+    Knight of the Tusk
+
+Pack 1 pick 13:
+    Root Snare
+    Knight of the Tusk
+--> Infectious Horror
+
+Pack 1 pick 14:
+--> Walking Corpse
+    Sovereign's Bite
+
+Pack 1 pick 15:
+--> Reliquary Tower
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Metamorphic Alteration
+    Regal Bloodlord
+    Ajani's Pridemate
+    Colossal Majesty
+    Druid of the Cowl
+    Onakke Ogre
+    Duress
+    Ghostform
+    Angel of the Dawn
+    Oreskos Swiftclaw
+    Talons of Wildwood
+--> Skymarch Bloodletter
+    Naturalize
+    Infectious Horror
+    Meandering River
+
+Pack 2 pick 2:
+    Leonin Warleader
+--> Horizon Scholar
+    Arcane Encyclopedia
+    Naturalize
+    Hostile Minotaur
+    Epicure of Blood
+    Cancel
+    Knight of the Tusk
+    Rustwing Falcon
+    Onakke Ogre
+    Crash Through
+    Act of Treason
+    Gearsmith Prodigy
+    Plains
+
+Pack 2 pick 3:
+    Inferno Hellion
+    Dragon Egg
+    Volcanic Dragon
+    Rhox Oracle
+    Trumpet Blast
+--> Doomed Dissenter
+    Wall of Mist
+    Inspired Charge
+    Plummet
+    Elvish Rejuvenator
+    Druid of the Cowl
+    Goblin Instigator
+    Talons of Wildwood
+
+Pack 2 pick 4:
+    Ajani's Last Stand
+    Fountain of Renewal
+    Aegis of the Heavens
+    Plummet
+    Catalyst Elemental
+--> Anticipate
+    Daybreak Chaplain
+    Infectious Horror
+    Abnormal Endurance
+    Trumpet Blast
+    Uncomfortable Chill
+    Meandering River
+
+Pack 2 pick 5:
+    Pelakka Wurm
+    Sift
+    Highland Game
+    Goblin Instigator
+--> Vampire Neonate
+    Totally Lost
+    Knight's Pledge
+    Walking Corpse
+    Lava Axe
+    Trumpet Blast
+    Elvish Rejuvenator
+
+Pack 2 pick 6:
+    Elvish Clancaller
+    Sift
+--> Sleep
+    Daggerback Basilisk
+    Sure Strike
+    Anticipate
+    Mighty Leap
+    Disperse
+    Lava Axe
+    Mountain
+
+Pack 2 pick 7:
+--> Diamond Mare
+    Wall of Vines
+    Tormenting Voice
+    Salvager of Secrets
+    Inspired Charge
+    Naturalize
+    Field Creeper
+    Dwarven Priest
+    Stone Quarry
+
+Pack 2 pick 8:
+    Detection Tower
+--> Dryad Greenseeker
+    Centaur Courser
+    Totally Lost
+    Pegasus Courser
+    Fire Elemental
+    Smelt
+    Mountain
+
+Pack 2 pick 9:
+--> Duress
+    Ghostform
+    Oreskos Swiftclaw
+    Talons of Wildwood
+    Naturalize
+    Infectious Horror
+    Meandering River
+
+Pack 2 pick 10:
+    Naturalize
+    Knight of the Tusk
+    Rustwing Falcon
+    Crash Through
+--> Gearsmith Prodigy
+    Plains
+
+Pack 2 pick 11:
+--> Rhox Oracle
+    Trumpet Blast
+    Inspired Charge
+    Plummet
+    Talons of Wildwood
+
+Pack 2 pick 12:
+    Catalyst Elemental
+    Trumpet Blast
+    Uncomfortable Chill
+--> Meandering River
+
+Pack 2 pick 13:
+--> Totally Lost
+    Knight's Pledge
+    Lava Axe
+
+Pack 2 pick 14:
+--> Lava Axe
+    Mountain
+
+Pack 2 pick 15:
+--> Stone Quarry
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Open the Graves
+    Hieromancer's Cage
+--> Skilled Animator
+    Nightmare's Thirst
+    Wall of Vines
+    Lava Axe
+    Vampire Neonate
+    Snapping Drake
+    Take Vengeance
+    Goblin Motivator
+    Explosive Apparatus
+    Revitalize
+    Cancel
+    Colossal Dreadmaw
+    Timber Gorge
+
+Pack 3 pick 2:
+    Leonin Vanguard
+    Ravenous Harpy
+    Draconic Disciple
+    Daggerback Basilisk
+    Goblin Instigator
+    Sovereign's Bite
+    Uncomfortable Chill
+    Luminous Bonds
+    Thornhide Wolves
+    Two-Headed Zombie
+    Giant Spider
+    Strangling Spores
+    Scholar of Stars
+--> Horizon Scholar
+
+Pack 3 pick 3:
+    Thorn Lieutenant
+    Stitcher's Supplier
+    Regal Bloodlord
+    Daggerback Basilisk
+    Goblin Motivator
+--> Skeleton Archer
+    Scholar of Stars
+    Gearsmith Guardian
+    Root Snare
+    Mind Rot
+    Invoke the Divine
+    Child of Night
+    Forest
+
+Pack 3 pick 4:
+    Enigma Drake
+    Shield Mare
+    Lightning Mare
+    Titanic Growth
+    Goblin Motivator
+    Two-Headed Zombie
+    Frilled Sea Serpent
+    Wall of Mist
+--> Skymarch Bloodletter
+    Gearsmith Prodigy
+    Mind Rot
+    Naturalize
+
+Pack 3 pick 5:
+    Recollect
+    Aether Tunnel
+    Highland Game
+    Sure Strike
+    Hired Blade
+    Aviation Pioneer
+    Daybreak Chaplain
+    Epicure of Blood
+--> Skymarch Bloodletter
+    Aven Wind Mage
+    Highland Lake
+
+Pack 3 pick 6:
+--> Ravenous Harpy
+    Druid of Horns
+    Tormenting Voice
+    Walking Corpse
+    Divination
+    Revitalize
+    Rhox Oracle
+    Dwarven Priest
+    Titanic Growth
+    Scholar of Stars
+
+Pack 3 pick 7:
+--> Phylactery Lich
+    Millstone
+    Thornhide Wolves
+    Sure Strike
+    Wall of Mist
+    Crash Through
+    Loxodon Line Breaker
+    Viashino Pyromancer
+    Mountain
+
+Pack 3 pick 8:
+    Reliquary Tower
+    Fountain of Renewal
+    Sure Strike
+    Anticipate
+    Wall of Vines
+    Rhox Oracle
+    Bogstomper
+--> Submerged Boneyard
+
+Pack 3 pick 9:
+    Wall of Vines
+    Lava Axe
+--> Snapping Drake
+    Goblin Motivator
+    Revitalize
+    Cancel
+    Timber Gorge
+
+Pack 3 pick 10:
+    Goblin Instigator
+    Sovereign's Bite
+    Uncomfortable Chill
+    Thornhide Wolves
+    Giant Spider
+--> Scholar of Stars
+
+Pack 3 pick 11:
+    Stitcher's Supplier
+    Scholar of Stars
+--> Gearsmith Guardian
+    Root Snare
+    Forest
+
+Pack 3 pick 12:
+    Frilled Sea Serpent
+    Wall of Mist
+    Gearsmith Prodigy
+--> Mind Rot
+
+Pack 3 pick 13:
+--> Aether Tunnel
+    Highland Game
+    Highland Lake
+
+Pack 3 pick 14:
+    Walking Corpse
+--> Scholar of Stars
+
+Pack 3 pick 15:
+--> Mountain

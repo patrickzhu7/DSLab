@@ -1,0 +1,467 @@
+Event #: 30408
+Time:    11/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+--> bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Arcades, the Strategist
+    Fiery Finish
+    Blood Divination
+    Leonin Vanguard
+    Root Snare
+    Havoc Devils
+    Skeleton Archer
+    Frilled Sea Serpent
+    Daybreak Chaplain
+    Inspired Charge
+    Uncomfortable Chill
+    Explosive Apparatus
+    Rhox Oracle
+    Goblin Motivator
+    Mountain
+
+Pack 1 pick 2:
+--> Poison-Tip Archer
+    Reassembling Skeleton
+    Gargoyle Sentinel
+    Greenwood Sentinel
+    Shock
+    Hired Blade
+    Essence Scatter
+    Revitalize
+    Oakenform
+    Bristling Boar
+    Epicure of Blood
+    Totally Lost
+    Marauder's Axe
+    Shock
+
+Pack 1 pick 3:
+--> Fell Specter
+    Colossal Majesty
+    Diregraf Ghoul
+    Rhox Oracle
+    Viashino Pyromancer
+    Epicure of Blood
+    Gearsmith Prodigy
+    Hostile Minotaur
+    Scholar of Stars
+    Giant Spider
+    Divination
+    Trumpet Blast
+    Tormenting Voice
+
+Pack 1 pick 4:
+--> Declare Dominance
+    Nightmare's Thirst
+    Highland Game
+    Onakke Ogre
+    Epicure of Blood
+    Gearsmith Prodigy
+    Take Vengeance
+    Daggerback Basilisk
+    Cavalry Drillmaster
+    Infectious Horror
+    Mighty Leap
+    Woodland Stream
+
+Pack 1 pick 5:
+    Enigma Drake
+--> Elvish Rejuvenator
+    Sure Strike
+    Mind Rot
+    Anticipate
+    Loxodon Line Breaker
+    Totally Lost
+    Tormenting Voice
+    Infernal Scarring
+    Sovereign's Bite
+    Mountain
+
+Pack 1 pick 6:
+    Leonin Vanguard
+    Blood Divination
+--> Thornhide Wolves
+    Child of Night
+    Anticipate
+    Viashino Pyromancer
+    Doomed Dissenter
+    Aviation Pioneer
+    Fire Elemental
+    Swamp
+
+Pack 1 pick 7:
+    Mistcaller
+    Ajani's Welcome
+--> Talons of Wildwood
+    Plummet
+    Abnormal Endurance
+    Aven Wind Mage
+    Cancel
+    Salvager of Secrets
+    Plains
+
+Pack 1 pick 8:
+    Infernal Scarring
+    Anticipate
+    Onakke Ogre
+    Salvager of Secrets
+    Wall of Vines
+--> Titanic Growth
+    Greenwood Sentinel
+    Plains
+
+Pack 1 pick 9:
+    Blood Divination
+    Root Snare
+    Frilled Sea Serpent
+    Inspired Charge
+    Uncomfortable Chill
+--> Rhox Oracle
+    Mountain
+
+Pack 1 pick 10:
+    Greenwood Sentinel
+    Hired Blade
+    Revitalize
+--> Oakenform
+    Epicure of Blood
+    Totally Lost
+
+Pack 1 pick 11:
+    Rhox Oracle
+    Gearsmith Prodigy
+--> Giant Spider
+    Trumpet Blast
+    Tormenting Voice
+
+Pack 1 pick 12:
+    Highland Game
+    Infectious Horror
+    Mighty Leap
+--> Woodland Stream
+
+Pack 1 pick 13:
+--> Infernal Scarring
+    Sovereign's Bite
+    Mountain
+
+Pack 1 pick 14:
+--> Doomed Dissenter
+    Swamp
+
+Pack 1 pick 15:
+--> Plains
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Lena, Selfless Champion
+    Fountain of Renewal
+    Recollect
+    Make a Stand
+--> Druid of the Cowl
+    Onakke Ogre
+    Macabre Waltz
+    Gearsmith Prodigy
+    Loxodon Line Breaker
+    Thornhide Wolves
+    Gearsmith Guardian
+    Ghostform
+    Catalyst Elemental
+    Plummet
+    Timber Gorge
+
+Pack 2 pick 2:
+    Goblin Trashmaster
+    Arcane Encyclopedia
+    Sleep
+    Aegis of the Heavens
+--> Druid of the Cowl
+    Trumpet Blast
+    Uncomfortable Chill
+    Rustwing Falcon
+    Inspired Charge
+    Pegasus Courser
+    Catalyst Elemental
+    Knight's Pledge
+    Bogstomper
+    Thornhide Wolves
+
+Pack 2 pick 3:
+    Infernal Reckoning
+    Aerial Engineer
+    Aether Tunnel
+    Regal Bloodlord
+--> Titanic Growth
+    Hostile Minotaur
+    Skeleton Archer
+    Invoke the Divine
+    Rustwing Falcon
+    Cavalry Drillmaster
+    Marauder's Axe
+    Star-Crowned Stag
+    Plains
+
+Pack 2 pick 4:
+    Sai, Master Thopterist
+    Ravenous Harpy
+--> Colossal Dreadmaw
+    Crash Through
+    Child of Night
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Marauder's Axe
+    Divination
+    Invoke the Divine
+    Star-Crowned Stag
+    Forest
+
+Pack 2 pick 5:
+    Make a Stand
+--> Druid of Horns
+    Greenwood Sentinel
+    Goblin Motivator
+    Skeleton Archer
+    Wall of Mist
+    Luminous Bonds
+    Daybreak Chaplain
+    Titanic Growth
+    Onakke Ogre
+    Goblin Instigator
+
+Pack 2 pick 6:
+    Novice Knight
+--> Ghastbark Twins
+    Elvish Rejuvenator
+    Fire Elemental
+    Bogstomper
+    Gallant Cavalry
+    Smelt
+    Root Snare
+    Giant Spider
+    Forsaken Sanctuary
+
+Pack 2 pick 7:
+    Aerial Engineer
+    Greenwood Sentinel
+    Hostile Minotaur
+    Cancel
+    Dwarven Priest
+    Naturalize
+    Walking Corpse
+--> Bristling Boar
+    Mountain
+
+Pack 2 pick 8:
+    Inferno Hellion
+    Boggart Brute
+    Child of Night
+    Revitalize
+    Sure Strike
+    Manalith
+    Ghostform
+--> Foul Orchard
+
+Pack 2 pick 9:
+--> Recollect
+    Gearsmith Prodigy
+    Loxodon Line Breaker
+    Ghostform
+    Catalyst Elemental
+    Plummet
+    Timber Gorge
+
+Pack 2 pick 10:
+    Aegis of the Heavens
+    Rustwing Falcon
+    Inspired Charge
+    Catalyst Elemental
+    Knight's Pledge
+--> Bogstomper
+
+Pack 2 pick 11:
+--> Infernal Reckoning
+    Aether Tunnel
+    Invoke the Divine
+    Rustwing Falcon
+    Plains
+
+Pack 2 pick 12:
+--> Crash Through
+    Knight of the Tusk
+    Invoke the Divine
+    Forest
+
+Pack 2 pick 13:
+--> Greenwood Sentinel
+    Goblin Motivator
+    Daybreak Chaplain
+
+Pack 2 pick 14:
+    Novice Knight
+--> Root Snare
+
+Pack 2 pick 15:
+--> Mountain
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Lathliss, Dragon Queen
+    Volley Veteran
+    Bone to Ash
+    Psychic Symbiont
+--> Rhox Oracle
+    Electrify
+    Epicure of Blood
+    Anticipate
+    Cavalry Drillmaster
+    Infernal Scarring
+    Wall of Mist
+    Tolarian Scholar
+    Duress
+    Wall of Vines
+    Plains
+
+Pack 3 pick 2:
+    Dragon's Hoard
+--> Colossal Majesty
+    Inferno Hellion
+    Aegis of the Heavens
+    Colossal Dreadmaw
+    Onakke Ogre
+    Walking Corpse
+    Frilled Sea Serpent
+    Mighty Leap
+    Vampire Neonate
+    Dwindle
+    Talons of Wildwood
+    Salvager of Secrets
+    Foul Orchard
+
+Pack 3 pick 3:
+--> Open the Graves
+    Nightmare's Thirst
+    Gravedigger
+    Wall of Vines
+    Lava Axe
+    Abnormal Endurance
+    Essence Scatter
+    Oreskos Swiftclaw
+    Duress
+    Infectious Horror
+    Field Creeper
+    Salvager of Secrets
+    Cavalry Drillmaster
+
+Pack 3 pick 4:
+    Shield Mare
+--> Elvish Rejuvenator
+    Lava Axe
+    Epicure of Blood
+    Aven Wind Mage
+    Mighty Leap
+    Walking Corpse
+    Daggerback Basilisk
+    Manalith
+    Dwindle
+    Gearsmith Guardian
+    Plains
+
+Pack 3 pick 5:
+--> Blanchwood Armor
+    Ghirapur Guide
+    Giant Spider
+    Goblin Instigator
+    Strangling Spores
+    Disperse
+    Invoke the Divine
+    Skymarch Bloodletter
+    Anticipate
+    Mighty Leap
+    Foul Orchard
+
+Pack 3 pick 6:
+    Gigantosaurus
+--> Poison-Tip Archer
+    Psychic Corrosion
+    Fire Elemental
+    Salvager of Secrets
+    Knight of the Tusk
+    Epicure of Blood
+    Invoke the Divine
+    Walking Corpse
+    Mountain
+
+Pack 3 pick 7:
+--> Open the Graves
+    Rogue's Gloves
+    Plummet
+    Epicure of Blood
+    Trusty Packbeast
+    Frilled Sea Serpent
+    Loxodon Line Breaker
+    Smelt
+    Plains
+
+Pack 3 pick 8:
+    Reassembling Skeleton
+--> Elvish Rejuvenator
+    Sparktongue Dragon
+    Walking Corpse
+    Smelt
+    Plummet
+    Hostile Minotaur
+    Submerged Boneyard
+
+Pack 3 pick 9:
+    Epicure of Blood
+    Infernal Scarring
+    Wall of Mist
+    Tolarian Scholar
+    Duress
+--> Wall of Vines
+    Plains
+
+Pack 3 pick 10:
+    Dragon's Hoard
+    Aegis of the Heavens
+    Walking Corpse
+    Mighty Leap
+    Talons of Wildwood
+--> Foul Orchard
+
+Pack 3 pick 11:
+--> Wall of Vines
+    Abnormal Endurance
+    Duress
+    Infectious Horror
+    Salvager of Secrets
+
+Pack 3 pick 12:
+    Mighty Leap
+    Walking Corpse
+--> Manalith
+    Plains
+
+Pack 3 pick 13:
+--> Giant Spider
+    Mighty Leap
+    Foul Orchard
+
+Pack 3 pick 14:
+--> Walking Corpse
+    Mountain
+
+Pack 3 pick 15:
+--> Plains

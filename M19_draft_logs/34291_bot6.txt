@@ -1,0 +1,467 @@
+Event #: 34291
+Time:    21/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+--> bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Alpine Moon
+    Ghirapur Guide
+--> Dryad Greenseeker
+    Diregraf Ghoul
+    Naturalize
+    Electrify
+    Walking Corpse
+    Essence Scatter
+    Angel of the Dawn
+    Catalyst Elemental
+    Bristling Boar
+    Aven Wind Mage
+    Revitalize
+    Gallant Cavalry
+    Plains
+
+Pack 1 pick 2:
+--> Poison-Tip Archer
+    Sift
+    Thud
+    Root Snare
+    Trumpet Blast
+    Bogstomper
+    Frilled Sea Serpent
+    Oreskos Swiftclaw
+    Manalith
+    Hostile Minotaur
+    Abnormal Endurance
+    Rhox Oracle
+    Sure Strike
+    Tranquil Expanse
+
+Pack 1 pick 3:
+    Crucible of Worlds
+    Satyr Enchanter
+    Colossal Majesty
+    Highland Game
+    Tormenting Voice
+    Vampire Neonate
+    Anticipate
+    Revitalize
+    Aven Wind Mage
+--> Centaur Courser
+    Rhox Oracle
+    Lava Axe
+    Mountain
+
+Pack 1 pick 4:
+    Stitcher's Supplier
+    Gargoyle Sentinel
+    Centaur Courser
+    Doomed Dissenter
+    Totally Lost
+    Cavalry Drillmaster
+    Onakke Ogre
+    Omenspeaker
+    Knight's Pledge
+    Wall of Mist
+--> Daggerback Basilisk
+    Abnormal Endurance
+
+Pack 1 pick 5:
+    Reliquary Tower
+    Bone to Ash
+    Talons of Wildwood
+    Child of Night
+    Ghostform
+    Dwarven Priest
+    Rustwing Falcon
+    Scholar of Stars
+    Two-Headed Zombie
+--> Oakenform
+    Mighty Leap
+
+Pack 1 pick 6:
+    Surge Mare
+    Skilled Animator
+    Wall of Vines
+    Wall of Mist
+    Daybreak Chaplain
+    Smelt
+    Fire Elemental
+    Strangling Spores
+--> Greenwood Sentinel
+    Forest
+
+Pack 1 pick 7:
+    Psychic Corrosion
+--> Thornhide Wolves
+    Epicure of Blood
+    Knight's Pledge
+    Loxodon Line Breaker
+    Infectious Horror
+    Field Creeper
+    Uncomfortable Chill
+    Root Snare
+
+Pack 1 pick 8:
+    Tectonic Rift
+    Stitcher's Supplier
+    Daggerback Basilisk
+    Crash Through
+    Wall of Mist
+--> Elvish Rejuvenator
+    Inspired Charge
+    Viashino Pyromancer
+
+Pack 1 pick 9:
+    Alpine Moon
+--> Naturalize
+    Walking Corpse
+    Catalyst Elemental
+    Revitalize
+    Gallant Cavalry
+    Plains
+
+Pack 1 pick 10:
+--> Root Snare
+    Trumpet Blast
+    Bogstomper
+    Frilled Sea Serpent
+    Manalith
+    Tranquil Expanse
+
+Pack 1 pick 11:
+    Crucible of Worlds
+--> Highland Game
+    Revitalize
+    Lava Axe
+    Mountain
+
+Pack 1 pick 12:
+    Stitcher's Supplier
+    Knight's Pledge
+    Wall of Mist
+--> Abnormal Endurance
+
+Pack 1 pick 13:
+    Reliquary Tower
+    Dwarven Priest
+--> Mighty Leap
+
+Pack 1 pick 14:
+    Smelt
+--> Forest
+
+Pack 1 pick 15:
+--> Knight's Pledge
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Dismissive Pyromancer
+    Switcheroo
+    Militia Bugler
+--> Reclamation Sage
+    Giant Spider
+    Goblin Motivator
+    Duress
+    Aviation Pioneer
+    Dwarven Priest
+    Sure Strike
+    Act of Treason
+    Strangling Spores
+    Oakenform
+    Sparktongue Dragon
+    Stone Quarry
+
+Pack 2 pick 2:
+--> Prodigious Growth
+    Draconic Disciple
+    Gargoyle Sentinel
+    Ajani's Pridemate
+    Root Snare
+    Havoc Devils
+    Hired Blade
+    Scholar of Stars
+    Pegasus Courser
+    Rhox Oracle
+    Luminous Bonds
+    Wall of Vines
+    Frilled Sea Serpent
+    Scapeshift
+
+Pack 2 pick 3:
+--> Runic Armasaur
+    Shield Mare
+    Root Snare
+    Boggart Brute
+    Doomed Dissenter
+    Scholar of Stars
+    Trusty Packbeast
+    Mighty Leap
+    Gearsmith Prodigy
+    Two-Headed Zombie
+    Titanic Growth
+    Strangling Spores
+    Loxodon Line Breaker
+
+Pack 2 pick 4:
+    Sai, Master Thopterist
+    Aether Tunnel
+--> Daggerback Basilisk
+    Infernal Scarring
+    Omenspeaker
+    Luminous Bonds
+    Manalith
+    Uncomfortable Chill
+    Marauder's Axe
+    Dwarven Priest
+    Cavalry Drillmaster
+    Goblin Motivator
+
+Pack 2 pick 5:
+    Blood Divination
+--> Recollect
+    Talons of Wildwood
+    Fire Elemental
+    Inspired Charge
+    Invoke the Divine
+    Gearsmith Guardian
+    Disperse
+    Essence Scatter
+    Tolarian Scholar
+    Tranquil Expanse
+
+Pack 2 pick 6:
+    One with the Machine
+    Regal Bloodlord
+    Smelt
+    Mind Rot
+    Salvager of Secrets
+    Knight of the Tusk
+    Snapping Drake
+    Uncomfortable Chill
+--> Oakenform
+    Ajani's Welcome
+
+Pack 2 pick 7:
+    Aether Tunnel
+    Doublecast
+    Sovereign's Bite
+    Snapping Drake
+    Daybreak Chaplain
+    Gearsmith Guardian
+--> Daggerback Basilisk
+    Totally Lost
+    Forest
+
+Pack 2 pick 8:
+    Knightly Valor
+--> Talons of Wildwood
+    Crash Through
+    Frilled Sea Serpent
+    Knight's Pledge
+    Sovereign's Bite
+    Lava Axe
+    Island
+
+Pack 2 pick 9:
+    Goblin Motivator
+    Duress
+    Dwarven Priest
+    Sure Strike
+--> Oakenform
+    Sparktongue Dragon
+    Stone Quarry
+
+Pack 2 pick 10:
+--> Draconic Disciple
+    Root Snare
+    Scholar of Stars
+    Wall of Vines
+    Frilled Sea Serpent
+    Scapeshift
+
+Pack 2 pick 11:
+--> Root Snare
+    Scholar of Stars
+    Trusty Packbeast
+    Mighty Leap
+    Gearsmith Prodigy
+
+Pack 2 pick 12:
+    Aether Tunnel
+--> Manalith
+    Uncomfortable Chill
+    Dwarven Priest
+
+Pack 2 pick 13:
+    Invoke the Divine
+    Tolarian Scholar
+--> Tranquil Expanse
+
+Pack 2 pick 14:
+    Knight of the Tusk
+--> Ajani's Welcome
+
+Pack 2 pick 15:
+--> Forest
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Dark-Dweller Oracle
+    Poison-Tip Archer
+    Lightning Mare
+    Rogue's Gloves
+--> Giant Spider
+    Tormenting Voice
+    Strangling Spores
+    Divination
+    Luminous Bonds
+    Angel of the Dawn
+    Knight's Pledge
+    Field Creeper
+    Cavalry Drillmaster
+    Havoc Devils
+    Swamp
+
+Pack 3 pick 2:
+--> Hungering Hydra
+    Fell Specter
+    Stitcher's Supplier
+    Bristling Boar
+    Trumpet Blast
+    Duress
+    Uncomfortable Chill
+    Dwarven Priest
+    Bogstomper
+    Thornhide Wolves
+    Onakke Ogre
+    Goblin Instigator
+    Rhox Oracle
+    Woodland Stream
+
+Pack 3 pick 3:
+    Graveyard Marshal
+    Aethershield Artificer
+    Novice Knight
+--> Elvish Rejuvenator
+    Trumpet Blast
+    Walking Corpse
+    Frilled Sea Serpent
+    Dwarven Priest
+    Titanic Growth
+    Manalith
+    Infernal Scarring
+    Thornhide Wolves
+    Foul Orchard
+
+Pack 3 pick 4:
+    Millstone
+--> Rhox Oracle
+    Goblin Motivator
+    Child of Night
+    Dwindle
+    Invoke the Divine
+    Epicure of Blood
+    Gallant Cavalry
+    Revitalize
+    Walking Corpse
+    Tormenting Voice
+    Highland Lake
+
+Pack 3 pick 5:
+    Leonin Vanguard
+--> Ghirapur Guide
+    Plummet
+    Tormenting Voice
+    Hired Blade
+    Tolarian Scholar
+    Angel of the Dawn
+    Loxodon Line Breaker
+    Trusty Packbeast
+    Wall of Mist
+    Two-Headed Zombie
+
+Pack 3 pick 6:
+    Mistcaller
+    Make a Stand
+--> Druid of the Cowl
+    Viashino Pyromancer
+    Mind Rot
+    Star-Crowned Stag
+    Bristling Boar
+    Take Vengeance
+    Rustwing Falcon
+    Plains
+
+Pack 3 pick 7:
+    Suspicious Bookcase
+--> Greenwood Sentinel
+    Infectious Horror
+    Knight's Pledge
+    Talons of Wildwood
+    Salvager of Secrets
+    Take Vengeance
+    Sparktongue Dragon
+    Island
+
+Pack 3 pick 8:
+    Rogue's Gloves
+--> Druid of the Cowl
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Rabid Bite
+    Dwarven Priest
+    Bristling Boar
+    Mountain
+
+Pack 3 pick 9:
+    Lightning Mare
+--> Rogue's Gloves
+    Tormenting Voice
+    Knight's Pledge
+    Field Creeper
+    Cavalry Drillmaster
+    Swamp
+
+Pack 3 pick 10:
+    Stitcher's Supplier
+    Duress
+    Bogstomper
+    Thornhide Wolves
+--> Rhox Oracle
+    Woodland Stream
+
+Pack 3 pick 11:
+    Novice Knight
+    Dwarven Priest
+    Infernal Scarring
+--> Thornhide Wolves
+    Foul Orchard
+
+Pack 3 pick 12:
+    Millstone
+--> Invoke the Divine
+    Revitalize
+    Tormenting Voice
+
+Pack 3 pick 13:
+    Tolarian Scholar
+--> Loxodon Line Breaker
+    Trusty Packbeast
+
+Pack 3 pick 14:
+--> Rustwing Falcon
+    Plains
+
+Pack 3 pick 15:
+--> Island

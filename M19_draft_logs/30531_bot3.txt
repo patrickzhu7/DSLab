@@ -1,0 +1,467 @@
+Event #: 30531
+Time:    11/09/18
+Players:
+    user
+    bot1
+    bot2
+--> bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Palladia-Mors, the Ruiner
+    Blanchwood Armor
+    Leonin Vanguard
+    Millstone
+    Druid of the Cowl
+    Sure Strike
+    Abnormal Endurance
+    Wall of Mist
+    Knight's Pledge
+    Gearsmith Guardian
+    Loxodon Line Breaker
+    Manalith
+    Star-Crowned Stag
+    Onakke Ogre
+    Plains
+
+Pack 1 pick 2:
+    Surge Mare
+    Ghastbark Twins
+    Gargoyle Sentinel
+    Talons of Wildwood
+    Tormenting Voice
+    Mind Rot
+    Ghostform
+--> Luminous Bonds
+    Inspired Charge
+    Daggerback Basilisk
+    Explosive Apparatus
+    Lava Axe
+    Invoke the Divine
+    Daybreak Chaplain
+
+Pack 1 pick 3:
+    Novice Knight
+    Make a Stand
+    Daggerback Basilisk
+    Fire Elemental
+    Hired Blade
+    Ghostform
+--> Pegasus Courser
+    Mighty Leap
+    Knight's Pledge
+    Centaur Courser
+    Uncomfortable Chill
+    Wall of Mist
+    Cinder Barrens
+
+Pack 1 pick 4:
+--> Lightning Mare
+    Tectonic Rift
+    Reassembling Skeleton
+    Titanic Growth
+    Crash Through
+    Duress
+    Divination
+    Skeleton Archer
+    Loxodon Line Breaker
+    Scholar of Stars
+    Tolarian Scholar
+    Highland Lake
+
+Pack 1 pick 5:
+    Dragon Egg
+    Talons of Wildwood
+--> Shock
+    Epicure of Blood
+    Frilled Sea Serpent
+    Sure Strike
+    Havoc Devils
+    Giant Spider
+    Elvish Rejuvenator
+    Child of Night
+    Submerged Boneyard
+
+Pack 1 pick 6:
+    Bone to Ash
+    Brawl-Bash Ogre
+    Centaur Courser
+    Hostile Minotaur
+    Dwindle
+--> Colossal Dreadmaw
+    Explosive Apparatus
+    Naturalize
+    Walking Corpse
+    Forest
+
+Pack 1 pick 7:
+--> Druid of Horns
+    Root Snare
+    Skymarch Bloodletter
+    Knight of the Tusk
+    Onakke Ogre
+    Omenspeaker
+    Viashino Pyromancer
+    Gearsmith Prodigy
+    Swamp
+
+Pack 1 pick 8:
+    Ajani's Welcome
+    Plummet
+    Infernal Scarring
+    Crash Through
+    Uncomfortable Chill
+    Anticipate
+--> Onakke Ogre
+    Forest
+
+Pack 1 pick 9:
+    Abnormal Endurance
+    Wall of Mist
+    Knight's Pledge
+    Loxodon Line Breaker
+    Manalith
+--> Onakke Ogre
+    Plains
+
+Pack 1 pick 10:
+--> Talons of Wildwood
+    Tormenting Voice
+    Mind Rot
+    Ghostform
+    Lava Axe
+    Invoke the Divine
+
+Pack 1 pick 11:
+--> Fire Elemental
+    Ghostform
+    Mighty Leap
+    Knight's Pledge
+    Wall of Mist
+
+Pack 1 pick 12:
+--> Tectonic Rift
+    Crash Through
+    Duress
+    Tolarian Scholar
+
+Pack 1 pick 13:
+--> Talons of Wildwood
+    Epicure of Blood
+    Sure Strike
+
+Pack 1 pick 14:
+--> Naturalize
+    Forest
+
+Pack 1 pick 15:
+--> Root Snare
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Omniscience
+    Rogue's Gloves
+    Gravedigger
+    Plague Mare
+    Titanic Growth
+--> Goblin Instigator
+    Skeleton Archer
+    Ghostform
+    Loxodon Line Breaker
+    Scholar of Stars
+    Child of Night
+    Lich's Caress
+    Totally Lost
+    Divination
+    Metamorphic Alteration
+
+Pack 2 pick 2:
+    Mistcaller
+    Gift of Paradise
+    Aerial Engineer
+    Satyr Enchanter
+    Plummet
+    Tormenting Voice
+    Sovereign's Bite
+    Divination
+    Take Vengeance
+    Talons of Wildwood
+    Uncomfortable Chill
+--> Rabid Bite
+    Oreskos Swiftclaw
+    Catalyst Elemental
+
+Pack 2 pick 3:
+    Phylactery Lich
+    Skilled Animator
+    Centaur Courser
+    Catalyst Elemental
+    Macabre Waltz
+    Tolarian Scholar
+    Trusty Packbeast
+    Highland Game
+    Anticipate
+    Mind Rot
+    Wall of Mist
+    Goblin Instigator
+--> Herald of Faith
+
+Pack 2 pick 4:
+    Fountain of Renewal
+    Nightmare's Thirst
+    Giant Spider
+--> Sparktongue Dragon
+    Mind Rot
+    Scholar of Stars
+    Trusty Packbeast
+    Skeleton Archer
+    Titanic Growth
+    Strangling Spores
+    Gearsmith Prodigy
+    Swamp
+
+Pack 2 pick 5:
+    Remorseful Cleric
+    Knightly Valor
+    Naturalize
+    Havoc Devils
+    Hired Blade
+    Totally Lost
+--> Star-Crowned Stag
+    Duress
+    Cavalry Drillmaster
+    Onakke Ogre
+    Mountain
+
+Pack 2 pick 6:
+    Arcane Encyclopedia
+    Wall of Vines
+    Lava Axe
+    Sovereign's Bite
+    Tolarian Scholar
+    Mighty Leap
+    Root Snare
+--> Goblin Instigator
+    Field Creeper
+    Plains
+
+Pack 2 pick 7:
+--> Viashino Pyromancer
+    Infectious Horror
+    Salvager of Secrets
+    Inspired Charge
+    Uncomfortable Chill
+    Sovereign's Bite
+    Rustwing Falcon
+    Root Snare
+    Stone Quarry
+
+Pack 2 pick 8:
+    Naturalize
+    Strangling Spores
+    Disperse
+    Mighty Leap
+    Crash Through
+--> Pegasus Courser
+    Aviation Pioneer
+    Root Snare
+
+Pack 2 pick 9:
+    Omniscience
+--> Rogue's Gloves
+    Ghostform
+    Loxodon Line Breaker
+    Scholar of Stars
+    Child of Night
+    Totally Lost
+
+Pack 2 pick 10:
+    Mistcaller
+--> Satyr Enchanter
+    Sovereign's Bite
+    Talons of Wildwood
+    Oreskos Swiftclaw
+    Catalyst Elemental
+
+Pack 2 pick 11:
+    Catalyst Elemental
+    Tolarian Scholar
+--> Trusty Packbeast
+    Mind Rot
+    Wall of Mist
+
+Pack 2 pick 12:
+    Mind Rot
+--> Trusty Packbeast
+    Gearsmith Prodigy
+    Swamp
+
+Pack 2 pick 13:
+    Duress
+--> Cavalry Drillmaster
+    Mountain
+
+Pack 2 pick 14:
+--> Root Snare
+    Plains
+
+Pack 2 pick 15:
+--> Rustwing Falcon
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+--> Leonin Warleader
+    Shield Mare
+    Thud
+    Hieromancer's Cage
+    Daggerback Basilisk
+    Onakke Ogre
+    Skeleton Archer
+    Aviation Pioneer
+    Cavalry Drillmaster
+    Vampire Neonate
+    Macabre Waltz
+    Divination
+    Naturalize
+    Frilled Sea Serpent
+    Goblin Trashmaster
+
+Pack 3 pick 2:
+    Amulet of Safekeeping
+    Make a Stand
+    Mirror Image
+    Thornhide Wolves
+--> Goblin Instigator
+    Two-Headed Zombie
+    Divination
+    Inspired Charge
+    Highland Game
+    Goblin Motivator
+    Aviation Pioneer
+    Trumpet Blast
+    Cavalry Drillmaster
+    Forsaken Sanctuary
+
+Pack 3 pick 3:
+    Rise from the Grave
+    Vampire Sovereign
+    Blood Divination
+    Rhox Oracle
+--> Shock
+    Walking Corpse
+    Knight of the Tusk
+    Totally Lost
+    Frilled Sea Serpent
+    Loxodon Line Breaker
+    Disperse
+    Talons of Wildwood
+    Island
+
+Pack 3 pick 4:
+--> Thorn Lieutenant
+    Siegebreaker Giant
+    Ajani's Welcome
+    Heroic Reinforcements
+    Greenwood Sentinel
+    Revitalize
+    Macabre Waltz
+    Oreskos Swiftclaw
+    Invoke the Divine
+    Act of Treason
+    Thornhide Wolves
+    Highland Lake
+
+Pack 3 pick 5:
+    Fraying Omnipotence
+    Reclamation Sage
+    Stitcher's Supplier
+    Fountain of Renewal
+    Root Snare
+    Act of Treason
+    Frilled Sea Serpent
+--> Gallant Cavalry
+    Bristling Boar
+    Talons of Wildwood
+    Totally Lost
+
+Pack 3 pick 6:
+    Bone to Ash
+    Highland Game
+    Hired Blade
+    Take Vengeance
+    Aven Wind Mage
+--> Angel of the Dawn
+    Druid of the Cowl
+    Thornhide Wolves
+    Root Snare
+    Meandering River
+
+Pack 3 pick 7:
+    Diregraf Ghoul
+--> Giant Spider
+    Bogstomper
+    Rustwing Falcon
+    Catalyst Elemental
+    Skyscanner
+    Plummet
+    Tormenting Voice
+    Forsaken Sanctuary
+
+Pack 3 pick 8:
+    Doublecast
+    Oakenform
+--> Boggart Brute
+    Vampire Neonate
+    Omenspeaker
+    Hired Blade
+    Aviation Pioneer
+    Forest
+
+Pack 3 pick 9:
+    Thud
+--> Daggerback Basilisk
+    Onakke Ogre
+    Cavalry Drillmaster
+    Macabre Waltz
+    Naturalize
+    Frilled Sea Serpent
+
+Pack 3 pick 10:
+    Amulet of Safekeeping
+    Make a Stand
+    Inspired Charge
+    Highland Game
+--> Goblin Motivator
+    Forsaken Sanctuary
+
+Pack 3 pick 11:
+    Walking Corpse
+    Knight of the Tusk
+    Frilled Sea Serpent
+--> Talons of Wildwood
+    Island
+
+Pack 3 pick 12:
+    Ajani's Welcome
+--> Greenwood Sentinel
+    Revitalize
+    Invoke the Divine
+
+Pack 3 pick 13:
+    Stitcher's Supplier
+    Root Snare
+--> Talons of Wildwood
+
+Pack 3 pick 14:
+--> Highland Game
+    Root Snare
+
+Pack 3 pick 15:
+--> Catalyst Elemental

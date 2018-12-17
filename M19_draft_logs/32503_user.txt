@@ -1,0 +1,467 @@
+Event #: 32503
+Time:    16/09/18
+Players:
+--> user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Supreme Phantom
+    Mirror Image
+--> Vampire Sovereign
+    Psychic Corrosion
+    Titanic Growth
+    Goblin Instigator
+    Skymarch Bloodletter
+    Divination
+    Luminous Bonds
+    Lich's Caress
+    Viashino Pyromancer
+    Daybreak Chaplain
+    Tormenting Voice
+    Loxodon Line Breaker
+    Tranquil Expanse
+
+Pack 1 pick 2:
+    Rise from the Grave
+    Ghirapur Guide
+--> Militia Bugler
+    Titanic Growth
+    Catalyst Elemental
+    Epicure of Blood
+    Disperse
+    Cavalry Drillmaster
+    Anticipate
+    Frilled Sea Serpent
+    Infernal Scarring
+    Druid of the Cowl
+    Daggerback Basilisk
+    Timber Gorge
+
+Pack 1 pick 3:
+    Ghastbark Twins
+--> Regal Bloodlord
+    Ghirapur Guide
+    Bristling Boar
+    Havoc Devils
+    Bogstomper
+    Anticipate
+    Daybreak Chaplain
+    Doomed Dissenter
+    Uncomfortable Chill
+    Rustwing Falcon
+    Thornhide Wolves
+    Island
+
+Pack 1 pick 4:
+    Amulet of Safekeeping
+    Bone to Ash
+    Druid of Horns
+    Giant Spider
+    Fire Elemental
+    Abnormal Endurance
+    Salvager of Secrets
+    Divination
+    Rustwing Falcon
+--> Vampire Neonate
+    Child of Night
+    Mountain
+
+Pack 1 pick 5:
+    Sleep
+    Naturalize
+    Crash Through
+--> Epicure of Blood
+    Dwindle
+    Lava Axe
+    Infernal Scarring
+    Rabid Bite
+    Field Creeper
+    Anticipate
+    Island
+
+Pack 1 pick 6:
+    Stitcher's Supplier
+    Onakke Ogre
+    Sovereign's Bite
+    Wall of Mist
+    Dwarven Priest
+    Daggerback Basilisk
+    Mind Rot
+--> Marauder's Axe
+    Macabre Waltz
+    Swamp
+
+Pack 1 pick 7:
+    Ajani's Welcome
+    Colossal Dreadmaw
+    Infectious Horror
+    Inspired Charge
+    Divination
+    Root Snare
+--> Hired Blade
+    Knight's Pledge
+    Woodland Stream
+
+Pack 1 pick 8:
+    Inferno Hellion
+    Crash Through
+    Bogstomper
+    Disperse
+    Knight of the Tusk
+    Invoke the Divine
+--> Explosive Apparatus
+    Foul Orchard
+
+Pack 1 pick 9:
+    Supreme Phantom
+--> Mirror Image
+    Psychic Corrosion
+    Titanic Growth
+    Tormenting Voice
+    Loxodon Line Breaker
+    Tranquil Expanse
+
+Pack 1 pick 10:
+    Catalyst Elemental
+    Disperse
+    Anticipate
+--> Frilled Sea Serpent
+    Infernal Scarring
+    Timber Gorge
+
+Pack 1 pick 11:
+    Bogstomper
+    Uncomfortable Chill
+--> Rustwing Falcon
+    Thornhide Wolves
+    Island
+
+Pack 1 pick 12:
+    Amulet of Safekeeping
+--> Abnormal Endurance
+    Salvager of Secrets
+    Mountain
+
+Pack 1 pick 13:
+    Crash Through
+--> Infernal Scarring
+    Island
+
+Pack 1 pick 14:
+--> Stitcher's Supplier
+    Swamp
+
+Pack 1 pick 15:
+--> Root Snare
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Chaos Wand
+    Satyr Enchanter
+    Guttersnipe
+    Surge Mare
+    Naturalize
+    Sparktongue Dragon
+    Two-Headed Zombie
+    Scholar of Stars
+    Take Vengeance
+    Talons of Wildwood
+    Mighty Leap
+    Ghostform
+--> Luminous Bonds
+    Sure Strike
+    Submerged Boneyard
+
+Pack 2 pick 2:
+    Elvish Clancaller
+    Plague Mare
+--> Ajani's Pridemate
+    Bristling Boar
+    Boggart Brute
+    Walking Corpse
+    Snapping Drake
+    Oreskos Swiftclaw
+    Lich's Caress
+    Hostile Minotaur
+    Loxodon Line Breaker
+    Epicure of Blood
+    Infectious Horror
+    Fiery Finish
+
+Pack 2 pick 3:
+    Suncleanser
+--> Herald of Faith
+    Reliquary Tower
+    Highland Game
+    Onakke Ogre
+    Skymarch Bloodletter
+    Wall of Mist
+    Revitalize
+    Scholar of Stars
+    Walking Corpse
+    Pegasus Courser
+    Aven Wind Mage
+    Forest
+
+Pack 2 pick 4:
+    Elvish Clancaller
+    Colossal Majesty
+    Stitcher's Supplier
+    Elvish Rejuvenator
+    Vampire Neonate
+    Aviation Pioneer
+    Omenspeaker
+    Highland Game
+--> Strangling Spores
+    Gearsmith Guardian
+    Talons of Wildwood
+    Woodland Stream
+
+Pack 2 pick 5:
+    Magistrate's Scepter
+    Diregraf Ghoul
+    Millstone
+    Highland Game
+    Fire Elemental
+    Duress
+    Totally Lost
+    Cavalry Drillmaster
+    Mind Rot
+--> Star-Crowned Stag
+    Forest
+
+Pack 2 pick 6:
+    Satyr Enchanter
+    Onakke Ogre
+    Infectious Horror
+    Frilled Sea Serpent
+--> Trusty Packbeast
+    Rustwing Falcon
+    Thornhide Wolves
+    Greenwood Sentinel
+    Goblin Instigator
+    Swamp
+
+Pack 2 pick 7:
+    Blood Divination
+--> Shield Mare
+    Thornhide Wolves
+    Crash Through
+    Hired Blade
+    Scholar of Stars
+    Infectious Horror
+    Oreskos Swiftclaw
+    Island
+
+Pack 2 pick 8:
+    Suncleanser
+    Oakenform
+    Walking Corpse
+    Tolarian Scholar
+--> Invoke the Divine
+    Mind Rot
+    Infectious Horror
+    Plains
+
+Pack 2 pick 9:
+    Naturalize
+--> Two-Headed Zombie
+    Scholar of Stars
+    Talons of Wildwood
+    Ghostform
+    Sure Strike
+    Submerged Boneyard
+
+Pack 2 pick 10:
+    Elvish Clancaller
+    Walking Corpse
+    Snapping Drake
+--> Loxodon Line Breaker
+    Infectious Horror
+    Fiery Finish
+
+Pack 2 pick 11:
+    Reliquary Tower
+    Wall of Mist
+--> Revitalize
+    Scholar of Stars
+    Forest
+
+Pack 2 pick 12:
+    Stitcher's Supplier
+    Highland Game
+--> Gearsmith Guardian
+    Woodland Stream
+
+Pack 2 pick 13:
+--> Magistrate's Scepter
+    Totally Lost
+    Forest
+
+Pack 2 pick 14:
+--> Greenwood Sentinel
+    Swamp
+
+Pack 2 pick 15:
+--> Island
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Mystic Archaeologist
+    Enigma Drake
+    Ravenous Harpy
+    Ajani's Welcome
+    Titanic Growth
+    Goblin Motivator
+--> Strangling Spores
+    Omenspeaker
+    Inspired Charge
+    Rabid Bite
+    Catalyst Elemental
+    Duress
+    Frilled Sea Serpent
+    Electrify
+    Meandering River
+
+Pack 3 pick 2:
+--> Death Baron
+    Dragon Egg
+    Suspicious Bookcase
+    Psychic Corrosion
+    Titanic Growth
+    Shock
+    Infectious Horror
+    Salvager of Secrets
+    Star-Crowned Stag
+    Havoc Devils
+    Aviation Pioneer
+    Take Vengeance
+    Wall of Mist
+    Plains
+
+Pack 3 pick 3:
+    Poison-Tip Archer
+    Skyrider Patrol
+    Departed Deckhand
+    Naturalize
+    Trumpet Blast
+    Walking Corpse
+    Scholar of Stars
+--> Dwarven Priest
+    Uncomfortable Chill
+    Lava Axe
+    Rustwing Falcon
+    Thornhide Wolves
+    Hostile Minotaur
+
+Pack 3 pick 4:
+    Liliana, Untouched by Death
+    Recollect
+    Doublecast
+    Thud
+    Plummet
+    Child of Night
+    Revitalize
+    Duress
+--> Oreskos Swiftclaw
+    Thornhide Wolves
+    Inspired Charge
+    Highland Lake
+
+Pack 3 pick 5:
+    Inferno Hellion
+    Brawl-Bash Ogre
+    Rabid Bite
+    Onakke Ogre
+    Macabre Waltz
+    Gearsmith Prodigy
+    Goblin Motivator
+    Catalyst Elemental
+--> Epicure of Blood
+    Totally Lost
+    Mountain
+
+Pack 3 pick 6:
+    Satyr Enchanter
+    Aether Tunnel
+    Root Snare
+    Walking Corpse
+    Scholar of Stars
+--> Rustwing Falcon
+    Crash Through
+    Naturalize
+    Titanic Growth
+    Foul Orchard
+
+Pack 3 pick 7:
+    Switcheroo
+    Aethershield Artificer
+--> Suspicious Bookcase
+    Oakenform
+    Infectious Horror
+    Gearsmith Prodigy
+    Infernal Scarring
+    Totally Lost
+    Ajani's Welcome
+
+Pack 3 pick 8:
+    Gift of Paradise
+    Greenwood Sentinel
+    Walking Corpse
+    Ghostform
+    Knight's Pledge
+--> Bristling Boar
+    Wall of Vines
+    Cinder Barrens
+
+Pack 3 pick 9:
+    Enigma Drake
+    Ajani's Welcome
+    Titanic Growth
+    Catalyst Elemental
+--> Duress
+    Frilled Sea Serpent
+    Meandering River
+
+Pack 3 pick 10:
+--> Psychic Corrosion
+    Titanic Growth
+    Infectious Horror
+    Salvager of Secrets
+    Wall of Mist
+    Plains
+
+Pack 3 pick 11:
+    Naturalize
+    Trumpet Blast
+    Uncomfortable Chill
+    Lava Axe
+--> Thornhide Wolves
+
+Pack 3 pick 12:
+    Doublecast
+--> Revitalize
+    Thornhide Wolves
+    Highland Lake
+
+Pack 3 pick 13:
+    Gearsmith Prodigy
+--> Catalyst Elemental
+    Mountain
+
+Pack 3 pick 14:
+    Root Snare
+--> Foul Orchard
+
+Pack 3 pick 15:
+--> Gearsmith Prodigy

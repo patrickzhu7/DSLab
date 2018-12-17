@@ -1,0 +1,467 @@
+Event #: 33304
+Time:    18/09/18
+Players:
+    user
+    bot1
+--> bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Mistcaller
+    Dryad Greenseeker
+--> Lightning Strike
+    Switcheroo
+    Colossal Dreadmaw
+    Goblin Instigator
+    Skeleton Archer
+    Snapping Drake
+    Trusty Packbeast
+    Daggerback Basilisk
+    Druid of the Cowl
+    Sure Strike
+    Fire Elemental
+    Elvish Rejuvenator
+    Island
+
+Pack 1 pick 2:
+    Meteor Golem
+    Satyr Enchanter
+    Reclamation Sage
+    Plummet
+    Act of Treason
+    Lich's Caress
+    Aven Wind Mage
+    Rustwing Falcon
+    Sparktongue Dragon
+    Trumpet Blast
+--> Shock
+    Sure Strike
+    Inspired Charge
+    Mountain
+
+Pack 1 pick 3:
+    Regal Bloodlord
+    Aethershield Artificer
+    Diamond Mare
+    Titanic Growth
+    Viashino Pyromancer
+    Ghostform
+    Revitalize
+--> Havoc Devils
+    Loxodon Line Breaker
+    Wall of Vines
+    Colossal Dreadmaw
+    Skyscanner
+    Plains
+
+Pack 1 pick 4:
+    Alpine Moon
+    Enigma Drake
+    Reassembling Skeleton
+    Vampire Neonate
+    Scholar of Stars
+    Daybreak Chaplain
+    Salvager of Secrets
+    Centaur Courser
+    Walking Corpse
+    Thornhide Wolves
+--> Act of Treason
+    Island
+
+Pack 1 pick 5:
+    Stitcher's Supplier
+    Tectonic Rift
+--> Sure Strike
+    Bogstomper
+    Dwindle
+    Inspired Charge
+    Take Vengeance
+    Lava Axe
+    Infernal Scarring
+    Mind Rot
+    Forsaken Sanctuary
+
+Pack 1 pick 6:
+    Desecrated Tomb
+    Talons of Wildwood
+--> Fire Elemental
+    Macabre Waltz
+    Totally Lost
+    Invoke the Divine
+    Mind Rot
+    Disperse
+    Bogstomper
+    Island
+
+Pack 1 pick 7:
+    Psychic Corrosion
+    Switcheroo
+    Omenspeaker
+--> Pegasus Courser
+    Frilled Sea Serpent
+    Anticipate
+    Snapping Drake
+    Hired Blade
+    Woodland Stream
+
+Pack 1 pick 8:
+    Shield Mare
+--> Hostile Minotaur
+    Gearsmith Prodigy
+    Knight's Pledge
+    Naturalize
+    Dwarven Priest
+    Scholar of Stars
+    Uncomfortable Chill
+
+Pack 1 pick 9:
+    Mistcaller
+--> Goblin Instigator
+    Snapping Drake
+    Trusty Packbeast
+    Sure Strike
+    Fire Elemental
+    Island
+
+Pack 1 pick 10:
+    Satyr Enchanter
+    Rustwing Falcon
+--> Trumpet Blast
+    Sure Strike
+    Inspired Charge
+    Mountain
+
+Pack 1 pick 11:
+    Aethershield Artificer
+    Revitalize
+--> Loxodon Line Breaker
+    Wall of Vines
+    Plains
+
+Pack 1 pick 12:
+    Scholar of Stars
+--> Daybreak Chaplain
+    Walking Corpse
+    Island
+
+Pack 1 pick 13:
+    Bogstomper
+--> Inspired Charge
+    Infernal Scarring
+
+Pack 1 pick 14:
+--> Totally Lost
+    Island
+
+Pack 1 pick 15:
+--> Frilled Sea Serpent
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Nicol Bolas, the Ravager
+    Reclamation Sage
+    Dryad Greenseeker
+--> Herald of Faith
+    Rhox Oracle
+    Goblin Motivator
+    Duress
+    Wall of Mist
+    Oreskos Swiftclaw
+    Scholar of Stars
+    Aviation Pioneer
+    Fire Elemental
+    Tolarian Scholar
+    Manalith
+    Island
+
+Pack 2 pick 2:
+    Isolate
+    Ajani's Welcome
+    Vampire Sovereign
+    Aethershield Artificer
+    Goblin Motivator
+    Doomed Dissenter
+    Aven Wind Mage
+    Knight's Pledge
+--> Shock
+    Colossal Dreadmaw
+    Gallant Cavalry
+    Epicure of Blood
+    Skyscanner
+    Swamp
+
+Pack 2 pick 3:
+    Arcane Encyclopedia
+    Fountain of Renewal
+    Satyr Enchanter
+    Oakenform
+--> Onakke Ogre
+    Child of Night
+    Uncomfortable Chill
+    Highland Game
+    Crash Through
+    Field Creeper
+    Frilled Sea Serpent
+    Salvager of Secrets
+    Submerged Boneyard
+
+Pack 2 pick 4:
+    Aether Tunnel
+    Stitcher's Supplier
+--> Viashino Pyromancer
+    Sovereign's Bite
+    Essence Scatter
+    Angel of the Dawn
+    Wall of Vines
+    Mind Rot
+    Marauder's Axe
+    Frilled Sea Serpent
+    Infernal Scarring
+    Tranquil Expanse
+
+Pack 2 pick 5:
+    Poison-Tip Archer
+    Druid of the Cowl
+--> Onakke Ogre
+    Two-Headed Zombie
+    Totally Lost
+    Thornhide Wolves
+    Gearsmith Guardian
+    Crash Through
+    Aviation Pioneer
+    Infernal Scarring
+    Surge Mare
+
+Pack 2 pick 6:
+    Metamorphic Alteration
+    Inferno Hellion
+    Root Snare
+    Totally Lost
+    Trusty Packbeast
+--> Trumpet Blast
+    Plummet
+    Crash Through
+    Oreskos Swiftclaw
+    Mountain
+
+Pack 2 pick 7:
+    Inferno Hellion
+    Wall of Vines
+--> Goblin Motivator
+    Dwindle
+    Knight of the Tusk
+    Crash Through
+    Mighty Leap
+    Catalyst Elemental
+    Sure Strike
+
+Pack 2 pick 8:
+    One with the Machine
+    Infectious Horror
+    Salvager of Secrets
+--> Cavalry Drillmaster
+    Hired Blade
+    Inspired Charge
+    Smelt
+    Plains
+
+Pack 2 pick 9:
+    Wall of Mist
+--> Oreskos Swiftclaw
+    Scholar of Stars
+    Fire Elemental
+    Tolarian Scholar
+    Manalith
+    Island
+
+Pack 2 pick 10:
+    Isolate
+    Ajani's Welcome
+--> Aethershield Artificer
+    Knight's Pledge
+    Epicure of Blood
+    Swamp
+
+Pack 2 pick 11:
+    Uncomfortable Chill
+--> Crash Through
+    Field Creeper
+    Frilled Sea Serpent
+    Submerged Boneyard
+
+Pack 2 pick 12:
+    Aether Tunnel
+    Stitcher's Supplier
+--> Sovereign's Bite
+    Infernal Scarring
+
+Pack 2 pick 13:
+    Totally Lost
+--> Gearsmith Guardian
+    Infernal Scarring
+
+Pack 2 pick 14:
+--> Totally Lost
+    Mountain
+
+Pack 2 pick 15:
+--> Catalyst Elemental
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Demon of Catastrophes
+    Fell Specter
+    Plague Mare
+    Psychic Symbiont
+    Thornhide Wolves
+--> Viashino Pyromancer
+    Sovereign's Bite
+    Tolarian Scholar
+    Gallant Cavalry
+    Oakenform
+    Field Creeper
+    Mind Rot
+    Daybreak Chaplain
+    Vampire Neonate
+    Demon of Catastrophes
+
+Pack 3 pick 2:
+    Blanchwood Armor
+    Reassembling Skeleton
+    Skilled Animator
+    Bristling Boar
+--> Shock
+    Walking Corpse
+    Wall of Mist
+    Knight of the Tusk
+    Frilled Sea Serpent
+    Thornhide Wolves
+    Titanic Growth
+    Explosive Apparatus
+    Colossal Dreadmaw
+    Swamp
+
+Pack 3 pick 3:
+    Colossal Majesty
+    Make a Stand
+    Druid of the Cowl
+    Hostile Minotaur
+    Infectious Horror
+    Salvager of Secrets
+    Rustwing Falcon
+    Tormenting Voice
+    Essence Scatter
+    Talons of Wildwood
+--> Trumpet Blast
+    Trusty Packbeast
+    Island
+
+Pack 3 pick 4:
+    Blanchwood Armor
+    Regal Bloodlord
+    Root Snare
+--> Goblin Motivator
+    Duress
+    Angel of the Dawn
+    Scholar of Stars
+    Manalith
+    Skeleton Archer
+    Act of Treason
+    Disperse
+    Swamp
+
+Pack 3 pick 5:
+    Draconic Disciple
+    Titanic Growth
+--> Onakke Ogre
+    Skymarch Bloodletter
+    Angel of the Dawn
+    Disperse
+    Vampire Neonate
+    Tolarian Scholar
+    Inspired Charge
+    Infernal Scarring
+    Submerged Boneyard
+
+Pack 3 pick 6:
+    Militia Bugler
+    Aegis of the Heavens
+    Trumpet Blast
+    Duress
+    Inspired Charge
+    Plummet
+--> Star-Crowned Stag
+    Gallant Cavalry
+    Oakenform
+    Ghostform
+
+Pack 3 pick 7:
+    Aerial Engineer
+--> Knightly Valor
+    Catalyst Elemental
+    Mind Rot
+    Mighty Leap
+    Highland Game
+    Frilled Sea Serpent
+    Wall of Mist
+    Crash Through
+
+Pack 3 pick 8:
+    Elvish Clancaller
+    Plummet
+    Crash Through
+    Knight's Pledge
+    Lava Axe
+--> Trumpet Blast
+    Naturalize
+    Hostile Minotaur
+
+Pack 3 pick 9:
+    Fell Specter
+    Sovereign's Bite
+    Tolarian Scholar
+    Field Creeper
+    Mind Rot
+--> Daybreak Chaplain
+    Vampire Neonate
+
+Pack 3 pick 10:
+    Blanchwood Armor
+    Wall of Mist
+--> Knight of the Tusk
+    Frilled Sea Serpent
+    Titanic Growth
+    Swamp
+
+Pack 3 pick 11:
+--> Make a Stand
+    Rustwing Falcon
+    Tormenting Voice
+    Trusty Packbeast
+    Island
+
+Pack 3 pick 12:
+    Root Snare
+    Duress
+--> Angel of the Dawn
+    Swamp
+
+Pack 3 pick 13:
+    Tolarian Scholar
+--> Inspired Charge
+    Infernal Scarring
+
+Pack 3 pick 14:
+    Aegis of the Heavens
+--> Inspired Charge
+
+Pack 3 pick 15:
+--> Mighty Leap

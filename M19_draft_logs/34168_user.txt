@@ -1,0 +1,467 @@
+Event #: 34168
+Time:    21/09/18
+Players:
+--> user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+    Phylactery Lich
+--> Herald of Faith
+    Blood Divination
+    Draconic Disciple
+    Titanic Growth
+    Tormenting Voice
+    Child of Night
+    Uncomfortable Chill
+    Inspired Charge
+    Gearsmith Guardian
+    Skymarch Bloodletter
+    Star-Crowned Stag
+    Pegasus Courser
+    Scholar of Stars
+    Mountain
+
+Pack 1 pick 2:
+    Bone to Ash
+    Reliquary Tower
+    Satyr Enchanter
+    Druid of the Cowl
+    Fire Elemental
+    Infectious Horror
+    Salvager of Secrets
+    Dwarven Priest
+    Gearsmith Prodigy
+    Gallant Cavalry
+    Bristling Boar
+    Frilled Sea Serpent
+--> Shock
+    Thorn Lieutenant
+
+Pack 1 pick 3:
+    Stitcher's Supplier
+--> Ajani's Pridemate
+    Wall of Vines
+    Lava Axe
+    Infectious Horror
+    Aven Wind Mage
+    Invoke the Divine
+    Revitalize
+    Elvish Rejuvenator
+    Havoc Devils
+    Plummet
+    Druid of the Cowl
+    Swamp
+
+Pack 1 pick 4:
+    Infernal Reckoning
+--> Dragon Egg
+    Psychic Corrosion
+    Fire Elemental
+    Sovereign's Bite
+    Ghostform
+    Mighty Leap
+    Onakke Ogre
+    Root Snare
+    Naturalize
+    Aviation Pioneer
+    Tormenting Voice
+
+Pack 1 pick 5:
+    Reassembling Skeleton
+    Nightmare's Thirst
+    Thornhide Wolves
+--> Sparktongue Dragon
+    Walking Corpse
+    Frilled Sea Serpent
+    Mind Rot
+    Goblin Instigator
+    Infernal Scarring
+    Oakenform
+    Mountain
+
+Pack 1 pick 6:
+    Recollect
+    Stitcher's Supplier
+    Trumpet Blast
+    Bogstomper
+--> Divination
+    Thornhide Wolves
+    Trusty Packbeast
+    Aviation Pioneer
+    Centaur Courser
+    Mountain
+
+Pack 1 pick 7:
+    Dragon Egg
+    Greenwood Sentinel
+    Act of Treason
+    Anticipate
+    Knight's Pledge
+    Dwarven Priest
+    Talons of Wildwood
+--> Boggart Brute
+    Plains
+
+Pack 1 pick 8:
+    Novice Knight
+    Plummet
+    Smelt
+    Bogstomper
+    Mighty Leap
+--> Snapping Drake
+    Wall of Mist
+    Swamp
+
+Pack 1 pick 9:
+    Blood Divination
+    Tormenting Voice
+    Child of Night
+    Uncomfortable Chill
+    Inspired Charge
+--> Scholar of Stars
+    Mountain
+
+Pack 1 pick 10:
+    Reliquary Tower
+    Fire Elemental
+    Infectious Horror
+--> Salvager of Secrets
+    Gearsmith Prodigy
+    Frilled Sea Serpent
+
+Pack 1 pick 11:
+    Stitcher's Supplier
+    Wall of Vines
+--> Lava Axe
+    Infectious Horror
+    Swamp
+
+Pack 1 pick 12:
+    Infernal Reckoning
+    Fire Elemental
+    Ghostform
+--> Tormenting Voice
+
+Pack 1 pick 13:
+    Walking Corpse
+--> Infernal Scarring
+    Mountain
+
+Pack 1 pick 14:
+--> Bogstomper
+    Mountain
+
+Pack 1 pick 15:
+--> Plains
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Mistcaller
+    Draconic Disciple
+--> Hieromancer's Cage
+    Aethershield Artificer
+    Rhox Oracle
+    Sparktongue Dragon
+    Epicure of Blood
+    Frilled Sea Serpent
+    Daybreak Chaplain
+    Skeleton Archer
+    Onakke Ogre
+    Hostile Minotaur
+    Infectious Horror
+    Hired Blade
+    Tranquil Expanse
+
+Pack 2 pick 2:
+    Nicol Bolas, the Ravager
+    Arcane Encyclopedia
+    Sleep
+    Thud
+    Druid of the Cowl
+    Viashino Pyromancer
+    Strangling Spores
+    Tolarian Scholar
+    Loxodon Line Breaker
+    Gallant Cavalry
+    Sovereign's Bite
+    Cancel
+    Naturalize
+--> Essence Scatter
+
+Pack 2 pick 3:
+    Magistrate's Scepter
+    Novice Knight
+    Inferno Hellion
+    Bristling Boar
+    Onakke Ogre
+    Macabre Waltz
+    Anticipate
+--> Angel of the Dawn
+    Highland Game
+    Elvish Rejuvenator
+    Cancel
+    Manalith
+    Plains
+
+Pack 2 pick 4:
+    Ajani's Welcome
+    Psychic Symbiont
+    Druid of Horns
+    Giant Spider
+    Act of Treason
+    Abnormal Endurance
+    Tolarian Scholar
+--> Angel of the Dawn
+    Totally Lost
+    Doomed Dissenter
+    Frilled Sea Serpent
+    Forsaken Sanctuary
+
+Pack 2 pick 5:
+    Ghirapur Guide
+    Doublecast
+    Goblin Motivator
+    Duress
+--> Essence Scatter
+    Oreskos Swiftclaw
+    Havoc Devils
+    Uncomfortable Chill
+    Divination
+    Colossal Dreadmaw
+    Tolarian Scholar
+
+Pack 2 pick 6:
+    Siegebreaker Giant
+    Heroic Reinforcements
+    Duress
+    Disperse
+    Inspired Charge
+--> Essence Scatter
+    Hostile Minotaur
+    Invoke the Divine
+    Centaur Courser
+    Fire Elemental
+
+Pack 2 pick 7:
+    One with the Machine
+    Enigma Drake
+    Lava Axe
+    Mind Rot
+--> Omenspeaker
+    Infernal Scarring
+    Walking Corpse
+    Scholar of Stars
+    Swamp
+
+Pack 2 pick 8:
+    Catalyst Elemental
+    Cancel
+    Invoke the Divine
+    Naturalize
+    Rustwing Falcon
+--> Cavalry Drillmaster
+    Hired Blade
+    Mountain
+
+Pack 2 pick 9:
+    Mistcaller
+    Epicure of Blood
+--> Frilled Sea Serpent
+    Onakke Ogre
+    Infectious Horror
+    Hired Blade
+    Tranquil Expanse
+
+Pack 2 pick 10:
+--> Arcane Encyclopedia
+    Tolarian Scholar
+    Loxodon Line Breaker
+    Sovereign's Bite
+    Cancel
+    Naturalize
+
+Pack 2 pick 11:
+    Magistrate's Scepter
+    Anticipate
+    Highland Game
+--> Cancel
+    Plains
+
+Pack 2 pick 12:
+    Tolarian Scholar
+    Totally Lost
+    Doomed Dissenter
+--> Frilled Sea Serpent
+
+Pack 2 pick 13:
+    Doublecast
+--> Uncomfortable Chill
+    Tolarian Scholar
+
+Pack 2 pick 14:
+--> Inspired Charge
+    Fire Elemental
+
+Pack 2 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Goreclaw, Terror of Qal Sisma
+    Druid of Horns
+    Knightly Valor
+--> Bone to Ash
+    Druid of the Cowl
+    Havoc Devils
+    Infectious Horror
+    Wall of Mist
+    Knight of the Tusk
+    Child of Night
+    Scholar of Stars
+    Lich's Caress
+    Field Creeper
+    Salvager of Secrets
+    Island
+
+Pack 3 pick 2:
+    Graveyard Marshal
+    Aegis of the Heavens
+    Rise from the Grave
+    Highland Game
+    Goblin Motivator
+    Lich's Caress
+    Anticipate
+    Trusty Packbeast
+    Uncomfortable Chill
+    Infectious Horror
+    Take Vengeance
+--> Star-Crowned Stag
+    Catalyst Elemental
+    Death Baron
+
+Pack 3 pick 3:
+    Stitcher's Supplier
+    Inferno Hellion
+    Plummet
+    Sparktongue Dragon
+    Sovereign's Bite
+--> Dwindle
+    Pegasus Courser
+    Catalyst Elemental
+    Knight of the Tusk
+    Daybreak Chaplain
+    Lava Axe
+    Inspired Charge
+    Plains
+
+Pack 3 pick 4:
+    Sarkhan's Unsealing
+    Wall of Vines
+    Crash Through
+    Abnormal Endurance
+    Scholar of Stars
+    Inspired Charge
+    Viashino Pyromancer
+    Tolarian Scholar
+--> Oreskos Swiftclaw
+    Infectious Horror
+    Bristling Boar
+    Mountain
+
+Pack 3 pick 5:
+    Draconic Disciple
+    Psychic Symbiont
+--> Departed Deckhand
+    Goblin Instigator
+    Hired Blade
+    Gearsmith Prodigy
+    Knight of the Tusk
+    Aviation Pioneer
+    Wall of Mist
+    Skyscanner
+    Timber Gorge
+
+Pack 3 pick 6:
+    Draconic Disciple
+    Fiery Finish
+    Walking Corpse
+--> Divination
+    Mighty Leap
+    Skeleton Archer
+    Crash Through
+    Salvager of Secrets
+    Strangling Spores
+    Cinder Barrens
+
+Pack 3 pick 7:
+    Fraying Omnipotence
+    Catalyst Elemental
+--> Dwindle
+    Mighty Leap
+    Hired Blade
+    Wall of Mist
+    Duress
+    Disperse
+    Swamp
+
+Pack 3 pick 8:
+    Sift
+    Suspicious Bookcase
+    Wall of Vines
+    Ghostform
+    Cancel
+    Fire Elemental
+    Uncomfortable Chill
+--> Aven Wind Mage
+
+Pack 3 pick 9:
+    Infectious Horror
+    Wall of Mist
+    Knight of the Tusk
+    Scholar of Stars
+    Field Creeper
+--> Salvager of Secrets
+    Island
+
+Pack 3 pick 10:
+    Aegis of the Heavens
+    Anticipate
+--> Trusty Packbeast
+    Uncomfortable Chill
+    Infectious Horror
+    Catalyst Elemental
+
+Pack 3 pick 11:
+    Catalyst Elemental
+    Knight of the Tusk
+    Lava Axe
+--> Inspired Charge
+    Plains
+
+Pack 3 pick 12:
+    Crash Through
+--> Inspired Charge
+    Tolarian Scholar
+    Mountain
+
+Pack 3 pick 13:
+    Gearsmith Prodigy
+    Knight of the Tusk
+--> Wall of Mist
+
+Pack 3 pick 14:
+--> Walking Corpse
+    Crash Through
+
+Pack 3 pick 15:
+--> Swamp

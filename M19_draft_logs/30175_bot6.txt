@@ -1,0 +1,467 @@
+Event #: 30175
+Time:    10/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+    bot4
+    bot5
+--> bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Demon of Catastrophes
+    Druid of Horns
+    Herald of Faith
+    Leonin Vanguard
+    Centaur Courser
+    Havoc Devils
+    Walking Corpse
+    Essence Scatter
+    Rustwing Falcon
+    Macabre Waltz
+    Epicure of Blood
+    Gearsmith Prodigy
+    Bristling Boar
+    Doomed Dissenter
+    Cinder Barrens
+
+Pack 1 pick 2:
+    Declare Dominance
+    Knightly Valor
+    Druid of Horns
+    Rhox Oracle
+    Lava Axe
+    Walking Corpse
+    Aviation Pioneer
+    Oreskos Swiftclaw
+    Duress
+    Bogstomper
+    Two-Headed Zombie
+--> Strangling Spores
+    Essence Scatter
+    Tranquil Expanse
+
+Pack 1 pick 3:
+    Shield Mare
+--> Ravenous Harpy
+    Titanic Growth
+    Viashino Pyromancer
+    Sovereign's Bite
+    Totally Lost
+    Loxodon Line Breaker
+    Gearsmith Guardian
+    Explosive Apparatus
+    Root Snare
+    Gallant Cavalry
+    Hostile Minotaur
+    Vampire Neonate
+
+Pack 1 pick 4:
+    Phylactery Lich
+    Bone to Ash
+--> Ravenous Harpy
+    Goblin Instigator
+    Macabre Waltz
+    Ghostform
+    Child of Night
+    Disperse
+    Anticipate
+    Dwindle
+    Havoc Devils
+    Fiery Finish
+
+Pack 1 pick 5:
+    Blood Divination
+--> Diregraf Ghoul
+    Hostile Minotaur
+    Infectious Horror
+    Cancel
+    Onakke Ogre
+    Cavalry Drillmaster
+    Gearsmith Prodigy
+    Highland Game
+    Salvager of Secrets
+    Island
+
+Pack 1 pick 6:
+    Aegis of the Heavens
+    Arcane Encyclopedia
+    Oakenform
+    Act of Treason
+--> Skeleton Archer
+    Tolarian Scholar
+    Ghostform
+    Crash Through
+    Loxodon Line Breaker
+    Swamp
+
+Pack 1 pick 7:
+    Reliquary Tower
+    Root Snare
+    Onakke Ogre
+    Vampire Neonate
+    Revitalize
+    Act of Treason
+    Snapping Drake
+    Knight's Pledge
+--> Skeleton Archer
+
+Pack 1 pick 8:
+    Greenwood Sentinel
+--> Skeleton Archer
+    Totally Lost
+    Inspired Charge
+    Infernal Scarring
+    Field Creeper
+    Goblin Motivator
+    Plains
+
+Pack 1 pick 9:
+    Druid of Horns
+    Walking Corpse
+    Rustwing Falcon
+    Macabre Waltz
+    Gearsmith Prodigy
+--> Doomed Dissenter
+    Cinder Barrens
+
+Pack 1 pick 10:
+    Druid of Horns
+    Walking Corpse
+    Duress
+    Bogstomper
+--> Two-Headed Zombie
+    Tranquil Expanse
+
+Pack 1 pick 11:
+--> Sovereign's Bite
+    Totally Lost
+    Explosive Apparatus
+    Root Snare
+    Hostile Minotaur
+
+Pack 1 pick 12:
+--> Macabre Waltz
+    Ghostform
+    Disperse
+    Anticipate
+
+Pack 1 pick 13:
+--> Infectious Horror
+    Gearsmith Prodigy
+    Island
+
+Pack 1 pick 14:
+    Aegis of the Heavens
+--> Swamp
+
+Pack 1 pick 15:
+--> Reliquary Tower
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Elvish Clancaller
+    Vigilant Baloth
+    Aerial Engineer
+    Diamond Mare
+    Druid of the Cowl
+    Electrify
+--> Lich's Caress
+    Uncomfortable Chill
+    Invoke the Divine
+    Knight of the Tusk
+    Mighty Leap
+    Two-Headed Zombie
+    Fire Elemental
+    Explosive Apparatus
+    Woodland Stream
+
+Pack 2 pick 2:
+    Arcane Encyclopedia
+    Reclamation Sage
+    Stitcher's Supplier
+    Centaur Courser
+    Trumpet Blast
+--> Macabre Waltz
+    Disperse
+    Star-Crowned Stag
+    Hired Blade
+    Havoc Devils
+    Divination
+    Smelt
+    Rhox Oracle
+    Forest
+
+Pack 2 pick 3:
+    Desecrated Tomb
+    Aether Tunnel
+    Volley Veteran
+    Gargoyle Sentinel
+    Elvish Rejuvenator
+    Goblin Motivator
+--> Skeleton Archer
+    Salvager of Secrets
+    Inspired Charge
+    Boggart Brute
+    Centaur Courser
+    Field Creeper
+    Aven Wind Mage
+
+Pack 2 pick 4:
+    Reliquary Tower
+--> Ravenous Harpy
+    Oakenform
+    Smelt
+    Mind Rot
+    Scholar of Stars
+    Uncomfortable Chill
+    Wall of Vines
+    Havoc Devils
+    Naturalize
+    Root Snare
+    Plains
+
+Pack 2 pick 5:
+    Fraying Omnipotence
+    Psychic Corrosion
+    Druid of the Cowl
+    Snapping Drake
+    Invoke the Divine
+    Trumpet Blast
+    Catalyst Elemental
+    Plummet
+    Knight of the Tusk
+--> Epicure of Blood
+    Stone Quarry
+
+Pack 2 pick 6:
+    Scapeshift
+    Talons of Wildwood
+    Smelt
+--> Doomed Dissenter
+    Ghostform
+    Loxodon Line Breaker
+    Bristling Boar
+    Fire Elemental
+    Revitalize
+    Rabid Bite
+
+Pack 2 pick 7:
+    Inferno Hellion
+    Catalyst Elemental
+--> Infectious Horror
+    Wall of Mist
+    Centaur Courser
+    Loxodon Line Breaker
+    Greenwood Sentinel
+    Marauder's Axe
+    Forest
+
+Pack 2 pick 8:
+    Apex of Power
+--> Bogstomper
+    Frilled Sea Serpent
+    Knight's Pledge
+    Sure Strike
+    Talons of Wildwood
+    Salvager of Secrets
+    Island
+
+Pack 2 pick 9:
+    Elvish Clancaller
+    Uncomfortable Chill
+    Invoke the Divine
+    Knight of the Tusk
+    Fire Elemental
+--> Explosive Apparatus
+    Woodland Stream
+
+Pack 2 pick 10:
+--> Stitcher's Supplier
+    Centaur Courser
+    Disperse
+    Smelt
+    Rhox Oracle
+    Forest
+
+Pack 2 pick 11:
+--> Desecrated Tomb
+    Aether Tunnel
+    Goblin Motivator
+    Salvager of Secrets
+    Field Creeper
+
+Pack 2 pick 12:
+    Smelt
+    Wall of Vines
+    Root Snare
+--> Plains
+
+Pack 2 pick 13:
+--> Fraying Omnipotence
+    Catalyst Elemental
+    Knight of the Tusk
+
+Pack 2 pick 14:
+    Talons of Wildwood
+--> Smelt
+
+Pack 2 pick 15:
+--> Catalyst Elemental
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Magistrate's Scepter
+    Sleep
+    Reclamation Sage
+    Doublecast
+    Colossal Dreadmaw
+    Sparktongue Dragon
+    Walking Corpse
+    Divination
+    Knight's Pledge
+--> Bogstomper
+    Uncomfortable Chill
+    Scholar of Stars
+    Marauder's Axe
+    Aviation Pioneer
+    Island
+
+Pack 3 pick 2:
+    Mentor of the Meek
+    Blood Divination
+    Thud
+    Naturalize
+    Sure Strike
+--> Strangling Spores
+    Aven Wind Mage
+    Take Vengeance
+    Two-Headed Zombie
+    Infernal Scarring
+    Shock
+    Wall of Mist
+    Act of Treason
+    Highland Lake
+
+Pack 3 pick 3:
+    Fiery Finish
+    Inferno Hellion
+    Ajani's Welcome
+    Act of Treason
+    Infernal Scarring
+    Tolarian Scholar
+    Star-Crowned Stag
+    Oakenform
+    Anticipate
+    Rhox Oracle
+    Viashino Pyromancer
+--> Bogstomper
+    Stone Quarry
+
+Pack 3 pick 4:
+    Nightmare's Thirst
+    Draconic Disciple
+    Aethershield Artificer
+    Centaur Courser
+--> Infectious Horror
+    Tolarian Scholar
+    Goblin Motivator
+    Totally Lost
+    Greenwood Sentinel
+    Gearsmith Prodigy
+    Two-Headed Zombie
+    Mountain
+
+Pack 3 pick 5:
+    Mirror Image
+--> Nightmare's Thirst
+    Giant Spider
+    Goblin Motivator
+    Bogstomper
+    Dwindle
+    Invoke the Divine
+    Trusty Packbeast
+    Plummet
+    Infernal Scarring
+    Forest
+
+Pack 3 pick 6:
+--> Phylactery Lich
+    Fountain of Renewal
+    Tectonic Rift
+    Daggerback Basilisk
+    Gearsmith Prodigy
+    Rustwing Falcon
+    Two-Headed Zombie
+    Invoke the Divine
+    Manalith
+    Mountain
+
+Pack 3 pick 7:
+    Amulet of Safekeeping
+    Rogue's Gloves
+    Brawl-Bash Ogre
+--> Rise from the Grave
+    Tormenting Voice
+    Knight's Pledge
+    Epicure of Blood
+    Divination
+    Mountain
+
+Pack 3 pick 8:
+    Crucible of Worlds
+--> Stitcher's Supplier
+    Oakenform
+    Infectious Horror
+    Mind Rot
+    Tolarian Scholar
+    Walking Corpse
+    Submerged Boneyard
+
+Pack 3 pick 9:
+    Magistrate's Scepter
+--> Walking Corpse
+    Divination
+    Knight's Pledge
+    Uncomfortable Chill
+    Scholar of Stars
+    Island
+
+Pack 3 pick 10:
+    Thud
+--> Two-Headed Zombie
+    Infernal Scarring
+    Wall of Mist
+    Act of Treason
+    Highland Lake
+
+Pack 3 pick 11:
+    Inferno Hellion
+    Ajani's Welcome
+--> Infernal Scarring
+    Tolarian Scholar
+    Stone Quarry
+
+Pack 3 pick 12:
+    Draconic Disciple
+    Tolarian Scholar
+    Gearsmith Prodigy
+--> Mountain
+
+Pack 3 pick 13:
+--> Bogstomper
+    Infernal Scarring
+    Forest
+
+Pack 3 pick 14:
+--> Gearsmith Prodigy
+    Invoke the Divine
+
+Pack 3 pick 15:
+--> Mountain

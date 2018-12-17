@@ -1,0 +1,467 @@
+Event #: 31606
+Time:    14/09/18
+Players:
+    user
+    bot1
+    bot2
+    bot3
+--> bot4
+    bot5
+    bot6
+    bot7
+
+------ M19 ------ 
+
+Pack 1 pick 1:
+--> Spit Flame
+    Diregraf Ghoul
+    Horizon Scholar
+    Lightning Strike
+    Naturalize
+    Goblin Instigator
+    Skymarch Bloodletter
+    Uncomfortable Chill
+    Cavalry Drillmaster
+    Aven Wind Mage
+    Totally Lost
+    Epicure of Blood
+    Titanic Growth
+    Omenspeaker
+    Mountain
+
+Pack 1 pick 2:
+    Omniscience
+    Skyrider Patrol
+    Suspicious Bookcase
+    Brawl-Bash Ogre
+    Druid of the Cowl
+--> Shock
+    Walking Corpse
+    Frilled Sea Serpent
+    Invoke the Divine
+    Aviation Pioneer
+    Wall of Mist
+    Inspired Charge
+    Rhox Oracle
+    Island
+
+Pack 1 pick 3:
+    Magistrate's Scepter
+    Ravenous Harpy
+    Shield Mare
+    Wall of Vines
+    Lava Axe
+    Tolarian Scholar
+    Knight of the Tusk
+    Goblin Motivator
+    Strangling Spores
+    Onakke Ogre
+    Daybreak Chaplain
+    Dwindle
+--> Horizon Scholar
+
+Pack 1 pick 4:
+    Psychic Corrosion
+    Gift of Paradise
+    Colossal Dreadmaw
+    Smelt
+    Vampire Neonate
+    Gearsmith Prodigy
+    Knight's Pledge
+    Abnormal Endurance
+    Star-Crowned Stag
+    Doomed Dissenter
+--> Snapping Drake
+    Forsaken Sanctuary
+
+Pack 1 pick 5:
+--> Fell Specter
+    Giant Spider
+    Fire Elemental
+    Macabre Waltz
+    Totally Lost
+    Take Vengeance
+    Abnormal Endurance
+    Cavalry Drillmaster
+    Manalith
+    Anticipate
+    Mountain
+
+Pack 1 pick 6:
+--> Sift
+    Aether Tunnel
+    Hired Blade
+    Scholar of Stars
+    Trusty Packbeast
+    Aven Wind Mage
+    Duress
+    Angel of the Dawn
+    Infernal Scarring
+    Meandering River
+
+Pack 1 pick 7:
+    Elvish Clancaller
+    Doublecast
+--> Hostile Minotaur
+    Duress
+    Disperse
+    Dwarven Priest
+    Root Snare
+    Tormenting Voice
+    Swamp
+
+Pack 1 pick 8:
+    Crucible of Worlds
+    Infectious Horror
+    Cancel
+    Oreskos Swiftclaw
+    Thornhide Wolves
+    Plummet
+--> Omenspeaker
+    Island
+
+Pack 1 pick 9:
+    Naturalize
+    Uncomfortable Chill
+    Cavalry Drillmaster
+--> Aven Wind Mage
+    Totally Lost
+    Omenspeaker
+    Mountain
+
+Pack 1 pick 10:
+    Omniscience
+    Walking Corpse
+--> Frilled Sea Serpent
+    Wall of Mist
+    Inspired Charge
+    Island
+
+Pack 1 pick 11:
+--> Magistrate's Scepter
+    Wall of Vines
+    Lava Axe
+    Tolarian Scholar
+    Knight of the Tusk
+
+Pack 1 pick 12:
+    Gearsmith Prodigy
+    Knight's Pledge
+--> Abnormal Endurance
+    Forsaken Sanctuary
+
+Pack 1 pick 13:
+    Macabre Waltz
+--> Anticipate
+    Mountain
+
+Pack 1 pick 14:
+    Infernal Scarring
+--> Meandering River
+
+Pack 1 pick 15:
+--> Swamp
+
+------ M19 ------ 
+
+Pack 2 pick 1:
+    Dragon's Hoard
+    Ghirapur Guide
+    Declare Dominance
+--> Siegebreaker Giant
+    Greenwood Sentinel
+    Goblin Instigator
+    Duress
+    Salvager of Secrets
+    Knight's Pledge
+    Giant Spider
+    Marauder's Axe
+    Explosive Apparatus
+    Fire Elemental
+    Walking Corpse
+    Swamp
+
+Pack 2 pick 2:
+    Arcades, the Strategist
+    Ajani's Pridemate
+    Ghirapur Guide
+    Talons of Wildwood
+    Viashino Pyromancer
+--> Lich's Caress
+    Snapping Drake
+    Rustwing Falcon
+    Gearsmith Guardian
+    Luminous Bonds
+    Sure Strike
+    Tolarian Scholar
+    Mind Rot
+    Tranquil Expanse
+
+Pack 2 pick 3:
+--> Volley Veteran
+    Shield Mare
+    Knightly Valor
+    Centaur Courser
+    Tormenting Voice
+    Walking Corpse
+    Omenspeaker
+    Oreskos Swiftclaw
+    Explosive Apparatus
+    Gearsmith Guardian
+    Infernal Scarring
+    Havoc Devils
+    Aethershield Artificer
+
+Pack 2 pick 4:
+--> Declare Dominance
+    Reliquary Tower
+    Blood Divination
+    Bristling Boar
+    Mind Rot
+    Gearsmith Prodigy
+    Dwarven Priest
+    Revitalize
+    Sure Strike
+    Fire Elemental
+    Tolarian Scholar
+    Cinder Barrens
+
+Pack 2 pick 5:
+    Reclamation Sage
+    Ajani's Welcome
+    Highland Game
+    Hostile Minotaur
+    Epicure of Blood
+--> Divination
+    Inspired Charge
+    Greenwood Sentinel
+    Crash Through
+    Daybreak Chaplain
+    Woodland Stream
+
+Pack 2 pick 6:
+    Reliquary Tower
+--> Inferno Hellion
+    Colossal Dreadmaw
+    Two-Headed Zombie
+    Mighty Leap
+    Macabre Waltz
+    Catalyst Elemental
+    Revitalize
+    Bogstomper
+    Mountain
+
+Pack 2 pick 7:
+    Draconic Disciple
+    Catalyst Elemental
+    Infernal Scarring
+    Tolarian Scholar
+    Titanic Growth
+--> Daggerback Basilisk
+    Sure Strike
+    Child of Night
+    Forest
+
+Pack 2 pick 8:
+--> Bone to Ash
+    Colossal Dreadmaw
+    Trumpet Blast
+    Infectious Horror
+    Aven Wind Mage
+    Cavalry Drillmaster
+    Hired Blade
+    Epicure of Blood
+
+Pack 2 pick 9:
+--> Dragon's Hoard
+    Greenwood Sentinel
+    Duress
+    Knight's Pledge
+    Fire Elemental
+    Walking Corpse
+    Swamp
+
+Pack 2 pick 10:
+    Talons of Wildwood
+--> Gearsmith Guardian
+    Sure Strike
+    Tolarian Scholar
+    Mind Rot
+    Tranquil Expanse
+
+Pack 2 pick 11:
+    Tormenting Voice
+    Oreskos Swiftclaw
+--> Gearsmith Guardian
+    Infernal Scarring
+    Aethershield Artificer
+
+Pack 2 pick 12:
+    Reliquary Tower
+    Fire Elemental
+    Tolarian Scholar
+--> Cinder Barrens
+
+Pack 2 pick 13:
+--> Highland Game
+    Inspired Charge
+    Crash Through
+
+Pack 2 pick 14:
+--> Revitalize
+    Mountain
+
+Pack 2 pick 15:
+--> Forest
+
+------ M19 ------ 
+
+Pack 3 pick 1:
+    Prodigious Growth
+    Stitcher's Supplier
+    Gargoyle Sentinel
+    Aethershield Artificer
+    Colossal Dreadmaw
+--> Electrify
+    Bogstomper
+    Divination
+    Inspired Charge
+    Skymarch Bloodletter
+    Bristling Boar
+    Loxodon Line Breaker
+    Mighty Leap
+    Macabre Waltz
+    Woodland Stream
+
+Pack 3 pick 2:
+--> Skilled Animator
+    Make a Stand
+    Gravedigger
+    Plummet
+    Goblin Motivator
+    Macabre Waltz
+    Scholar of Stars
+    Star-Crowned Stag
+    Marauder's Axe
+    Oakenform
+    Giant Spider
+    Angel of the Dawn
+    Sovereign's Bite
+    Mountain
+
+Pack 3 pick 3:
+    Infernal Reckoning
+    Plague Mare
+    Psychic Symbiont
+    Talons of Wildwood
+    Tormenting Voice
+    Epicure of Blood
+--> Dwindle
+    Star-Crowned Stag
+    Aviation Pioneer
+    Disperse
+    Salvager of Secrets
+    Scholar of Stars
+    Mighty Leap
+
+Pack 3 pick 4:
+    Diregraf Ghoul
+    Druid of Horns
+    Talons of Wildwood
+    Sure Strike
+    Sovereign's Bite
+    Divination
+    Rustwing Falcon
+    Uncomfortable Chill
+    Invoke the Divine
+    Havoc Devils
+--> Skyscanner
+    Plains
+
+Pack 3 pick 5:
+    Recollect
+    Tectonic Rift
+    Sparktongue Dragon
+    Walking Corpse
+    Disperse
+    Loxodon Line Breaker
+    Manalith
+    Invoke the Divine
+    Frilled Sea Serpent
+--> Essence Scatter
+    Island
+
+Pack 3 pick 6:
+    Inferno Hellion
+    Child of Night
+    Gearsmith Prodigy
+    Luminous Bonds
+    Star-Crowned Stag
+    Naturalize
+--> Aven Wind Mage
+    Act of Treason
+    Anticipate
+    Swamp
+
+Pack 3 pick 7:
+    Alpine Moon
+    Millstone
+    Smelt
+--> Scholar of Stars
+    Infectious Horror
+    Abnormal Endurance
+    Mighty Leap
+    Two-Headed Zombie
+    Cinder Barrens
+
+Pack 3 pick 8:
+    Mistcaller
+    Ajani's Welcome
+--> Hired Blade
+    Gearsmith Prodigy
+    Infernal Scarring
+    Trumpet Blast
+    Loxodon Line Breaker
+    Plains
+
+Pack 3 pick 9:
+    Stitcher's Supplier
+--> Aethershield Artificer
+    Bogstomper
+    Inspired Charge
+    Loxodon Line Breaker
+    Mighty Leap
+    Woodland Stream
+
+Pack 3 pick 10:
+--> Make a Stand
+    Goblin Motivator
+    Macabre Waltz
+    Oakenform
+    Sovereign's Bite
+    Mountain
+
+Pack 3 pick 11:
+    Infernal Reckoning
+    Disperse
+    Salvager of Secrets
+--> Scholar of Stars
+    Mighty Leap
+
+Pack 3 pick 12:
+    Sovereign's Bite
+    Rustwing Falcon
+--> Uncomfortable Chill
+    Plains
+
+Pack 3 pick 13:
+    Walking Corpse
+--> Disperse
+    Island
+
+Pack 3 pick 14:
+--> Gearsmith Prodigy
+    Swamp
+
+Pack 3 pick 15:
+--> Infectious Horror
