@@ -16,7 +16,7 @@ def add_draft_to_dataframe(df, draft_file, card_dict, start_index):
     current_deck = np.zeros(281)
     with open(draft_file, 'r') as f:
         if(f.readline() == '<h1>Server Error (500)</h1>'):
-            print(draft_file)
+            # print(draft_file)
             return df
         for i in range(10): # get rid of starting lines
             f.readline()
@@ -57,8 +57,11 @@ def list_split(original_list, n_lists):
 
 def task(args):
 	df = pd.DataFrame()
+	print(len(args[0]))
 	for file in args[0]:
 		df = add_draft_to_dataframe(df=df, draft_file='../M19_draft_logs/' + file, card_dict=args[1], start_index=args[2])
+
+	print("Task Finished")
 	
 	return df
 
@@ -101,6 +104,7 @@ def main():
 	df = pd.concat(pool.map(task, args_list))
 	pool.close()
 	pool.join()
+	df.columns = df_col
 	df.to_csv('draftlogs.csv')
 
 if __name__ == "__main__":
