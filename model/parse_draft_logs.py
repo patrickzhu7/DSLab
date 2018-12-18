@@ -12,38 +12,38 @@ def add_draft_to_dataframe(df, draft_file, card_dict, start_index):
     
     output: DataFrame, note that DataFrame is not changed in place
     """
-    count = 0
-    df2 = pd.DataFrame()
-    current_deck = np.zeros(281)
-    with open(draft_file, 'r') as f:
-        if(f.readline() == '<h1>Server Error (500)</h1>'):
-            # print(draft_file)
-            return df
-        for i in range(10): # get rid of starting lines
-            f.readline()
-            
-        for a in range(3): #do this 3 times (for each pack)
-            for i in range(2): #get rid of "-- M19 --""
-                f.readline()  
-            for b in range(15, 0, -1):
-                f.readline() # get rid of empty
-                f.readline() # get rid of "Pack X pick X"
-                current_board = np.zeros(281)
-                current_y = np.zeros(1)
-                for i in range(b):  
-                    line = f.readline()
-                    card_id = card_dict[line[4:].rstrip()]
-                    
-                    if(line[0:3] == "-->"):
-                        current_y = card_id
-                    
-                    current_board[card_id - start_index] += 1
-                row = pd.Series(np.concatenate([current_deck, current_board, current_y], axis=None))
-                df2 = df2.append(row, ignore_index=True)
-                count += 1
-                current_deck[current_y-start_index] += 1
-    
-    return df.append(df2)
+    try:
+    	count = 0
+    	df2 = pd.DataFrame()
+    	current_deck = np.zeros(281)
+    	with open(draft_file, 'r') as f:
+    		for i in range(11): # get rid of starting lines
+    			f.readline()
+    			
+    		for a in range(3): #do this 3 times (for each pack)
+    			for i in range(2): #get rid of "-- M19 --""
+    				f.readline()  
+    			for b in range(15, 0, -1):
+    				f.readline() # get rid of empty
+    				f.readline() # get rid of "Pack X pick X"
+    				current_board = np.zeros(281)
+    				current_y = np.zeros(1)
+    				for i in range(b):  
+    					line = f.readline()
+    					card_id = card_dict[line[4:].rstrip()]
+    					
+    					if(line[0:3] == "-->"):
+    						current_y = card_id
+    					
+    					current_board[card_id - start_index] += 1
+    				row = pd.Series(np.concatenate([current_deck, current_board, current_y], axis=None))
+    				df2 = df2.append(row, ignore_index=True)
+    				count += 1
+    				current_deck[current_y-start_index] += 1
+		
+    	return df.append(df2)
+    except:
+    	return df
 
 def list_split(original_list, n_lists):
 	avg = len(original_list) / float(n_lists)
@@ -93,6 +93,7 @@ def main():
 	
 	# Split into N lists where N is # of cores
 	onlyfiles = [f for f in listdir('../M19_draft_logs/') if isfile(join('../M19_draft_logs/', f))]
+	onlyfiles = onlyfiles[-4000:]
 	files_split = list_split(onlyfiles, cpu_count())
 
 	# Use list of tuples to pass args around
