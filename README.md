@@ -2,7 +2,7 @@
 
 
 ### Note
-We apologize for the state of the repository, we threw this repo together for a Data Science Lab project. Cleaning will be done when we return from break (hopefully). If you need help understanding anything please feel free to reach out to me. Email: samuel.h.zhang (at) utexas.edu
+We apologize for the state of the repository, we threw this repo together for a Data Science Lab project. Cleaning will be done when we return from break (hopefully). If you need help understanding anything please feel free to reach out to us. Email: samuel.h.zhang (at) utexas.edu
 
 Most .py and .ipynb are scripts to scrape or process data. A few exceptions are for generating models/data.
 
